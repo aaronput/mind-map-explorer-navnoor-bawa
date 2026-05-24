@@ -1,0 +1,5168 @@
+{
+  "publication": {
+    "name": "Navnoor Bawa",
+    "tagline": "Quantitative Researcher",
+    "url": "https://navnoorbawa.substack.com/",
+    "post_count": 213
+  },
+  "clusters": [
+    {
+      "name": "Quant Methods",
+      "color": "#4e79a7"
+    },
+    {
+      "name": "Hedge Fund Strategy",
+      "color": "#e15759"
+    },
+    {
+      "name": "Macro & Geopolitics",
+      "color": "#f28e2b"
+    },
+    {
+      "name": "FX & EM",
+      "color": "#76b7b2"
+    },
+    {
+      "name": "Credit & Private Credit",
+      "color": "#59a14f"
+    },
+    {
+      "name": "Commodities",
+      "color": "#edc948"
+    },
+    {
+      "name": "Microstructure & Regulation",
+      "color": "#b07aa1"
+    },
+    {
+      "name": "Alternative Markets",
+      "color": "#ff9da7"
+    },
+    {
+      "name": "Other",
+      "color": "#9c755f"
+    }
+  ],
+  "threads": [
+    {
+      "id": "t0",
+      "slug": "the-cramer-rao-bound-killed-ltcm",
+      "title": "The Cramer-Rao Bound Killed LTCM. It's Why the SEC Just Fined Two Sigma $90M.",
+      "url": "https://navnoorbawa.substack.com/p/the-cramer-rao-bound-killed-ltcm",
+      "date": "2026-05-16",
+      "summary": "Fisher Information sets a hard ceiling on every quant fund's Sharpe ratio.",
+      "concepts": [
+        "Cram\u00e9r-Rao / Fisher Info"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t1",
+      "slug": "market-making-alpha-how-virtu-won",
+      "title": "Market Making Alpha: How Virtu Won 1,237 Days \u2014 and Why Jane Street Keeps Ending Up in Court",
+      "url": "https://navnoorbawa.substack.com/p/market-making-alpha-how-virtu-won",
+      "date": "2026-05-08",
+      "summary": "Court filings, SEC orders, peer-reviewed papers, and executive interviews on market-making alpha.",
+      "concepts": [
+        "Virtu",
+        "Market Making",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t2",
+      "slug": "axie-infinity-cs2-skins-and-roblox",
+      "title": "Axie Infinity, CS2 Skins, and Roblox: How Hedge Funds Built Gaming Currency Alpha",
+      "url": "https://navnoorbawa.substack.com/p/axie-infinity-cs2-skins-and-roblox",
+      "date": "2026-04-24",
+      "summary": "Every claim links directly to its source \u2014 interview, news report, investor letter, or court document.",
+      "concepts": [
+        "Gaming Markets"
+      ],
+      "cluster": "Alternative Markets",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t3",
+      "slug": "how-institutional-traders-exploit",
+      "title": "How Institutional Traders Exploit",
+      "url": "https://navnoorbawa.substack.com/p/how-institutional-traders-exploit",
+      "date": "2026-04-24",
+      "summary": "Substack post \u00b7 2026-04-24",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t4",
+      "slug": "the-179-billion-loop",
+      "title": "The 179 Billion Loop",
+      "url": "https://navnoorbawa.substack.com/p/the-179-billion-loop",
+      "date": "2026-04-18",
+      "summary": "Substack post \u00b7 2026-04-18",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t5",
+      "slug": "how-hedge-funds-made-billions-from",
+      "title": "How Hedge Funds Made Billions From SoftBank: Five Structural Trades",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-billions-from",
+      "date": "2026-04-12",
+      "summary": "Elliott's activist campaign and the Alibaba prepaid forward collar \u2014 every trade and mechanism.",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t6",
+      "slug": "non-deliverable-forwards-ndfs-and",
+      "title": "Non-Deliverable Forwards (NDFs) and Emerging Market Currency Alpha",
+      "url": "https://navnoorbawa.substack.com/p/non-deliverable-forwards-ndfs-and",
+      "date": "2026-04-07",
+      "summary": "Directional currency attacks, carry trades, basis arbitrage, fixing window exploitation.",
+      "concepts": [
+        "FX",
+        "Forwards/Futures"
+      ],
+      "cluster": "FX & EM",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t7",
+      "slug": "how-hedge-funds-turned-defense-stocks",
+      "title": "How Hedge Funds Turned Defense Stocks Into Their Best Trade of 2022",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-turned-defense-stocks",
+      "date": "2026-04-03",
+      "summary": "Every claim carries a direct source link. No assertions without evidence.",
+      "concepts": [
+        "Equities"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t8",
+      "slug": "iran-war-hedge-fund-alpha-map-every",
+      "title": "Iran War Hedge Fund Alpha Map: Every Winner, Every Loser",
+      "url": "https://navnoorbawa.substack.com/p/iran-war-hedge-fund-alpha-map-every",
+      "date": "2026-03-30",
+      "summary": "Pre-war CFTC crude positioning and the three-driver bond selloff.",
+      "concepts": [
+        "Iran War",
+        "Geopolitics",
+        "Performance"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t9",
+      "slug": "joint-spxvix-calibration-follow-up",
+      "title": "Joint SPX/VIX Calibration Follow-Up: Bates SVJ Degenerates on Daily Data",
+      "url": "https://navnoorbawa.substack.com/p/joint-spxvix-calibration-follow-up",
+      "date": "2026-03-28",
+      "summary": "Bates SVJ degenerates on daily data, HMM fails on novel crises, one logic fix recovers $300K.",
+      "concepts": [
+        "Volatility",
+        "Calibration"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t10",
+      "slug": "indias-oil-war-market-crisis-30-day",
+      "title": "India's Oil-War Market Crisis: 30-Day Nifty Outlook",
+      "url": "https://navnoorbawa.substack.com/p/indias-oil-war-market-crisis-30-day",
+      "date": "2026-03-26",
+      "summary": "Built from RBI working papers, MUFG proprietary research, and SEBI's March 13 circular.",
+      "concepts": [
+        "Commodities",
+        "India",
+        "Geopolitics",
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t11",
+      "slug": "the-holy-grail-of-volatility-modelling",
+      "title": "The Holy Grail of Volatility Modelling: What Happens When You Actually Try to Build It",
+      "url": "https://navnoorbawa.substack.com/p/the-holy-grail-of-volatility-modelling",
+      "date": "2026-03-25",
+      "summary": "Quantitative volatility research from first principles.",
+      "concepts": [
+        "Volatility"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t12",
+      "slug": "iran-war-oil-shock-2928-hedge-fund",
+      "title": "Iran War Oil Shock, 292.8% Hedge Fund Leverage, and Powell's Last FOMC",
+      "url": "https://navnoorbawa.substack.com/p/iran-war-oil-shock-2928-hedge-fund",
+      "date": "2026-03-22",
+      "summary": "30-Day market outlook, April FOMC reaction function, institutional liquidation protocol.",
+      "concepts": [
+        "Commodities",
+        "Iran War",
+        "Geopolitics"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t13",
+      "slug": "the-desert-playbook-how-hedge-funds",
+      "title": "The Desert Playbook: How Hedge Funds Extracted Alpha from Dubai",
+      "url": "https://navnoorbawa.substack.com/p/the-desert-playbook-how-hedge-funds",
+      "date": "2026-03-19",
+      "summary": "AED peg speculation, Dubai World CDS, Nakheel distressed sukuk, Emaar.",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t14",
+      "slug": "how-hedge-funds-profit-every-time",
+      "title": "How Hedge Funds Profit Every Time",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-profit-every-time",
+      "date": "2026-03-16",
+      "summary": "Substack post \u00b7 2026-03-16",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t15",
+      "slug": "the-index-fund-toll-booth-how-hedge",
+      "title": "The Index Fund Toll Booth How Hedge",
+      "url": "https://navnoorbawa.substack.com/p/the-index-fund-toll-booth-how-hedge",
+      "date": "2026-03-13",
+      "summary": "Substack post \u00b7 2026-03-13",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t16",
+      "slug": "how-blackrocks-esg-retreat-triggered",
+      "title": "How Blackrocks ESG Retreat Triggered",
+      "url": "https://navnoorbawa.substack.com/p/how-blackrocks-esg-retreat-triggered",
+      "date": "2026-03-11",
+      "summary": "Substack post \u00b7 2026-03-11",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t17",
+      "slug": "elliott-management-azoria-and-the",
+      "title": "ELLIOTT Management Azoria And The",
+      "url": "https://navnoorbawa.substack.com/p/elliott-management-azoria-and-the",
+      "date": "2026-03-09",
+      "summary": "Substack post \u00b7 2026-03-09",
+      "concepts": [
+        "Elliott Management"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t18",
+      "slug": "the-2022-uk-gilt-market-crisis-how",
+      "title": "The 2022 UK Gilt Market Crisis How",
+      "url": "https://navnoorbawa.substack.com/p/the-2022-uk-gilt-market-crisis-how",
+      "date": "2026-03-07",
+      "summary": "Substack post \u00b7 2026-03-07",
+      "concepts": [
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t19",
+      "slug": "gold-65-silver-144-in-2025-how-bridgewater",
+      "title": "Gold 65 Silver 144 In 2025 How BRIDGEWATER",
+      "url": "https://navnoorbawa.substack.com/p/gold-65-silver-144-in-2025-how-bridgewater",
+      "date": "2026-03-06",
+      "summary": "Substack post \u00b7 2026-03-06",
+      "concepts": [
+        "Bridgewater",
+        "Commodities"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t20",
+      "slug": "how-hedge-funds-monetise-options",
+      "title": "How Hedge Funds Monetise Options",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-monetise-options",
+      "date": "2026-03-06",
+      "summary": "Substack post \u00b7 2026-03-06",
+      "concepts": [
+        "Volatility",
+        "Options"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t21",
+      "slug": "the-trade-war-dividend-druckenmillers",
+      "title": "The Trade War Dividend Druckenmillers",
+      "url": "https://navnoorbawa.substack.com/p/the-trade-war-dividend-druckenmillers",
+      "date": "2026-03-05",
+      "summary": "Substack post \u00b7 2026-03-05",
+      "concepts": [
+        "Geopolitics"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t22",
+      "slug": "blood-crude-and-capital-how-russias",
+      "title": "Blood Crude And CAPITAL How Russias",
+      "url": "https://navnoorbawa.substack.com/p/blood-crude-and-capital-how-russias",
+      "date": "2026-03-04",
+      "summary": "Substack post \u00b7 2026-03-04",
+      "concepts": [
+        "Commodities",
+        "Russia/Ukraine"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t23",
+      "slug": "securities-class-action-settlements",
+      "title": "Securities Class Action Settlements",
+      "url": "https://navnoorbawa.substack.com/p/securities-class-action-settlements",
+      "date": "2026-03-03",
+      "summary": "Substack post \u00b7 2026-03-03",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t24",
+      "slug": "how-hedge-funds-pre-positioned-for",
+      "title": "How Hedge Funds Pre Positioned For",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-pre-positioned-for",
+      "date": "2026-03-02",
+      "summary": "Substack post \u00b7 2026-03-02",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t25",
+      "slug": "how-hedge-funds-systematically-profit",
+      "title": "How Hedge Funds Systematically Profit",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-systematically-profit",
+      "date": "2026-03-01",
+      "summary": "Substack post \u00b7 2026-03-01",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t26",
+      "slug": "the-three-trades-inside-japans-halo",
+      "title": "The Three Trades Inside Japans Halo",
+      "url": "https://navnoorbawa.substack.com/p/the-three-trades-inside-japans-halo",
+      "date": "2026-02-28",
+      "summary": "Substack post \u00b7 2026-02-28",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t27",
+      "slug": "koreas-170-billion-retail-wave-broadcast",
+      "title": "Koreas 170 Billion Retail Wave Broadcast",
+      "url": "https://navnoorbawa.substack.com/p/koreas-170-billion-retail-wave-broadcast",
+      "date": "2026-02-27",
+      "summary": "Substack post \u00b7 2026-02-27",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t28",
+      "slug": "the-cme-group-outage-november-2025",
+      "title": "The CME Group Outage November 2025",
+      "url": "https://navnoorbawa.substack.com/p/the-cme-group-outage-november-2025",
+      "date": "2026-02-25",
+      "summary": "Substack post \u00b7 2026-02-25",
+      "concepts": [
+        "CME"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t29",
+      "slug": "the-36-billion-forecast-edge-how",
+      "title": "The 36 Billion Forecast Edge How",
+      "url": "https://navnoorbawa.substack.com/p/the-36-billion-forecast-edge-how",
+      "date": "2026-02-24",
+      "summary": "Substack post \u00b7 2026-02-24",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t30",
+      "slug": "eu-ets-alpha-andurands-3085-eua-trade",
+      "title": "EU ETS Alpha Andurands 3085 EUA Trade",
+      "url": "https://navnoorbawa.substack.com/p/eu-ets-alpha-andurands-3085-eua-trade",
+      "date": "2026-02-23",
+      "summary": "Substack post \u00b7 2026-02-23",
+      "concepts": [
+        "Europe",
+        "Performance"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t31",
+      "slug": "the-energy-trading-edge-how-hedge",
+      "title": "The Energy Trading Edge How Hedge",
+      "url": "https://navnoorbawa.substack.com/p/the-energy-trading-edge-how-hedge",
+      "date": "2026-02-23",
+      "summary": "Substack post \u00b7 2026-02-23",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t32",
+      "slug": "us-investment-grade-spreads-hit-30",
+      "title": "US Investment Grade Spreads Hit 30",
+      "url": "https://navnoorbawa.substack.com/p/us-investment-grade-spreads-hit-30",
+      "date": "2026-02-21",
+      "summary": "Substack post \u00b7 2026-02-21",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t33",
+      "slug": "kem-one-apollos-600m-acquisition",
+      "title": "Kem One Apollos 600m Acquisition",
+      "url": "https://navnoorbawa.substack.com/p/kem-one-apollos-600m-acquisition",
+      "date": "2026-02-20",
+      "summary": "Substack post \u00b7 2026-02-20",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t34",
+      "slug": "how-druckenmiller-rokos-and-vista",
+      "title": "How Druckenmiller Rokos And Vista",
+      "url": "https://navnoorbawa.substack.com/p/how-druckenmiller-rokos-and-vista",
+      "date": "2026-02-19",
+      "summary": "Substack post \u00b7 2026-02-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t35",
+      "slug": "how-hedge-funds-basis-traders-and",
+      "title": "How Hedge Funds Basis Traders And",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-basis-traders-and",
+      "date": "2026-02-18",
+      "summary": "Substack post \u00b7 2026-02-18",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t36",
+      "slug": "black-scholes-is-a-quoting-language",
+      "title": "Black Scholes Is A Quoting Language",
+      "url": "https://navnoorbawa.substack.com/p/black-scholes-is-a-quoting-language",
+      "date": "2026-02-18",
+      "summary": "Substack post \u00b7 2026-02-18",
+      "concepts": [
+        "Black-Scholes"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t37",
+      "slug": "inside-costars-3-billion-homescom",
+      "title": "Inside Costars 3 Billion Homescom",
+      "url": "https://navnoorbawa.substack.com/p/inside-costars-3-billion-homescom",
+      "date": "2026-02-17",
+      "summary": "Substack post \u00b7 2026-02-17",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t38",
+      "slug": "mason-capital-management-from-ascents",
+      "title": "Mason CAPITAL Management From Ascents",
+      "url": "https://navnoorbawa.substack.com/p/mason-capital-management-from-ascents",
+      "date": "2026-02-16",
+      "summary": "Substack post \u00b7 2026-02-16",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t39",
+      "slug": "first-brands-23b-fraud-2025-the-complete",
+      "title": "First Brands 23b Fraud 2025 The Complete",
+      "url": "https://navnoorbawa.substack.com/p/first-brands-23b-fraud-2025-the-complete",
+      "date": "2026-02-15",
+      "summary": "Substack post \u00b7 2026-02-15",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t40",
+      "slug": "inside-da-vinci-tradings-multi-market",
+      "title": "Inside da VINCI Tradings Multi Market",
+      "url": "https://navnoorbawa.substack.com/p/inside-da-vinci-tradings-multi-market",
+      "date": "2026-02-15",
+      "summary": "Substack post \u00b7 2026-02-15",
+      "concepts": [
+        "Da Vinci"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t41",
+      "slug": "blue-owl-capital-obdc-merger-failure",
+      "title": "BLUE OWL CAPITAL OBDC Merger Failure",
+      "url": "https://navnoorbawa.substack.com/p/blue-owl-capital-obdc-merger-failure",
+      "date": "2026-02-14",
+      "summary": "Substack post \u00b7 2026-02-14",
+      "concepts": [
+        "Blue Owl",
+        "Private Credit",
+        "Event-Driven"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t42",
+      "slug": "boaz-weinsteins-5-engine-strategy",
+      "title": "Boaz Weinsteins 5 Engine Strategy",
+      "url": "https://navnoorbawa.substack.com/p/boaz-weinsteins-5-engine-strategy",
+      "date": "2026-02-13",
+      "summary": "Substack post \u00b7 2026-02-13",
+      "concepts": [
+        "Boaz Weinstein"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t43",
+      "slug": "2025-hedge-fund-performance-analysis",
+      "title": "2025 Hedge Fund Performance Analysis",
+      "url": "https://navnoorbawa.substack.com/p/2025-hedge-fund-performance-analysis",
+      "date": "2026-02-12",
+      "summary": "Substack post \u00b7 2026-02-12",
+      "concepts": [
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t44",
+      "slug": "elliott-managements-ac-milan-investment",
+      "title": "ELLIOTT Managements Ac Milan Investment",
+      "url": "https://navnoorbawa.substack.com/p/elliott-managements-ac-milan-investment",
+      "date": "2026-02-11",
+      "summary": "Substack post \u00b7 2026-02-11",
+      "concepts": [
+        "Elliott Management"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t45",
+      "slug": "alphabets-20-billion-bond-offering",
+      "title": "Alphabets 20 Billion Bond Offering",
+      "url": "https://navnoorbawa.substack.com/p/alphabets-20-billion-bond-offering",
+      "date": "2026-02-10",
+      "summary": "Substack post \u00b7 2026-02-10",
+      "concepts": [
+        "Fixed Income"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t46",
+      "slug": "how-36-souths-long-volatility-strategy",
+      "title": "How 36 Souths Long Volatility Strategy",
+      "url": "https://navnoorbawa.substack.com/p/how-36-souths-long-volatility-strategy",
+      "date": "2026-02-10",
+      "summary": "Substack post \u00b7 2026-02-10",
+      "concepts": [
+        "Volatility"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t47",
+      "slug": "the-illiquidity-arbitrage-playbook",
+      "title": "The Illiquidity Arbitrage Playbook",
+      "url": "https://navnoorbawa.substack.com/p/the-illiquidity-arbitrage-playbook",
+      "date": "2026-02-09",
+      "summary": "Substack post \u00b7 2026-02-09",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t48",
+      "slug": "tanakas-formula-in-practice-how-hedge",
+      "title": "Tanakas Formula In Practice How Hedge",
+      "url": "https://navnoorbawa.substack.com/p/tanakas-formula-in-practice-how-hedge",
+      "date": "2026-02-09",
+      "summary": "Substack post \u00b7 2026-02-09",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t49",
+      "slug": "music-royalty-tax-arbitrage-how-institutional",
+      "title": "Music Royalty Tax Arbitrage How Institutional",
+      "url": "https://navnoorbawa.substack.com/p/music-royalty-tax-arbitrage-how-institutional",
+      "date": "2026-02-08",
+      "summary": "Substack post \u00b7 2026-02-08",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t50",
+      "slug": "leap-year-alpha-how-the-366th-day",
+      "title": "Leap Year Alpha How The 366th Day",
+      "url": "https://navnoorbawa.substack.com/p/leap-year-alpha-how-the-366th-day",
+      "date": "2026-02-07",
+      "summary": "Substack post \u00b7 2026-02-07",
+      "concepts": [
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t51",
+      "slug": "the-forensic-playbook-point72s-56",
+      "title": "The Forensic Playbook Point72s 56",
+      "url": "https://navnoorbawa.substack.com/p/the-forensic-playbook-point72s-56",
+      "date": "2026-02-06",
+      "summary": "Substack post \u00b7 2026-02-06",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t52",
+      "slug": "from-soross-2b-win-to-ltcms-46b-loss",
+      "title": "From Soross 2b Win To Ltcms 46b Loss",
+      "url": "https://navnoorbawa.substack.com/p/from-soross-2b-win-to-ltcms-46b-loss",
+      "date": "2026-02-05",
+      "summary": "Substack post \u00b7 2026-02-05",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t53",
+      "slug": "how-hedge-funds-made-billions-in-324",
+      "title": "How Hedge Funds Made Billions In 324",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-billions-in-324",
+      "date": "2026-02-04",
+      "summary": "Substack post \u00b7 2026-02-04",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t54",
+      "slug": "how-hedge-funds-made-billions-in",
+      "title": "How Hedge Funds Made Billions In",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-billions-in",
+      "date": "2026-02-03",
+      "summary": "Substack post \u00b7 2026-02-03",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t55",
+      "slug": "odeys-193-return-explained-how-hedge",
+      "title": "Odeys 193 Return Explained How Hedge",
+      "url": "https://navnoorbawa.substack.com/p/odeys-193-return-explained-how-hedge",
+      "date": "2026-02-02",
+      "summary": "Substack post \u00b7 2026-02-02",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t56",
+      "slug": "6-market-mechanisms-that-generated",
+      "title": "6 Market Mechanisms That Generated",
+      "url": "https://navnoorbawa.substack.com/p/6-market-mechanisms-that-generated",
+      "date": "2026-02-01",
+      "summary": "Substack post \u00b7 2026-02-01",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t57",
+      "slug": "the-250b-ipo-underpricing-system",
+      "title": "The 250b IPO Underpricing System",
+      "url": "https://navnoorbawa.substack.com/p/the-250b-ipo-underpricing-system",
+      "date": "2026-01-31",
+      "summary": "Substack post \u00b7 2026-01-31",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t58",
+      "slug": "inside-deutsche-banks-10b-collapse",
+      "title": "Inside Deutsche Banks 10b Collapse",
+      "url": "https://navnoorbawa.substack.com/p/inside-deutsche-banks-10b-collapse",
+      "date": "2026-01-30",
+      "summary": "Substack post \u00b7 2026-01-30",
+      "concepts": [
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t59",
+      "slug": "how-elite-traders-made-250b-from",
+      "title": "How Elite Traders Made 250b From",
+      "url": "https://navnoorbawa.substack.com/p/how-elite-traders-made-250b-from",
+      "date": "2026-01-29",
+      "summary": "Substack post \u00b7 2026-01-29",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t60",
+      "slug": "inside-scott-bessents-30-return-how",
+      "title": "Inside Scott Bessents 30 Return How",
+      "url": "https://navnoorbawa.substack.com/p/inside-scott-bessents-30-return-how",
+      "date": "2026-01-28",
+      "summary": "Substack post \u00b7 2026-01-28",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t61",
+      "slug": "inside-kite-lake-capitals-2b-event",
+      "title": "Inside Kite Lake Capitals 2b Event",
+      "url": "https://navnoorbawa.substack.com/p/inside-kite-lake-capitals-2b-event",
+      "date": "2026-01-27",
+      "summary": "Substack post \u00b7 2026-01-27",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t62",
+      "slug": "4-hidden-market-mechanisms-that-make",
+      "title": "4 Hidden Market Mechanisms That Make",
+      "url": "https://navnoorbawa.substack.com/p/4-hidden-market-mechanisms-that-make",
+      "date": "2026-01-26",
+      "summary": "Substack post \u00b7 2026-01-26",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t63",
+      "slug": "inside-the-tcp-packet-splitting-exploit",
+      "title": "Inside The Tcp Packet Splitting Exploit",
+      "url": "https://navnoorbawa.substack.com/p/inside-the-tcp-packet-splitting-exploit",
+      "date": "2026-01-25",
+      "summary": "Substack post \u00b7 2026-01-25",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t64",
+      "slug": "copper-tcrcs-hit-60-why-andurand",
+      "title": "Copper TCRCS Hit 60 Why Andurand",
+      "url": "https://navnoorbawa.substack.com/p/copper-tcrcs-hit-60-why-andurand",
+      "date": "2026-01-24",
+      "summary": "Substack post \u00b7 2026-01-24",
+      "concepts": [
+        "Andurand",
+        "Commodities"
+      ],
+      "cluster": "Commodities",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t65",
+      "slug": "20-billion-in-3-credit-trades-how",
+      "title": "20 Billion In 3 Credit Trades How",
+      "url": "https://navnoorbawa.substack.com/p/20-billion-in-3-credit-trades-how",
+      "date": "2026-01-23",
+      "summary": "Substack post \u00b7 2026-01-23",
+      "concepts": [
+        "Fixed Income",
+        "Credit"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t66",
+      "slug": "inside-the-oil-trades-that-generated",
+      "title": "Inside The Oil Trades That Generated",
+      "url": "https://navnoorbawa.substack.com/p/inside-the-oil-trades-that-generated",
+      "date": "2026-01-22",
+      "summary": "Substack post \u00b7 2026-01-22",
+      "concepts": [
+        "Commodities"
+      ],
+      "cluster": "Commodities",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t67",
+      "slug": "volatility-trading-case-studies-bill",
+      "title": "Volatility Trading Case Studies Bill",
+      "url": "https://navnoorbawa.substack.com/p/volatility-trading-case-studies-bill",
+      "date": "2026-01-21",
+      "summary": "Substack post \u00b7 2026-01-21",
+      "concepts": [
+        "Volatility"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t68",
+      "slug": "tci-fund-management-2025-inside-chris",
+      "title": "Tci Fund Management 2025 Inside Chris",
+      "url": "https://navnoorbawa.substack.com/p/tci-fund-management-2025-inside-chris",
+      "date": "2026-01-20",
+      "summary": "Substack post \u00b7 2026-01-20",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t69",
+      "slug": "investigative-short-sellers-vs-systematic",
+      "title": "Investigative Short Sellers Vs Systematic",
+      "url": "https://navnoorbawa.substack.com/p/investigative-short-sellers-vs-systematic",
+      "date": "2026-01-19",
+      "summary": "Substack post \u00b7 2026-01-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t70",
+      "slug": "how-hedge-funds-made-5b-from-sovereign",
+      "title": "How Hedge Funds Made 5b From Sovereign",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-5b-from-sovereign",
+      "date": "2026-01-18",
+      "summary": "Substack post \u00b7 2026-01-18",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t71",
+      "slug": "florida-captured-11-of-new-hedge",
+      "title": "Florida Captured 11 Of New Hedge",
+      "url": "https://navnoorbawa.substack.com/p/florida-captured-11-of-new-hedge",
+      "date": "2026-01-17",
+      "summary": "Substack post \u00b7 2026-01-17",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t72",
+      "slug": "bobby-jains-new-hedge-fund-complete",
+      "title": "Bobby Jains New Hedge Fund Complete",
+      "url": "https://navnoorbawa.substack.com/p/bobby-jains-new-hedge-fund-complete",
+      "date": "2026-01-16",
+      "summary": "Substack post \u00b7 2026-01-16",
+      "concepts": [
+        "Bobby Jain"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t73",
+      "slug": "the-2-trillion-treasury-basis-trade",
+      "title": "The 2 Trillion Treasury Basis Trade",
+      "url": "https://navnoorbawa.substack.com/p/the-2-trillion-treasury-basis-trade",
+      "date": "2026-01-15",
+      "summary": "Substack post \u00b7 2026-01-15",
+      "concepts": [
+        "Fixed Income",
+        "Arbitrage"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t74",
+      "slug": "how-nick-train-lost-16-billion-in",
+      "title": "How Nick Train Lost 16 Billion In",
+      "url": "https://navnoorbawa.substack.com/p/how-nick-train-lost-16-billion-in",
+      "date": "2026-01-14",
+      "summary": "Substack post \u00b7 2026-01-14",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t75",
+      "slug": "how-prime-brokers-make-37b-revenue",
+      "title": "How Prime Brokers Make 37b Revenue",
+      "url": "https://navnoorbawa.substack.com/p/how-prime-brokers-make-37b-revenue",
+      "date": "2026-01-13",
+      "summary": "Substack post \u00b7 2026-01-13",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t76",
+      "slug": "why-one-hedge-fund-returned-21-while",
+      "title": "Why One Hedge Fund Returned 21 While",
+      "url": "https://navnoorbawa.substack.com/p/why-one-hedge-fund-returned-21-while",
+      "date": "2026-01-12",
+      "summary": "Substack post \u00b7 2026-01-12",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t77",
+      "slug": "i-mapped-every-entry-level-position",
+      "title": "I Mapped Every Entry Level Position",
+      "url": "https://navnoorbawa.substack.com/p/i-mapped-every-entry-level-position",
+      "date": "2026-01-11",
+      "summary": "Substack post \u00b7 2026-01-11",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t78",
+      "slug": "how-one-trader-made-1-billion-in",
+      "title": "How One Trader Made 1 Billion In",
+      "url": "https://navnoorbawa.substack.com/p/how-one-trader-made-1-billion-in",
+      "date": "2026-01-11",
+      "summary": "Substack post \u00b7 2026-01-11",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t79",
+      "slug": "eight-banks-paid-13b-for-silver-manipulation",
+      "title": "Eight Banks Paid 13b For Silver Manipulation",
+      "url": "https://navnoorbawa.substack.com/p/eight-banks-paid-13b-for-silver-manipulation",
+      "date": "2026-01-10",
+      "summary": "Substack post \u00b7 2026-01-10",
+      "concepts": [
+        "Commodities",
+        "Court / Legal"
+      ],
+      "cluster": "Commodities",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t80",
+      "slug": "how-bluecrest-made-6-billion-shorting",
+      "title": "How BLUECREST Made 6 Billion Shorting",
+      "url": "https://navnoorbawa.substack.com/p/how-bluecrest-made-6-billion-shorting",
+      "date": "2026-01-10",
+      "summary": "Substack post \u00b7 2026-01-10",
+      "concepts": [
+        "BlueCrest"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t81",
+      "slug": "i-analyzed-40-hedge-fund-billionaires",
+      "title": "I Analyzed 40 Hedge Fund Billionaires",
+      "url": "https://navnoorbawa.substack.com/p/i-analyzed-40-hedge-fund-billionaires",
+      "date": "2026-01-09",
+      "summary": "Substack post \u00b7 2026-01-09",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t82",
+      "slug": "bluecrest-73-renaissance-1439-october",
+      "title": "BLUECREST 73 RENAISSANCE 1439 October",
+      "url": "https://navnoorbawa.substack.com/p/bluecrest-73-renaissance-1439-october",
+      "date": "2026-01-08",
+      "summary": "Substack post \u00b7 2026-01-08",
+      "concepts": [
+        "Renaissance",
+        "BlueCrest"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t83",
+      "slug": "how-hedge-funds-made-30-in-the-first",
+      "title": "How Hedge Funds Made 30 In The First",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-30-in-the-first",
+      "date": "2026-01-07",
+      "summary": "Substack post \u00b7 2026-01-07",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t84",
+      "slug": "long-gamma-captures-excess-realized",
+      "title": "Long Gamma Captures Excess Realized",
+      "url": "https://navnoorbawa.substack.com/p/long-gamma-captures-excess-realized",
+      "date": "2026-01-07",
+      "summary": "Substack post \u00b7 2026-01-07",
+      "concepts": [
+        "Volatility",
+        "Greeks"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t85",
+      "slug": "bridgewaters-pure-alpha-returned",
+      "title": "Bridgewaters Pure Alpha Returned",
+      "url": "https://navnoorbawa.substack.com/p/bridgewaters-pure-alpha-returned",
+      "date": "2026-01-06",
+      "summary": "Substack post \u00b7 2026-01-06",
+      "concepts": [
+        "Bridgewater",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t86",
+      "slug": "point72-delivered-19-returns-after",
+      "title": "POINT72 Delivered 19 Returns After",
+      "url": "https://navnoorbawa.substack.com/p/point72-delivered-19-returns-after",
+      "date": "2026-01-06",
+      "summary": "Substack post \u00b7 2026-01-06",
+      "concepts": [
+        "Point72",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t87",
+      "slug": "squarepoint-capital-teardown-statistical",
+      "title": "Squarepoint CAPITAL Teardown Statistical",
+      "url": "https://navnoorbawa.substack.com/p/squarepoint-capital-teardown-statistical",
+      "date": "2026-01-06",
+      "summary": "Substack post \u00b7 2026-01-06",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t88",
+      "slug": "how-founders-fund-captured-polymarkets",
+      "title": "How Founders Fund Captured Polymarkets",
+      "url": "https://navnoorbawa.substack.com/p/how-founders-fund-captured-polymarkets",
+      "date": "2026-01-02",
+      "summary": "Substack post \u00b7 2026-01-02",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t89",
+      "slug": "what-3000-years-of-economic-history",
+      "title": "What 3000 Years Of Economic History",
+      "url": "https://navnoorbawa.substack.com/p/what-3000-years-of-economic-history",
+      "date": "2026-01-01",
+      "summary": "Substack post \u00b7 2026-01-01",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t90",
+      "slug": "36-returns-how-de-shaw-beat-citadel",
+      "title": "36 Returns How de SHAW Beat CITADEL",
+      "url": "https://navnoorbawa.substack.com/p/36-returns-how-de-shaw-beat-citadel",
+      "date": "2025-12-31",
+      "summary": "Substack post \u00b7 2025-12-31",
+      "concepts": [
+        "Citadel",
+        "DE Shaw",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t91",
+      "slug": "inside-the-168b-systematic-fund-making",
+      "title": "Inside The 168b Systematic Fund Making",
+      "url": "https://navnoorbawa.substack.com/p/inside-the-168b-systematic-fund-making",
+      "date": "2025-12-30",
+      "summary": "Substack post \u00b7 2025-12-30",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t92",
+      "slug": "how-top-quant-funds-made-197-while",
+      "title": "How Top Quant Funds Made 197 While",
+      "url": "https://navnoorbawa.substack.com/p/how-top-quant-funds-made-197-while",
+      "date": "2025-12-29",
+      "summary": "Substack post \u00b7 2025-12-29",
+      "concepts": [
+        "Quantitative"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t93",
+      "slug": "how-millennium-citadel-and-point72",
+      "title": "How MILLENNIUM CITADEL And POINT72",
+      "url": "https://navnoorbawa.substack.com/p/how-millennium-citadel-and-point72",
+      "date": "2025-12-28",
+      "summary": "Substack post \u00b7 2025-12-28",
+      "concepts": [
+        "Citadel",
+        "Millennium",
+        "Point72"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t94",
+      "slug": "inside-cliff-asnesss-35b-quarter",
+      "title": "Inside Cliff Asnesss 35b Quarter",
+      "url": "https://navnoorbawa.substack.com/p/inside-cliff-asnesss-35b-quarter",
+      "date": "2025-12-27",
+      "summary": "Substack post \u00b7 2025-12-27",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t95",
+      "slug": "millenniums-234b-q3-portfolio-20b",
+      "title": "Millenniums 234b Q3 Portfolio 20b",
+      "url": "https://navnoorbawa.substack.com/p/millenniums-234b-q3-portfolio-20b",
+      "date": "2025-12-26",
+      "summary": "Substack post \u00b7 2025-12-26",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t96",
+      "slug": "polymarket-prediction-system-v2-from",
+      "title": "Polymarket Prediction System V2 From",
+      "url": "https://navnoorbawa.substack.com/p/polymarket-prediction-system-v2-from",
+      "date": "2025-12-25",
+      "summary": "Substack post \u00b7 2025-12-25",
+      "concepts": [
+        "Prediction Markets"
+      ],
+      "cluster": "Alternative Markets",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t97",
+      "slug": "building-a-quantitative-prediction",
+      "title": "Building A Quantitative Prediction",
+      "url": "https://navnoorbawa.substack.com/p/building-a-quantitative-prediction",
+      "date": "2025-12-24",
+      "summary": "Substack post \u00b7 2025-12-24",
+      "concepts": [
+        "Quantitative"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t98",
+      "slug": "the-math-of-prediction-markets-binary",
+      "title": "The Math Of Prediction Markets Binary",
+      "url": "https://navnoorbawa.substack.com/p/the-math-of-prediction-markets-binary",
+      "date": "2025-12-24",
+      "summary": "Substack post \u00b7 2025-12-24",
+      "concepts": [
+        "Prediction Markets"
+      ],
+      "cluster": "Alternative Markets",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t99",
+      "slug": "arbitrage-evolution-from-morgan-stanleys",
+      "title": "Arbitrage Evolution From Morgan Stanleys",
+      "url": "https://navnoorbawa.substack.com/p/arbitrage-evolution-from-morgan-stanleys",
+      "date": "2025-12-23",
+      "summary": "Substack post \u00b7 2025-12-23",
+      "concepts": [
+        "Morgan Stanley",
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t100",
+      "slug": "how-julian-robertsons-22b-hedge-fund",
+      "title": "How Julian Robertsons 22b Hedge Fund",
+      "url": "https://navnoorbawa.substack.com/p/how-julian-robertsons-22b-hedge-fund",
+      "date": "2025-12-22",
+      "summary": "Substack post \u00b7 2025-12-22",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t101",
+      "slug": "how-hedge-funds-generated-262-alpha",
+      "title": "How Hedge Funds Generated 262 Alpha",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-generated-262-alpha",
+      "date": "2025-12-21",
+      "summary": "Substack post \u00b7 2025-12-21",
+      "concepts": [
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t102",
+      "slug": "the-185-trillion-arbitrage-how-hedge",
+      "title": "The 185 Trillion Arbitrage How Hedge",
+      "url": "https://navnoorbawa.substack.com/p/the-185-trillion-arbitrage-how-hedge",
+      "date": "2025-12-20",
+      "summary": "Substack post \u00b7 2025-12-20",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t103",
+      "slug": "the-185-trillion-treasury-trade-that",
+      "title": "The 185 Trillion Treasury Trade That",
+      "url": "https://navnoorbawa.substack.com/p/the-185-trillion-treasury-trade-that",
+      "date": "2025-12-19",
+      "summary": "Substack post \u00b7 2025-12-19",
+      "concepts": [
+        "Fixed Income"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t104",
+      "slug": "why-renaissances-medallion-made-76",
+      "title": "Why Renaissances MEDALLION Made 76",
+      "url": "https://navnoorbawa.substack.com/p/why-renaissances-medallion-made-76",
+      "date": "2025-12-18",
+      "summary": "Substack post \u00b7 2025-12-18",
+      "concepts": [
+        "Renaissance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t105",
+      "slug": "millennium-managements-multi-strategy",
+      "title": "MILLENNIUM Managements Multi Strategy",
+      "url": "https://navnoorbawa.substack.com/p/millennium-managements-multi-strategy",
+      "date": "2025-12-17",
+      "summary": "Substack post \u00b7 2025-12-17",
+      "concepts": [
+        "Millennium"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t106",
+      "slug": "why-millennium-deployed-55b-to-100",
+      "title": "Why MILLENNIUM Deployed 55b To 100",
+      "url": "https://navnoorbawa.substack.com/p/why-millennium-deployed-55b-to-100",
+      "date": "2025-12-16",
+      "summary": "Substack post \u00b7 2025-12-16",
+      "concepts": [
+        "Millennium"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t107",
+      "slug": "market-neutral-funds-returned-721",
+      "title": "Market Neutral Funds Returned 721",
+      "url": "https://navnoorbawa.substack.com/p/market-neutral-funds-returned-721",
+      "date": "2025-12-15",
+      "summary": "Substack post \u00b7 2025-12-15",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t108",
+      "slug": "how-hedge-funds-extract-49-annual",
+      "title": "How Hedge Funds Extract 49 Annual",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-extract-49-annual",
+      "date": "2025-12-14",
+      "summary": "Substack post \u00b7 2025-12-14",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t109",
+      "slug": "the-mathematical-execution-behind",
+      "title": "The Mathematical Execution Behind",
+      "url": "https://navnoorbawa.substack.com/p/the-mathematical-execution-behind",
+      "date": "2025-12-12",
+      "summary": "Substack post \u00b7 2025-12-12",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t110",
+      "slug": "how-llm-sentiment-analysis-generated",
+      "title": "How Llm Sentiment Analysis Generated",
+      "url": "https://navnoorbawa.substack.com/p/how-llm-sentiment-analysis-generated",
+      "date": "2025-12-11",
+      "summary": "Substack post \u00b7 2025-12-11",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t111",
+      "slug": "how-qis-products-democratized-dispersion",
+      "title": "How Qis Products Democratized Dispersion",
+      "url": "https://navnoorbawa.substack.com/p/how-qis-products-democratized-dispersion",
+      "date": "2025-12-10",
+      "summary": "Substack post \u00b7 2025-12-10",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t112",
+      "slug": "how-hedge-funds-really-trade-the",
+      "title": "How Hedge Funds Really Trade The",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-really-trade-the",
+      "date": "2025-12-09",
+      "summary": "Substack post \u00b7 2025-12-09",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t113",
+      "slug": "market-making-in-derivatives-crushes",
+      "title": "Market Making In Derivatives Crushes",
+      "url": "https://navnoorbawa.substack.com/p/market-making-in-derivatives-crushes",
+      "date": "2025-12-08",
+      "summary": "Substack post \u00b7 2025-12-08",
+      "concepts": [
+        "Market Making"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t114",
+      "slug": "how-hedge-funds-profit-from-uk-budget",
+      "title": "How Hedge Funds Profit From UK Budget",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-profit-from-uk-budget",
+      "date": "2025-12-07",
+      "summary": "Substack post \u00b7 2025-12-07",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t115",
+      "slug": "beyond-the-smile-how-hedge-funds",
+      "title": "Beyond The Smile How Hedge Funds",
+      "url": "https://navnoorbawa.substack.com/p/beyond-the-smile-how-hedge-funds",
+      "date": "2025-12-07",
+      "summary": "Substack post \u00b7 2025-12-07",
+      "concepts": [
+        "Volatility"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t116",
+      "slug": "how-investment-banks-profit-from",
+      "title": "How Investment Banks Profit From",
+      "url": "https://navnoorbawa.substack.com/p/how-investment-banks-profit-from",
+      "date": "2025-12-06",
+      "summary": "Substack post \u00b7 2025-12-06",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t117",
+      "slug": "market-making-in-sports-betting-how",
+      "title": "Market Making In Sports Betting How",
+      "url": "https://navnoorbawa.substack.com/p/market-making-in-sports-betting-how",
+      "date": "2025-12-04",
+      "summary": "Substack post \u00b7 2025-12-04",
+      "concepts": [
+        "Market Making"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t118",
+      "slug": "bank-of-americas-macro-trading-desk",
+      "title": "Bank Of Americas Macro Trading Desk",
+      "url": "https://navnoorbawa.substack.com/p/bank-of-americas-macro-trading-desk",
+      "date": "2025-12-03",
+      "summary": "Substack post \u00b7 2025-12-03",
+      "concepts": [
+        "Bank of America",
+        "Macro",
+        "Macro Trading"
+      ],
+      "cluster": "Macro & Geopolitics",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t119",
+      "slug": "inside-citibanks-trading-engine-how",
+      "title": "Inside Citibanks Trading Engine How",
+      "url": "https://navnoorbawa.substack.com/p/inside-citibanks-trading-engine-how",
+      "date": "2025-12-02",
+      "summary": "Substack post \u00b7 2025-12-02",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t120",
+      "slug": "bridgewaters-alpha-beta-framework",
+      "title": "Bridgewaters Alpha Beta Framework",
+      "url": "https://navnoorbawa.substack.com/p/bridgewaters-alpha-beta-framework",
+      "date": "2025-12-01",
+      "summary": "Substack post \u00b7 2025-12-01",
+      "concepts": [
+        "Bridgewater",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t121",
+      "slug": "marshall-waces-tops-how-crowdsourcing",
+      "title": "MARSHALL Waces Tops How Crowdsourcing",
+      "url": "https://navnoorbawa.substack.com/p/marshall-waces-tops-how-crowdsourcing",
+      "date": "2025-11-30",
+      "summary": "Substack post \u00b7 2025-11-30",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t122",
+      "slug": "which-hedge-funds-are-trading-prediction",
+      "title": "Which Hedge Funds Are Trading Prediction",
+      "url": "https://navnoorbawa.substack.com/p/which-hedge-funds-are-trading-prediction",
+      "date": "2025-11-29",
+      "summary": "Substack post \u00b7 2025-11-29",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t123",
+      "slug": "inside-aqr-capital-management-how",
+      "title": "Inside Aqr CAPITAL Management How",
+      "url": "https://navnoorbawa.substack.com/p/inside-aqr-capital-management-how",
+      "date": "2025-11-28",
+      "summary": "Substack post \u00b7 2025-11-28",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t124",
+      "slug": "two-sigmas-china-alpha-machine-52",
+      "title": "TWO Sigmas China Alpha Machine 52",
+      "url": "https://navnoorbawa.substack.com/p/two-sigmas-china-alpha-machine-52",
+      "date": "2025-11-27",
+      "summary": "Substack post \u00b7 2025-11-27",
+      "concepts": [
+        "Two Sigma",
+        "China",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t125",
+      "slug": "ml-signal-extraction-6-hypotheses",
+      "title": "ML Signal Extraction 6 Hypotheses",
+      "url": "https://navnoorbawa.substack.com/p/ml-signal-extraction-6-hypotheses",
+      "date": "2025-11-26",
+      "summary": "Substack post \u00b7 2025-11-26",
+      "concepts": [
+        "Quantitative"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t126",
+      "slug": "quant-discovered-vs-discretionary",
+      "title": "Quant Discovered Vs Discretionary",
+      "url": "https://navnoorbawa.substack.com/p/quant-discovered-vs-discretionary",
+      "date": "2025-11-25",
+      "summary": "Substack post \u00b7 2025-11-25",
+      "concepts": [
+        "Quantitative"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t127",
+      "slug": "how-hedge-funds-extract-billions",
+      "title": "How Hedge Funds Extract Billions",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-extract-billions",
+      "date": "2025-11-24",
+      "summary": "Substack post \u00b7 2025-11-24",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t128",
+      "slug": "how-hedge-funds-made-then-lost-billions",
+      "title": "How Hedge Funds Made Then Lost Billions",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-then-lost-billions",
+      "date": "2025-11-24",
+      "summary": "Substack post \u00b7 2025-11-24",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t129",
+      "slug": "i-added-transaction-costs-to-my-goldman",
+      "title": "I Added Transaction Costs To My GOLDMAN",
+      "url": "https://navnoorbawa.substack.com/p/i-added-transaction-costs-to-my-goldman",
+      "date": "2025-11-23",
+      "summary": "Substack post \u00b7 2025-11-23",
+      "concepts": [
+        "Goldman Sachs"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t130",
+      "slug": "goldman-sachs-claims-18-returns-on",
+      "title": "GOLDMAN Sachs Claims 18 Returns On",
+      "url": "https://navnoorbawa.substack.com/p/goldman-sachs-claims-18-returns-on",
+      "date": "2025-11-23",
+      "summary": "Substack post \u00b7 2025-11-23",
+      "concepts": [
+        "Goldman Sachs",
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t131",
+      "slug": "how-citadel-avoided-the-2024-steepener",
+      "title": "How CITADEL Avoided The 2024 Steepener",
+      "url": "https://navnoorbawa.substack.com/p/how-citadel-avoided-the-2024-steepener",
+      "date": "2025-11-23",
+      "summary": "Substack post \u00b7 2025-11-23",
+      "concepts": [
+        "Citadel"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t132",
+      "slug": "goldman-sachs-event-driven-options",
+      "title": "GOLDMAN Sachs Event Driven Options",
+      "url": "https://navnoorbawa.substack.com/p/goldman-sachs-event-driven-options",
+      "date": "2025-11-22",
+      "summary": "Substack post \u00b7 2025-11-22",
+      "concepts": [
+        "Goldman Sachs",
+        "Volatility",
+        "Event-Driven",
+        "Options"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t133",
+      "slug": "jpmorgans-298b-trading-operation",
+      "title": "Jpmorgans 298b Trading Operation",
+      "url": "https://navnoorbawa.substack.com/p/jpmorgans-298b-trading-operation",
+      "date": "2025-11-21",
+      "summary": "Substack post \u00b7 2025-11-21",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t134",
+      "slug": "quadeye-securities-extracting-05",
+      "title": "Quadeye Securities Extracting 05",
+      "url": "https://navnoorbawa.substack.com/p/quadeye-securities-extracting-05",
+      "date": "2025-11-21",
+      "summary": "Substack post \u00b7 2025-11-21",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t135",
+      "slug": "ices-2b-polymarket-investment-the",
+      "title": "Ices 2b Polymarket Investment The",
+      "url": "https://navnoorbawa.substack.com/p/ices-2b-polymarket-investment-the",
+      "date": "2025-11-20",
+      "summary": "Substack post \u00b7 2025-11-20",
+      "concepts": [
+        "Prediction Markets"
+      ],
+      "cluster": "Alternative Markets",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t136",
+      "slug": "multi-strategy-hedge-funds-face-structural",
+      "title": "Multi Strategy Hedge Funds Face Structural",
+      "url": "https://navnoorbawa.substack.com/p/multi-strategy-hedge-funds-face-structural",
+      "date": "2025-11-19",
+      "summary": "Substack post \u00b7 2025-11-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t137",
+      "slug": "how-major-hedge-funds-value-crypto",
+      "title": "How Major Hedge Funds Value Crypto",
+      "url": "https://navnoorbawa.substack.com/p/how-major-hedge-funds-value-crypto",
+      "date": "2025-11-18",
+      "summary": "Substack post \u00b7 2025-11-18",
+      "concepts": [
+        "Crypto"
+      ],
+      "cluster": "Alternative Markets",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t138",
+      "slug": "point72s-multi-pod-engine-how-415b",
+      "title": "Point72s Multi Pod Engine How 415b",
+      "url": "https://navnoorbawa.substack.com/p/point72s-multi-pod-engine-how-415b",
+      "date": "2025-11-17",
+      "summary": "Substack post \u00b7 2025-11-17",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t139",
+      "slug": "how-futures-first-generates-returns",
+      "title": "How Futures First Generates Returns",
+      "url": "https://navnoorbawa.substack.com/p/how-futures-first-generates-returns",
+      "date": "2025-11-16",
+      "summary": "Substack post \u00b7 2025-11-16",
+      "concepts": [
+        "Forwards/Futures",
+        "Performance"
+      ],
+      "cluster": "FX & EM",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t140",
+      "slug": "graviton-research-capital-deconstructing",
+      "title": "Graviton Research CAPITAL Deconstructing",
+      "url": "https://navnoorbawa.substack.com/p/graviton-research-capital-deconstructing",
+      "date": "2025-11-15",
+      "summary": "Substack post \u00b7 2025-11-15",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t141",
+      "slug": "da-vinci-trading-volatility-arbitrage",
+      "title": "da VINCI Trading Volatility Arbitrage",
+      "url": "https://navnoorbawa.substack.com/p/da-vinci-trading-volatility-arbitrage",
+      "date": "2025-11-14",
+      "summary": "Substack post \u00b7 2025-11-14",
+      "concepts": [
+        "Da Vinci",
+        "Volatility",
+        "Arbitrage"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t142",
+      "slug": "de-shaws-1998-crisis-how-a-372-million",
+      "title": "de Shaws 1998 Crisis How A 372 Million",
+      "url": "https://navnoorbawa.substack.com/p/de-shaws-1998-crisis-how-a-372-million",
+      "date": "2025-11-13",
+      "summary": "Substack post \u00b7 2025-11-13",
+      "concepts": [
+        "DE Shaw",
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t143",
+      "slug": "the-george-weiss-collapse-how-a-46",
+      "title": "The George Weiss Collapse How A 46",
+      "url": "https://navnoorbawa.substack.com/p/the-george-weiss-collapse-how-a-46",
+      "date": "2025-11-13",
+      "summary": "Substack post \u00b7 2025-11-13",
+      "concepts": [
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t144",
+      "slug": "hudson-river-trading-how-8b-in-revenue",
+      "title": "Hudson River Trading How 8b In Revenue",
+      "url": "https://navnoorbawa.substack.com/p/hudson-river-trading-how-8b-in-revenue",
+      "date": "2025-11-12",
+      "summary": "Substack post \u00b7 2025-11-12",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t145",
+      "slug": "how-qrt-built-28b-through-centralized",
+      "title": "How Qrt Built 28b Through Centralized",
+      "url": "https://navnoorbawa.substack.com/p/how-qrt-built-28b-through-centralized",
+      "date": "2025-11-11",
+      "summary": "Substack post \u00b7 2025-11-11",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t146",
+      "slug": "how-volatility-arbitrage-funds-use",
+      "title": "How Volatility Arbitrage Funds Use",
+      "url": "https://navnoorbawa.substack.com/p/how-volatility-arbitrage-funds-use",
+      "date": "2025-11-10",
+      "summary": "Substack post \u00b7 2025-11-10",
+      "concepts": [
+        "Volatility",
+        "Arbitrage"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t147",
+      "slug": "how-multi-strategy-hedge-funds-win",
+      "title": "How Multi Strategy Hedge Funds Win",
+      "url": "https://navnoorbawa.substack.com/p/how-multi-strategy-hedge-funds-win",
+      "date": "2025-11-09",
+      "summary": "Substack post \u00b7 2025-11-09",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t148",
+      "slug": "how-xtx-markets-turned-2024s-volatility",
+      "title": "How Xtx Markets Turned 2024s Volatility",
+      "url": "https://navnoorbawa.substack.com/p/how-xtx-markets-turned-2024s-volatility",
+      "date": "2025-11-08",
+      "summary": "Substack post \u00b7 2025-11-08",
+      "concepts": [
+        "Volatility"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t149",
+      "slug": "how-flow-traders-captured-495m-in",
+      "title": "How Flow Traders Captured 495m In",
+      "url": "https://navnoorbawa.substack.com/p/how-flow-traders-captured-495m-in",
+      "date": "2025-11-07",
+      "summary": "Substack post \u00b7 2025-11-07",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t150",
+      "slug": "optivers-35b-market-making-engine",
+      "title": "Optivers 35b Market Making Engine",
+      "url": "https://navnoorbawa.substack.com/p/optivers-35b-market-making-engine",
+      "date": "2025-11-06",
+      "summary": "Substack post \u00b7 2025-11-06",
+      "concepts": [
+        "Market Making"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t151",
+      "slug": "the-2m-arbitrageur-playbook-reverse",
+      "title": "The 2m Arbitrageur Playbook Reverse",
+      "url": "https://navnoorbawa.substack.com/p/the-2m-arbitrageur-playbook-reverse",
+      "date": "2025-11-05",
+      "summary": "Substack post \u00b7 2025-11-05",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t152",
+      "slug": "susquehannas-black-monday-trade-exploiting",
+      "title": "Susquehannas Black Monday Trade Exploiting",
+      "url": "https://navnoorbawa.substack.com/p/susquehannas-black-monday-trade-exploiting",
+      "date": "2025-11-04",
+      "summary": "Substack post \u00b7 2025-11-04",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t153",
+      "slug": "negrisk-market-rebalancing-how-29m",
+      "title": "Negrisk Market Rebalancing How 29m",
+      "url": "https://navnoorbawa.substack.com/p/negrisk-market-rebalancing-how-29m",
+      "date": "2025-11-03",
+      "summary": "Substack post \u00b7 2025-11-03",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t154",
+      "slug": "combinatorial-arbitrage-in-prediction",
+      "title": "Combinatorial Arbitrage In Prediction",
+      "url": "https://navnoorbawa.substack.com/p/combinatorial-arbitrage-in-prediction",
+      "date": "2025-11-02",
+      "summary": "Substack post \u00b7 2025-11-02",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t155",
+      "slug": "building-a-prediction-market-arbitrage",
+      "title": "Building A Prediction Market Arbitrage",
+      "url": "https://navnoorbawa.substack.com/p/building-a-prediction-market-arbitrage",
+      "date": "2025-11-01",
+      "summary": "Substack post \u00b7 2025-11-01",
+      "concepts": [
+        "Arbitrage",
+        "Prediction Markets"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t156",
+      "slug": "prediction-market-arbitrage-how-quants",
+      "title": "Prediction Market Arbitrage How Quants",
+      "url": "https://navnoorbawa.substack.com/p/prediction-market-arbitrage-how-quants",
+      "date": "2025-10-31",
+      "summary": "Substack post \u00b7 2025-10-31",
+      "concepts": [
+        "Arbitrage",
+        "Prediction Markets"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t157",
+      "slug": "how-hedge-funds-generated-30-returns",
+      "title": "How Hedge Funds Generated 30 Returns",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-generated-30-returns",
+      "date": "2025-10-30",
+      "summary": "Substack post \u00b7 2025-10-30",
+      "concepts": [
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t158",
+      "slug": "one-million-options-contracts-isnt",
+      "title": "One Million Options Contracts Isnt",
+      "url": "https://navnoorbawa.substack.com/p/one-million-options-contracts-isnt",
+      "date": "2025-10-29",
+      "summary": "Substack post \u00b7 2025-10-29",
+      "concepts": [
+        "Volatility",
+        "Options"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t159",
+      "slug": "the-volatility-carry-trade-how-selling",
+      "title": "The Volatility Carry Trade How Selling",
+      "url": "https://navnoorbawa.substack.com/p/the-volatility-carry-trade-how-selling",
+      "date": "2025-10-28",
+      "summary": "Substack post \u00b7 2025-10-28",
+      "concepts": [
+        "Volatility",
+        "Carry Trade"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t160",
+      "slug": "how-hidden-volatility-feedback-loops",
+      "title": "How Hidden Volatility Feedback Loops",
+      "url": "https://navnoorbawa.substack.com/p/how-hidden-volatility-feedback-loops",
+      "date": "2025-10-27",
+      "summary": "Substack post \u00b7 2025-10-27",
+      "concepts": [
+        "Volatility"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t161",
+      "slug": "how-short-sellers-extracted-127m",
+      "title": "How Short Sellers Extracted 127m",
+      "url": "https://navnoorbawa.substack.com/p/how-short-sellers-extracted-127m",
+      "date": "2025-10-26",
+      "summary": "Substack post \u00b7 2025-10-26",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t162",
+      "slug": "the-multi-million-dollar-misdiagnosis",
+      "title": "The Multi Million Dollar Misdiagnosis",
+      "url": "https://navnoorbawa.substack.com/p/the-multi-million-dollar-misdiagnosis",
+      "date": "2025-10-25",
+      "summary": "Substack post \u00b7 2025-10-25",
+      "concepts": [
+        "FX"
+      ],
+      "cluster": "FX & EM",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t163",
+      "slug": "the-46-billion-lesson-why-european",
+      "title": "The 46 Billion Lesson Why European",
+      "url": "https://navnoorbawa.substack.com/p/the-46-billion-lesson-why-european",
+      "date": "2025-10-24",
+      "summary": "Substack post \u00b7 2025-10-24",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t164",
+      "slug": "how-markov-processes-print-money",
+      "title": "How Markov Processes Print Money",
+      "url": "https://navnoorbawa.substack.com/p/how-markov-processes-print-money",
+      "date": "2025-10-23",
+      "summary": "Substack post \u00b7 2025-10-23",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t165",
+      "slug": "the-40-year-bond-trade-how-systematic",
+      "title": "The 40 Year Bond Trade How Systematic",
+      "url": "https://navnoorbawa.substack.com/p/the-40-year-bond-trade-how-systematic",
+      "date": "2025-10-22",
+      "summary": "Substack post \u00b7 2025-10-22",
+      "concepts": [
+        "Fixed Income"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t166",
+      "slug": "how-amaranth-advisors-lost-6-billion",
+      "title": "How Amaranth Advisors Lost 6 Billion",
+      "url": "https://navnoorbawa.substack.com/p/how-amaranth-advisors-lost-6-billion",
+      "date": "2025-10-21",
+      "summary": "Substack post \u00b7 2025-10-21",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t167",
+      "slug": "how-misusing-the-sharpe-ratio-cost",
+      "title": "How Misusing The Sharpe Ratio Cost",
+      "url": "https://navnoorbawa.substack.com/p/how-misusing-the-sharpe-ratio-cost",
+      "date": "2025-10-20",
+      "summary": "Substack post \u00b7 2025-10-20",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t168",
+      "slug": "how-vol-arb-desks-actually-make-money",
+      "title": "How Vol Arb Desks Actually Make Money",
+      "url": "https://navnoorbawa.substack.com/p/how-vol-arb-desks-actually-make-money",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Volatility",
+        "Arbitrage"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t169",
+      "slug": "weather-derivatives-explode-260-inside",
+      "title": "Weather Derivatives Explode 260 Inside",
+      "url": "https://navnoorbawa.substack.com/p/weather-derivatives-explode-260-inside",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t170",
+      "slug": "how-statistical-arbitrage-desks-made",
+      "title": "How Statistical Arbitrage Desks Made",
+      "url": "https://navnoorbawa.substack.com/p/how-statistical-arbitrage-desks-made",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t171",
+      "slug": "the-martingale-paradox-why-mathematically",
+      "title": "The Martingale Paradox Why Mathematically",
+      "url": "https://navnoorbawa.substack.com/p/the-martingale-paradox-why-mathematically",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t172",
+      "slug": "how-hedge-funds-use-machine-learning",
+      "title": "How Hedge Funds Use Machine Learning",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-use-machine-learning",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Quantitative"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t173",
+      "slug": "how-hedge-funds-made-50-returns-betting",
+      "title": "How Hedge Funds Made 50 Returns Betting",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-50-returns-betting",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t174",
+      "slug": "the-2-billion-oil-storage-trade-how",
+      "title": "The 2 Billion Oil Storage Trade How",
+      "url": "https://navnoorbawa.substack.com/p/the-2-billion-oil-storage-trade-how",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Commodities"
+      ],
+      "cluster": "Commodities",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t175",
+      "slug": "the-deepseek-shock-how-systematic",
+      "title": "The Deepseek Shock How Systematic",
+      "url": "https://navnoorbawa.substack.com/p/the-deepseek-shock-how-systematic",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t176",
+      "slug": "when-hedge-funds-lost-money-while",
+      "title": "When Hedge Funds Lost Money While",
+      "url": "https://navnoorbawa.substack.com/p/when-hedge-funds-lost-money-while",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t177",
+      "slug": "how-multi-strategy-funds-generated",
+      "title": "How Multi Strategy Funds Generated",
+      "url": "https://navnoorbawa.substack.com/p/how-multi-strategy-funds-generated",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t178",
+      "slug": "anatomy-of-a-468-million-collapse",
+      "title": "Anatomy Of A 468 Million Collapse",
+      "url": "https://navnoorbawa.substack.com/p/anatomy-of-a-468-million-collapse",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t179",
+      "slug": "commodity-derivatives-pricing-engine",
+      "title": "Commodity Derivatives Pricing Engine",
+      "url": "https://navnoorbawa.substack.com/p/commodity-derivatives-pricing-engine",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Commodities"
+      ],
+      "cluster": "Commodities",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t180",
+      "slug": "the-56-billion-unwind-how-trumps",
+      "title": "The 56 Billion Unwind How Trumps",
+      "url": "https://navnoorbawa.substack.com/p/the-56-billion-unwind-how-trumps",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t181",
+      "slug": "how-bridgewaters-pure-alpha-captured",
+      "title": "How Bridgewaters Pure Alpha Captured",
+      "url": "https://navnoorbawa.substack.com/p/how-bridgewaters-pure-alpha-captured",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Bridgewater",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t182",
+      "slug": "statistical-arbitrage-the-quant-strategy",
+      "title": "Statistical Arbitrage The Quant Strategy",
+      "url": "https://navnoorbawa.substack.com/p/statistical-arbitrage-the-quant-strategy",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Arbitrage",
+        "Quantitative"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t183",
+      "slug": "volatility-arbitrage-how-funds-profited",
+      "title": "Volatility Arbitrage How Funds Profited",
+      "url": "https://navnoorbawa.substack.com/p/volatility-arbitrage-how-funds-profited",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Volatility",
+        "Arbitrage"
+      ],
+      "cluster": "Quant Methods",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t184",
+      "slug": "how-ackman-made-26b-installing-one",
+      "title": "How ACKMAN Made 26b Installing One",
+      "url": "https://navnoorbawa.substack.com/p/how-ackman-made-26b-installing-one",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Bill Ackman"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t185",
+      "slug": "inside-bridgewaters-pure-alpha-how",
+      "title": "Inside Bridgewaters Pure Alpha How",
+      "url": "https://navnoorbawa.substack.com/p/inside-bridgewaters-pure-alpha-how",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Bridgewater",
+        "Performance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t186",
+      "slug": "longshort-equity-dissecting-robert",
+      "title": "Longshort Equity Dissecting Robert",
+      "url": "https://navnoorbawa.substack.com/p/longshort-equity-dissecting-robert",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Equities"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t187",
+      "slug": "renaissance-technologies-the-100",
+      "title": "RENAISSANCE Technologies The 100",
+      "url": "https://navnoorbawa.substack.com/p/renaissance-technologies-the-100",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Renaissance"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t188",
+      "slug": "the-pod-shop-revolution-how-multi",
+      "title": "The Pod Shop Revolution How Multi",
+      "url": "https://navnoorbawa.substack.com/p/the-pod-shop-revolution-how-multi",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t189",
+      "slug": "the-27-million-bet-that-returned",
+      "title": "The 27 Million Bet That Returned",
+      "url": "https://navnoorbawa.substack.com/p/the-27-million-bet-that-returned",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t190",
+      "slug": "the-474-trillion-inflection-point",
+      "title": "The 474 Trillion Inflection Point",
+      "url": "https://navnoorbawa.substack.com/p/the-474-trillion-inflection-point",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t191",
+      "slug": "the-242k-cross-trading-scheme-how",
+      "title": "The 242k Cross Trading Scheme How",
+      "url": "https://navnoorbawa.substack.com/p/the-242k-cross-trading-scheme-how",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t192",
+      "slug": "how-de-shaw-generated-111-billion",
+      "title": "How de SHAW Generated 111 Billion",
+      "url": "https://navnoorbawa.substack.com/p/how-de-shaw-generated-111-billion",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "DE Shaw"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t193",
+      "slug": "the-20-billion-meltdown-how-two-junior",
+      "title": "The 20 Billion Meltdown How TWO Junior",
+      "url": "https://navnoorbawa.substack.com/p/the-20-billion-meltdown-how-two-junior",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t194",
+      "slug": "how-ecor1-capital-lost-10-million",
+      "title": "How Ecor1 CAPITAL Lost 10 Million",
+      "url": "https://navnoorbawa.substack.com/p/how-ecor1-capital-lost-10-million",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t195",
+      "slug": "weather-derivatives-market-explodes",
+      "title": "Weather Derivatives Market Explodes",
+      "url": "https://navnoorbawa.substack.com/p/weather-derivatives-market-explodes",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t196",
+      "slug": "the-171-billion-cftc-enforcement",
+      "title": "The 171 Billion CFTC Enforcement",
+      "url": "https://navnoorbawa.substack.com/p/the-171-billion-cftc-enforcement",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "CFTC"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t197",
+      "slug": "the-40-trillion-reality-check-how",
+      "title": "The 40 Trillion Reality Check How",
+      "url": "https://navnoorbawa.substack.com/p/the-40-trillion-reality-check-how",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t198",
+      "slug": "how-hedge-funds-made-and-lost-millions",
+      "title": "How Hedge Funds Made And Lost Millions",
+      "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-and-lost-millions",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t199",
+      "slug": "how-morgan-stanley-made-100m-through",
+      "title": "How Morgan Stanley Made 100m Through",
+      "url": "https://navnoorbawa.substack.com/p/how-morgan-stanley-made-100m-through",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Morgan Stanley"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t200",
+      "slug": "how-josh-resnicks-1206-return-cracked",
+      "title": "How Josh Resnicks 1206 Return Cracked",
+      "url": "https://navnoorbawa.substack.com/p/how-josh-resnicks-1206-return-cracked",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t201",
+      "slug": "how-jpmorgan-lost-617-million-in",
+      "title": "How Jpmorgan Lost 617 Million In",
+      "url": "https://navnoorbawa.substack.com/p/how-jpmorgan-lost-617-million-in",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "JPMorgan"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t202",
+      "slug": "riefs-16-billion-liberation-day-disaster",
+      "title": "Riefs 16 Billion Liberation Day Disaster",
+      "url": "https://navnoorbawa.substack.com/p/riefs-16-billion-liberation-day-disaster",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t203",
+      "slug": "how-chris-rokos-made-1-billion-in",
+      "title": "How Chris Rokos Made 1 Billion In",
+      "url": "https://navnoorbawa.substack.com/p/how-chris-rokos-made-1-billion-in",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t204",
+      "slug": "how-quants-made-4144-returns-in-2020",
+      "title": "How Quants Made 4144 Returns In 2020",
+      "url": "https://navnoorbawa.substack.com/p/how-quants-made-4144-returns-in-2020",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Performance"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t205",
+      "slug": "how-hsbc-made-millions-gaming-bond",
+      "title": "How HSBC Made Millions Gaming Bond",
+      "url": "https://navnoorbawa.substack.com/p/how-hsbc-made-millions-gaming-bond",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Fixed Income",
+        "Gaming Markets"
+      ],
+      "cluster": "Credit & Private Credit",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t206",
+      "slug": "pre-ipo-arbitrage-fraud-how-120m",
+      "title": "Pre IPO Arbitrage Fraud How 120m",
+      "url": "https://navnoorbawa.substack.com/p/pre-ipo-arbitrage-fraud-how-120m",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t207",
+      "slug": "how-societe-generales-a388m-mark",
+      "title": "How Societe Generales A388m Mark",
+      "url": "https://navnoorbawa.substack.com/p/how-societe-generales-a388m-mark",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t208",
+      "slug": "singapores-8-billion-market-manipulation",
+      "title": "Singapores 8 Billion Market Manipulation",
+      "url": "https://navnoorbawa.substack.com/p/singapores-8-billion-market-manipulation",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Court / Legal"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t209",
+      "slug": "how-totalenergies-lost-48m-trying",
+      "title": "How Totalenergies Lost 48m Trying",
+      "url": "https://navnoorbawa.substack.com/p/how-totalenergies-lost-48m-trying",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [],
+      "cluster": "Other",
+      "difficulty": "beginner"
+    },
+    {
+      "id": "t210",
+      "slug": "how-trafigura-turned-a-100m-arbitrage",
+      "title": "How Trafigura Turned A 100m Arbitrage",
+      "url": "https://navnoorbawa.substack.com/p/how-trafigura-turned-a-100m-arbitrage",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Arbitrage"
+      ],
+      "cluster": "Microstructure & Regulation",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "t211",
+      "slug": "how-jpmorgan-made-172-million-manipulating",
+      "title": "How Jpmorgan Made 172 Million Manipulating",
+      "url": "https://navnoorbawa.substack.com/p/how-jpmorgan-made-172-million-manipulating",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "JPMorgan"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t212",
+      "slug": "the-650m-volmageddon-collapse-how",
+      "title": "The 650m Volmageddon Collapse How",
+      "url": "https://navnoorbawa.substack.com/p/the-650m-volmageddon-collapse-how",
+      "date": "2025-10-19",
+      "summary": "Substack post \u00b7 2025-10-19",
+      "concepts": [
+        "Crisis / Drawdown"
+      ],
+      "cluster": "Other",
+      "difficulty": "intermediate"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c_performance",
+      "name": "Performance",
+      "count": 18
+    },
+    {
+      "id": "c_arbitrage",
+      "name": "Arbitrage",
+      "count": 17
+    },
+    {
+      "id": "c_volatility",
+      "name": "Volatility",
+      "count": 16
+    },
+    {
+      "id": "c_commodities",
+      "name": "Commodities",
+      "count": 9
+    },
+    {
+      "id": "c_crisis_drawdown",
+      "name": "Crisis / Drawdown",
+      "count": 7
+    },
+    {
+      "id": "c_fixed_income",
+      "name": "Fixed Income",
+      "count": 6
+    },
+    {
+      "id": "c_quantitative",
+      "name": "Quantitative",
+      "count": 6
+    },
+    {
+      "id": "c_bridgewater",
+      "name": "Bridgewater",
+      "count": 5
+    },
+    {
+      "id": "c_prediction_markets",
+      "name": "Prediction Markets",
+      "count": 5
+    },
+    {
+      "id": "c_market_making",
+      "name": "Market Making",
+      "count": 4
+    },
+    {
+      "id": "c_geopolitics",
+      "name": "Geopolitics",
+      "count": 4
+    },
+    {
+      "id": "c_options",
+      "name": "Options",
+      "count": 3
+    },
+    {
+      "id": "c_renaissance",
+      "name": "Renaissance",
+      "count": 3
+    },
+    {
+      "id": "c_citadel",
+      "name": "Citadel",
+      "count": 3
+    },
+    {
+      "id": "c_de_shaw",
+      "name": "DE Shaw",
+      "count": 3
+    },
+    {
+      "id": "c_millennium",
+      "name": "Millennium",
+      "count": 3
+    },
+    {
+      "id": "c_goldman_sachs",
+      "name": "Goldman Sachs",
+      "count": 3
+    },
+    {
+      "id": "c_gaming_markets",
+      "name": "Gaming Markets",
+      "count": 2
+    },
+    {
+      "id": "c_fx",
+      "name": "FX",
+      "count": 2
+    },
+    {
+      "id": "c_forwards_futures",
+      "name": "Forwards/Futures",
+      "count": 2
+    },
+    {
+      "id": "c_equities",
+      "name": "Equities",
+      "count": 2
+    },
+    {
+      "id": "c_iran_war",
+      "name": "Iran War",
+      "count": 2
+    },
+    {
+      "id": "c_elliott_management",
+      "name": "Elliott Management",
+      "count": 2
+    },
+    {
+      "id": "c_da_vinci",
+      "name": "Da Vinci",
+      "count": 2
+    },
+    {
+      "id": "c_event_driven",
+      "name": "Event-Driven",
+      "count": 2
+    },
+    {
+      "id": "c_court_legal",
+      "name": "Court / Legal",
+      "count": 2
+    },
+    {
+      "id": "c_bluecrest",
+      "name": "BlueCrest",
+      "count": 2
+    },
+    {
+      "id": "c_point72",
+      "name": "Point72",
+      "count": 2
+    },
+    {
+      "id": "c_morgan_stanley",
+      "name": "Morgan Stanley",
+      "count": 2
+    },
+    {
+      "id": "c_jpmorgan",
+      "name": "JPMorgan",
+      "count": 2
+    },
+    {
+      "id": "c_cram_r_rao_fisher_info",
+      "name": "Cram\u00e9r-Rao / Fisher Info",
+      "count": 1
+    },
+    {
+      "id": "c_virtu",
+      "name": "Virtu",
+      "count": 1
+    },
+    {
+      "id": "c_calibration",
+      "name": "Calibration",
+      "count": 1
+    },
+    {
+      "id": "c_india",
+      "name": "India",
+      "count": 1
+    },
+    {
+      "id": "c_russia_ukraine",
+      "name": "Russia/Ukraine",
+      "count": 1
+    },
+    {
+      "id": "c_cme",
+      "name": "CME",
+      "count": 1
+    },
+    {
+      "id": "c_europe",
+      "name": "Europe",
+      "count": 1
+    },
+    {
+      "id": "c_black_scholes",
+      "name": "Black-Scholes",
+      "count": 1
+    },
+    {
+      "id": "c_blue_owl",
+      "name": "Blue Owl",
+      "count": 1
+    },
+    {
+      "id": "c_private_credit",
+      "name": "Private Credit",
+      "count": 1
+    },
+    {
+      "id": "c_boaz_weinstein",
+      "name": "Boaz Weinstein",
+      "count": 1
+    },
+    {
+      "id": "c_andurand",
+      "name": "Andurand",
+      "count": 1
+    },
+    {
+      "id": "c_credit",
+      "name": "Credit",
+      "count": 1
+    },
+    {
+      "id": "c_bobby_jain",
+      "name": "Bobby Jain",
+      "count": 1
+    },
+    {
+      "id": "c_greeks",
+      "name": "Greeks",
+      "count": 1
+    },
+    {
+      "id": "c_bank_of_america",
+      "name": "Bank of America",
+      "count": 1
+    },
+    {
+      "id": "c_macro",
+      "name": "Macro",
+      "count": 1
+    },
+    {
+      "id": "c_macro_trading",
+      "name": "Macro Trading",
+      "count": 1
+    },
+    {
+      "id": "c_two_sigma",
+      "name": "Two Sigma",
+      "count": 1
+    },
+    {
+      "id": "c_china",
+      "name": "China",
+      "count": 1
+    },
+    {
+      "id": "c_crypto",
+      "name": "Crypto",
+      "count": 1
+    },
+    {
+      "id": "c_carry_trade",
+      "name": "Carry Trade",
+      "count": 1
+    },
+    {
+      "id": "c_bill_ackman",
+      "name": "Bill Ackman",
+      "count": 1
+    },
+    {
+      "id": "c_cftc",
+      "name": "CFTC",
+      "count": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "t1",
+      "target": "t113",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t117",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t150",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t85",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t86",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t120",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t181",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t1",
+      "target": "t185",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t120",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t181",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t185",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t19",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t86",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t90",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t85",
+      "target": "t124",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t86",
+      "target": "t120",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t86",
+      "target": "t181",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t86",
+      "target": "t185",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t86",
+      "target": "t90",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t86",
+      "target": "t93",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t86",
+      "target": "t124",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t90",
+      "target": "t131",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t90",
+      "target": "t192",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t90",
+      "target": "t120",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t90",
+      "target": "t142",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t90",
+      "target": "t181",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t90",
+      "target": "t185",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t113",
+      "target": "t117",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t113",
+      "target": "t150",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t117",
+      "target": "t150",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t120",
+      "target": "t181",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t120",
+      "target": "t185",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t120",
+      "target": "t19",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t120",
+      "target": "t124",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t124",
+      "target": "t181",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t124",
+      "target": "t185",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t124",
+      "target": "t1",
+      "weight": 0.333,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t124",
+      "target": "t90",
+      "weight": 0.333,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t181",
+      "target": "t185",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t181",
+      "target": "t19",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t185",
+      "target": "t19",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t6",
+      "target": "t162",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t6",
+      "target": "t139",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t7",
+      "target": "t186",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t8",
+      "target": "t12",
+      "weight": 0.6,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t8",
+      "target": "t21",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t8",
+      "target": "t30",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t8",
+      "target": "t10",
+      "weight": 0.286,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t10",
+      "target": "t12",
+      "weight": 0.5,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t10",
+      "target": "t21",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t10",
+      "target": "t22",
+      "weight": 0.333,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t12",
+      "target": "t21",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t12",
+      "target": "t22",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t11",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t160",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t20",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t9",
+      "target": "t84",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t46",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t67",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t115",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t148",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t160",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t20",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t84",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t158",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t160",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t132",
+      "weight": 0.6,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t46",
+      "target": "t67",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t46",
+      "target": "t115",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t46",
+      "target": "t148",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t46",
+      "target": "t160",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t46",
+      "target": "t84",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t67",
+      "target": "t115",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t67",
+      "target": "t148",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t67",
+      "target": "t160",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t67",
+      "target": "t84",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t84",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t84",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t84",
+      "target": "t160",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t84",
+      "target": "t20",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t115",
+      "target": "t148",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t115",
+      "target": "t160",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t158",
+      "weight": 0.6,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t11",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t46",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t67",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t115",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t148",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t160",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t146",
+      "weight": 0.75,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t168",
+      "weight": 0.75,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t183",
+      "weight": 0.75,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t11",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t46",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t67",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t115",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t141",
+      "target": "t148",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t168",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t183",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t11",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t146",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t148",
+      "target": "t160",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t11",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t160",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t11",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t160",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t9",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t159",
+      "target": "t20",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t168",
+      "target": "t183",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t168",
+      "target": "t11",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t168",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t168",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t168",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t168",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t183",
+      "target": "t11",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t183",
+      "target": "t46",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t183",
+      "target": "t67",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t183",
+      "target": "t115",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t183",
+      "target": "t148",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t17",
+      "target": "t44",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t18",
+      "target": "t58",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t18",
+      "target": "t143",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t18",
+      "target": "t178",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t18",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t58",
+      "target": "t143",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t58",
+      "target": "t178",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t58",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t143",
+      "target": "t178",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t143",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t178",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t47",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t49",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t102",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t154",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t170",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t35",
+      "target": "t99",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t49",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t102",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t154",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t170",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t99",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t102",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t154",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t170",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t99",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t102",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t154",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t170",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t206",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t210",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t102",
+      "target": "t154",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t102",
+      "target": "t170",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t102",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t102",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t154",
+      "target": "t170",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t154",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t154",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t156",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t35",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t47",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t49",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t102",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t154",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t170",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t155",
+      "target": "t206",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t35",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t47",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t49",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t102",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t154",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t170",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t206",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t206",
+      "target": "t210",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t43",
+      "target": "t50",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t43",
+      "target": "t101",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t43",
+      "target": "t157",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t43",
+      "target": "t173",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t43",
+      "target": "t204",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t43",
+      "target": "t130",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t50",
+      "target": "t101",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t50",
+      "target": "t157",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t50",
+      "target": "t173",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t50",
+      "target": "t204",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t50",
+      "target": "t130",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t101",
+      "target": "t157",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t101",
+      "target": "t173",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t101",
+      "target": "t204",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t101",
+      "target": "t130",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t130",
+      "target": "t129",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t130",
+      "target": "t157",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t130",
+      "target": "t173",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t130",
+      "target": "t204",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t173",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t204",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t173",
+      "target": "t204",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t103",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t165",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t65",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t73",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t205",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t65",
+      "target": "t103",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t65",
+      "target": "t165",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t65",
+      "target": "t73",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t65",
+      "target": "t205",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t73",
+      "target": "t103",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t73",
+      "target": "t165",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t73",
+      "target": "t205",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t103",
+      "target": "t165",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t103",
+      "target": "t205",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t165",
+      "target": "t205",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t64",
+      "target": "t66",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t64",
+      "target": "t174",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t64",
+      "target": "t179",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t64",
+      "target": "t79",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t174",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t179",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t79",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t79",
+      "target": "t174",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t79",
+      "target": "t179",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t174",
+      "target": "t179",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t80",
+      "target": "t82",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t82",
+      "target": "t104",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t82",
+      "target": "t187",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t104",
+      "target": "t187",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t93",
+      "target": "t105",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t93",
+      "target": "t106",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t93",
+      "target": "t131",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t93",
+      "target": "t90",
+      "weight": 0.333,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t142",
+      "target": "t192",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t97",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t125",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t126",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t182",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t97",
+      "target": "t125",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t97",
+      "target": "t126",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t97",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t97",
+      "target": "t182",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t125",
+      "target": "t126",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t125",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t125",
+      "target": "t182",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t126",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t126",
+      "target": "t182",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t172",
+      "target": "t182",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t182",
+      "target": "t146",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t182",
+      "target": "t168",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t182",
+      "target": "t183",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t105",
+      "target": "t106",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t96",
+      "target": "t98",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t96",
+      "target": "t135",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t98",
+      "target": "t135",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t201",
+      "target": "t211",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    }
+  ],
+  "learning_paths": [
+    {
+      "name": "Quant Volatility Deep Dive",
+      "threads": [
+        "t0",
+        "t9",
+        "t11",
+        "t36",
+        "t46",
+        "t67",
+        "t141",
+        "t146",
+        "t148",
+        "t159"
+      ]
+    },
+    {
+      "name": "Hedge Fund Alpha Tour",
+      "threads": [
+        "t1",
+        "t5",
+        "t7",
+        "t8",
+        "t12",
+        "t13",
+        "t14",
+        "t19",
+        "t20",
+        "t24"
+      ]
+    },
+    {
+      "name": "Geopolitical Alpha",
+      "threads": [
+        "t6",
+        "t7",
+        "t8",
+        "t10",
+        "t12",
+        "t13",
+        "t21",
+        "t22",
+        "t124"
+      ]
+    },
+    {
+      "name": "Credit, Distressed & Activism",
+      "threads": [
+        "t17",
+        "t41",
+        "t44",
+        "t58",
+        "t65",
+        "t143",
+        "t178",
+        "t212"
+      ]
+    },
+    {
+      "name": "Microstructure & Regulation",
+      "threads": [
+        "t1",
+        "t23",
+        "t47",
+        "t49",
+        "t79",
+        "t99",
+        "t102",
+        "t113",
+        "t117",
+        "t134"
+      ]
+    },
+    {
+      "name": "Alternative Markets",
+      "threads": [
+        "t2",
+        "t96",
+        "t97",
+        "t98",
+        "t122",
+        "t137",
+        "t154",
+        "t155",
+        "t156",
+        "t205"
+      ]
+    },
+    {
+      "name": "Commodities & Energy",
+      "threads": [
+        "t10",
+        "t12",
+        "t19",
+        "t22",
+        "t30",
+        "t45",
+        "t64",
+        "t66",
+        "t79",
+        "t88"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q_t0",
+      "thread": "t0",
+      "question": "Which concepts does \"The Cramer-Rao Bound Killed LTCM. It's Why the SEC Just Fined Two Sigma $90M.\" primarily touch?",
+      "answer": "Cram\u00e9r-Rao / Fisher Info",
+      "cluster": "Quant Methods"
+    },
+    {
+      "id": "q_t9",
+      "thread": "t9",
+      "question": "Which concepts does \"Joint SPX/VIX Calibration Follow-Up: Bates SVJ Degenerates on Daily Data\" primarily touch?",
+      "answer": "Volatility, Calibration",
+      "cluster": "Quant Methods"
+    },
+    {
+      "id": "q_t11",
+      "thread": "t11",
+      "question": "Which concepts does \"The Holy Grail of Volatility Modelling: What Happens When You Actually Try to Build It\" primarily touch?",
+      "answer": "Volatility",
+      "cluster": "Quant Methods"
+    },
+    {
+      "id": "q_t1",
+      "thread": "t1",
+      "question": "Which concepts does \"Market Making Alpha: How Virtu Won 1,237 Days \u2014 and Why Jane Street Keeps Ending Up in Court\" primarily touch?",
+      "answer": "Virtu, Market Making, Performance",
+      "cluster": "Hedge Fund Strategy"
+    },
+    {
+      "id": "q_t17",
+      "thread": "t17",
+      "question": "Which concepts does \"ELLIOTT Management Azoria And The\" primarily touch?",
+      "answer": "Elliott Management",
+      "cluster": "Hedge Fund Strategy"
+    },
+    {
+      "id": "q_t19",
+      "thread": "t19",
+      "question": "Which concepts does \"Gold 65 Silver 144 In 2025 How BRIDGEWATER\" primarily touch?",
+      "answer": "Bridgewater, Commodities",
+      "cluster": "Hedge Fund Strategy"
+    },
+    {
+      "id": "q_t2",
+      "thread": "t2",
+      "question": "Which concepts does \"Axie Infinity, CS2 Skins, and Roblox: How Hedge Funds Built Gaming Currency Alpha\" primarily touch?",
+      "answer": "Gaming Markets",
+      "cluster": "Alternative Markets"
+    },
+    {
+      "id": "q_t96",
+      "thread": "t96",
+      "question": "Which concepts does \"Polymarket Prediction System V2 From\" primarily touch?",
+      "answer": "Prediction Markets",
+      "cluster": "Alternative Markets"
+    },
+    {
+      "id": "q_t98",
+      "thread": "t98",
+      "question": "Which concepts does \"The Math Of Prediction Markets Binary\" primarily touch?",
+      "answer": "Prediction Markets",
+      "cluster": "Alternative Markets"
+    },
+    {
+      "id": "q_t6",
+      "thread": "t6",
+      "question": "Which concepts does \"Non-Deliverable Forwards (NDFs) and Emerging Market Currency Alpha\" primarily touch?",
+      "answer": "FX, Forwards/Futures",
+      "cluster": "FX & EM"
+    },
+    {
+      "id": "q_t139",
+      "thread": "t139",
+      "question": "Which concepts does \"How Futures First Generates Returns\" primarily touch?",
+      "answer": "Forwards/Futures, Performance",
+      "cluster": "FX & EM"
+    },
+    {
+      "id": "q_t162",
+      "thread": "t162",
+      "question": "Which concepts does \"The Multi Million Dollar Misdiagnosis\" primarily touch?",
+      "answer": "FX",
+      "cluster": "FX & EM"
+    },
+    {
+      "id": "q_t8",
+      "thread": "t8",
+      "question": "Which concepts does \"Iran War Hedge Fund Alpha Map: Every Winner, Every Loser\" primarily touch?",
+      "answer": "Iran War, Geopolitics, Performance",
+      "cluster": "Macro & Geopolitics"
+    },
+    {
+      "id": "q_t10",
+      "thread": "t10",
+      "question": "Which concepts does \"India's Oil-War Market Crisis: 30-Day Nifty Outlook\" primarily touch?",
+      "answer": "Commodities, India, Geopolitics, Crisis / Drawdown",
+      "cluster": "Macro & Geopolitics"
+    },
+    {
+      "id": "q_t12",
+      "thread": "t12",
+      "question": "Which concepts does \"Iran War Oil Shock, 292.8% Hedge Fund Leverage, and Powell's Last FOMC\" primarily touch?",
+      "answer": "Commodities, Iran War, Geopolitics",
+      "cluster": "Macro & Geopolitics"
+    },
+    {
+      "id": "q_t35",
+      "thread": "t35",
+      "question": "Which concepts does \"How Hedge Funds Basis Traders And\" primarily touch?",
+      "answer": "Arbitrage",
+      "cluster": "Microstructure & Regulation"
+    },
+    {
+      "id": "q_t47",
+      "thread": "t47",
+      "question": "Which concepts does \"The Illiquidity Arbitrage Playbook\" primarily touch?",
+      "answer": "Arbitrage",
+      "cluster": "Microstructure & Regulation"
+    },
+    {
+      "id": "q_t49",
+      "thread": "t49",
+      "question": "Which concepts does \"Music Royalty Tax Arbitrage How Institutional\" primarily touch?",
+      "answer": "Arbitrage",
+      "cluster": "Microstructure & Regulation"
+    },
+    {
+      "id": "q_t41",
+      "thread": "t41",
+      "question": "Which concepts does \"BLUE OWL CAPITAL OBDC Merger Failure\" primarily touch?",
+      "answer": "Blue Owl, Private Credit, Event-Driven",
+      "cluster": "Credit & Private Credit"
+    },
+    {
+      "id": "q_t45",
+      "thread": "t45",
+      "question": "Which concepts does \"Alphabets 20 Billion Bond Offering\" primarily touch?",
+      "answer": "Fixed Income",
+      "cluster": "Credit & Private Credit"
+    },
+    {
+      "id": "q_t65",
+      "thread": "t65",
+      "question": "Which concepts does \"20 Billion In 3 Credit Trades How\" primarily touch?",
+      "answer": "Fixed Income, Credit",
+      "cluster": "Credit & Private Credit"
+    },
+    {
+      "id": "q_t64",
+      "thread": "t64",
+      "question": "Which concepts does \"Copper TCRCS Hit 60 Why Andurand\" primarily touch?",
+      "answer": "Andurand, Commodities",
+      "cluster": "Commodities"
+    },
+    {
+      "id": "q_t66",
+      "thread": "t66",
+      "question": "Which concepts does \"Inside The Oil Trades That Generated\" primarily touch?",
+      "answer": "Commodities",
+      "cluster": "Commodities"
+    },
+    {
+      "id": "q_t79",
+      "thread": "t79",
+      "question": "Which concepts does \"Eight Banks Paid 13b For Silver Manipulation\" primarily touch?",
+      "answer": "Commodities, Court / Legal",
+      "cluster": "Commodities"
+    }
+  ]
+}
