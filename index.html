@@ -125,6 +125,38 @@ svg#graph:active{cursor:grabbing}
 ::-webkit-scrollbar{width:8px;height:8px}
 ::-webkit-scrollbar-thumb{background:#2a323d;border-radius:4px}
 ::-webkit-scrollbar-thumb:hover{background:#3a4554}
+
+/* --- read state --- */
+.status-icon{display:inline-block;width:11px;height:11px;border-radius:50%;border:1.5px solid var(--border);vertical-align:-1px;margin-right:4px;flex:none}
+.status-icon.unread{background:transparent;border-color:#3a4554}
+.status-icon.want{background:transparent;border-color:#76b7b2;box-shadow:inset 0 0 0 2px #76b7b2}
+.status-icon.read{background:#59a14f;border-color:#59a14f}
+.thread.read{opacity:.55}
+.thread.read .t-title{text-decoration:line-through;text-decoration-thickness:1px;text-decoration-color:rgba(89,161,79,.6)}
+.thread.want{border-left:3px solid #76b7b2;padding-left:7px}
+.t-meta-row{display:flex;align-items:center}
+
+.node.want circle{stroke:#76b7b2;stroke-width:2.5px}
+.node.read circle{stroke:#59a14f;stroke-width:2.5px;fill-opacity:.45}
+
+#dpStatusBar{display:flex;gap:4px;margin:8px 0 4px 0}
+#dpStatusBar .sb-btn{flex:1;padding:5px 8px;border-radius:5px;border:1px solid var(--border);background:var(--surface-2);color:var(--text-dim);font-size:11px;cursor:pointer;text-align:center;user-select:none}
+#dpStatusBar .sb-btn:hover{color:var(--text)}
+#dpStatusBar .sb-btn.active{color:#fff;background:var(--accent);border-color:var(--accent)}
+#dpStatusBar .sb-btn.want.active{background:#76b7b2;border-color:#76b7b2;color:#0e1116}
+#dpStatusBar .sb-btn.read.active{background:#59a14f;border-color:#59a14f;color:#0e1116}
+
+.tally-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin:4px 0 14px 0}
+.tally{padding:10px 8px;background:var(--surface-2);border:1px solid var(--border);border-radius:7px;text-align:center}
+.tally .t-num{font-size:18px;font-weight:600;color:var(--text)}
+.tally .t-label{font-size:10.5px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
+.tally.want .t-num{color:#76b7b2}
+.tally.read .t-num{color:#59a14f}
+
+.path .p-progress{margin-top:5px;height:5px;background:var(--surface);border-radius:3px;overflow:hidden}
+.path .p-progress .p-fill{height:100%;background:#59a14f;transition:width .25s}
+.path .p-meta-row{display:flex;justify-content:space-between;align-items:center}
+.path .p-pct{color:#59a14f;font-size:11px;font-weight:600}
 </style>
 </head>
 <body>
@@ -137,12 +169,19 @@ svg#graph:active{cursor:grabbing}
     <div id="search"><input id="searchInput" type="search" placeholder="Search posts, concepts, themes…" /></div>
     <div class="tabs">
       <div class="tab active" data-tab="posts">Posts</div>
+      <div class="tab" data-tab="reading">Reading</div>
       <div class="tab" data-tab="concepts">Concepts</div>
       <div class="tab" data-tab="paths">Paths</div>
       <div class="tab" data-tab="stats">Stats</div>
       <div class="tab" data-tab="quiz">Quiz</div>
     </div>
     <div class="panel" id="panel-posts">
+      <div class="filter-row" id="readFilter">
+        <div class="pill active" data-read="all">all</div>
+        <div class="pill" data-read="unread">unread</div>
+        <div class="pill" data-read="want">want to read</div>
+        <div class="pill" data-read="read">read</div>
+      </div>
       <div class="filter-row" id="diffFilter">
         <div class="pill active" data-diff="all">all</div>
         <div class="pill" data-diff="beginner">beginner</div>
@@ -152,6 +191,7 @@ svg#graph:active{cursor:grabbing}
       <div class="filter-row" id="clusterFilter"></div>
       <div id="threadList"></div>
     </div>
+    <div class="panel" id="panel-reading" style="display:none"></div>
     <div class="panel" id="panel-concepts" style="display:none"></div>
     <div class="panel" id="panel-paths" style="display:none"></div>
     <div class="panel" id="panel-stats" style="display:none"></div>
@@ -172,6 +212,7 @@ svg#graph:active{cursor:grabbing}
     <div id="controls">
       <button id="btnConcepts" class="on">Concepts</button>
       <button id="btnLabels" class="on">Labels</button>
+      <button id="btnHideRead">Hide read</button>
       <button id="btnReset">Reset view</button>
     </div>
   </div>
@@ -5372,6 +5413,60 @@ const state = {
   mutedClusters: new Set(),
   fromDate: null,    // ISO yyyy-mm-dd; null = no lower bound
   hoverThread: null,
+  readFilter: "all", // all | unread | want | read
+  hideRead: false,
+};
+
+/* ===================== read state (localStorage) ===================== */
+const READ_STORE_KEY = "nbmm.readState.v1";
+const READ = {
+  _cache: (()=>{ try { return JSON.parse(localStorage.getItem(READ_STORE_KEY))||{}; } catch(e){ return {}; } })(),
+  get(id){ return this._cache[id] || "unread"; },
+  set(id, status){
+    if(status==="unread") delete this._cache[id];
+    else this._cache[id] = status;
+    this._flush();
+  },
+  cycle(id){
+    const cur = this.get(id);
+    const next = cur==="unread" ? "want" : cur==="want" ? "read" : "unread";
+    this.set(id, next);
+    return next;
+  },
+  _flush(){ try{ localStorage.setItem(READ_STORE_KEY, JSON.stringify(this._cache)); } catch(e){} },
+  tally(){
+    let read=0, want=0;
+    Object.values(this._cache).forEach(v=>{ if(v==="read") read++; else if(v==="want") want++; });
+    return {read, want, unread: DATA.threads.length - read - want};
+  },
+  export(){
+    const blob = JSON.stringify({version:1, ts:new Date().toISOString(), state:this._cache}, null, 2);
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([blob], {type:"application/json"}));
+    a.download = `mindmap-reading-${new Date().toISOString().slice(0,10)}.json`;
+    a.click();
+  },
+  import(file){
+    const reader = new FileReader();
+    reader.onload = ()=>{
+      try{
+        const parsed = JSON.parse(reader.result);
+        const incoming = parsed.state || parsed;
+        let n = 0;
+        Object.entries(incoming).forEach(([k,v])=>{
+          if(["want","read"].includes(v)){ this._cache[k]=v; n++; }
+        });
+        this._flush();
+        rerenderAll();
+        alert(`Imported ${n} read-state entries.`);
+      } catch(e){ alert("Import failed: "+e.message); }
+    };
+    reader.readAsText(file);
+  },
+  reset(){
+    if(!confirm("Clear all read/want-to-read marks? This can't be undone unless you exported a backup.")) return;
+    this._cache = {}; this._flush(); rerenderAll();
+  },
 };
 
 // Pre-compute adjacency for fast neighbor lookup on hover.
@@ -5395,7 +5490,7 @@ document.querySelectorAll(".tab").forEach(t=>{
     document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
     t.classList.add("active");
     state.tab = t.dataset.tab;
-    ["posts","concepts","paths","stats","quiz"].forEach(name=>{
+    ["posts","reading","concepts","paths","stats","quiz"].forEach(name=>{
       document.getElementById("panel-"+name).style.display = (name===state.tab)?"":"none";
     });
     writeHash();
@@ -5434,6 +5529,15 @@ document.querySelectorAll("#diffFilter .pill").forEach(p=>{
   });
 });
 
+document.querySelectorAll("#readFilter .pill").forEach(p=>{
+  p.addEventListener("click",()=>{
+    document.querySelectorAll("#readFilter .pill").forEach(x=>x.classList.remove("active"));
+    p.classList.add("active");
+    state.readFilter = p.dataset.read;
+    renderThreadList(); applyGraphFilters(); writeHash();
+  });
+});
+
 /* ===================== search ===================== */
 const searchInput=document.getElementById("searchInput");
 searchInput.addEventListener("input",e=>{
@@ -5453,6 +5557,8 @@ function filteredThreads(){
       if(p && !p.threads.includes(t.id)) return false;
     }
     if(state.fromDate && t.date && t.date < state.fromDate) return false;
+    if(state.readFilter !== "all" && READ.get(t.id) !== state.readFilter) return false;
+    if(state.hideRead && READ.get(t.id) === "read") return false;
     if(state.searchTerm){
       const hay = (t.title+" "+t.summary+" "+t.concepts.join(" ")+" "+t.cluster).toLowerCase();
       if(!hay.includes(state.searchTerm)) return false;
@@ -5465,9 +5571,10 @@ function renderThreadList(){
   const ts = filteredThreads();
   wrap.innerHTML = "";
   ts.slice(0,400).forEach(t=>{
+    const status = READ.get(t.id);
     const el = document.createElement("div");
-    el.className = "thread" + (state.selectedThread===t.id?" selected":"");
-    el.innerHTML = `<div class="t-title">${escapeHtml(t.title)}</div>
+    el.className = "thread" + (state.selectedThread===t.id?" selected":"") + (status!=="unread" ? " "+status : "");
+    el.innerHTML = `<div class="t-meta-row"><span class="status-icon ${status}" title="${status}"></span><div class="t-title" style="flex:1">${escapeHtml(t.title)}</div></div>
       <div class="t-meta"><span style="color:${clusterColor[t.cluster]||'#888'}">●</span> ${escapeHtml(t.cluster)} · ${t.difficulty} · ${t.date||""}</div>
       <div class="t-tags">${t.concepts.slice(0,5).map(c=>`<span class="tag">${escapeHtml(c)}</span>`).join("")}</div>`;
     el.addEventListener("click",()=>selectThread(t.id));
@@ -5497,12 +5604,16 @@ function renderPaths(){
   const wrap = document.getElementById("panel-paths");
   wrap.innerHTML = "";
   DATA.learning_paths.forEach(p=>{
+    const readCount = p.threads.filter(id=>READ.get(id)==="read").length;
+    const pct = p.threads.length ? Math.round(100*readCount/p.threads.length) : 0;
     const el = document.createElement("div");
     el.className="path"+(state.activePath===p.name?" active":"");
-    el.innerHTML=`<div class="p-name">${escapeHtml(p.name)}</div><div class="p-meta">${p.threads.length} posts</div>`;
+    el.innerHTML=`<div class="p-name">${escapeHtml(p.name)}</div>
+      <div class="p-meta-row"><div class="p-meta">${readCount} / ${p.threads.length} read</div><div class="p-pct">${pct}%</div></div>
+      <div class="p-progress"><div class="p-fill" style="width:${pct}%"></div></div>`;
     el.addEventListener("click",()=>{
       state.activePath = (state.activePath===p.name) ? null : p.name;
-      renderPaths(); renderThreadList(); applyGraphFilters();
+      renderPaths(); renderThreadList(); applyGraphFilters(); writeHash();
     });
     wrap.appendChild(el);
   });
@@ -5666,6 +5777,9 @@ function applyGraphFilters(){
     return false;
   });
   nodeSel.classed("highlighted", d=> d.type==="thread" && (state.selectedThread===d.id || state.hoverThread===d.id));
+  // status ring (read / want-to-read)
+  nodeSel.classed("read", d=> d.type==="thread" && READ.get(d.id)==="read");
+  nodeSel.classed("want", d=> d.type==="thread" && READ.get(d.id)==="want");
   nodeSel.style("display", d=>{
     if(d.type==="concept" && !state.showConcepts) return "none";
     return null;
@@ -5713,6 +5827,7 @@ function selectThread(id){
       : `<span style="color:var(--text-dim);font-size:11px">No graph neighbors above similarity threshold.</span>`;
     const dp = document.getElementById("detail-panel");
     dp.classList.add("show");
+    const cur = READ.get(t.id);
     dp.innerHTML = `<span class="dp-close" id="dpClose">×</span>
       <h2>${escapeHtml(t.title)}</h2>
       <div class="dp-meta">
@@ -5720,12 +5835,25 @@ function selectThread(id){
         <span>${escapeHtml(t.difficulty)}</span>
         <span>${escapeHtml(t.date||"")}</span>
       </div>
+      <div id="dpStatusBar">
+        <div class="sb-btn ${cur==='unread'?'active':''}" data-status="unread">Unread <span style="opacity:.6">(u)</span></div>
+        <div class="sb-btn want ${cur==='want'?'active':''}" data-status="want">Want to read <span style="opacity:.6">(w)</span></div>
+        <div class="sb-btn read ${cur==='read'?'active':''}" data-status="read">Read <span style="opacity:.6">(r)</span></div>
+      </div>
       <div class="dp-summary">${escapeHtml(t.summary)}</div>
       <div class="dp-section">Concepts</div>
       <div>${t.concepts.map(c=>`<span class="tag" style="margin:2px 3px 2px 0;display:inline-block">${escapeHtml(c)}</span>`).join("") || "<span style='color:var(--text-dim);font-size:11px'>—</span>"}</div>
       <div class="dp-section">Related posts</div>
       <div id="dpRelated">${relHtml}</div>
       <a class="dp-link" target="_blank" rel="noopener" href="${t.url}">Open on Substack ↗</a>`;
+    dp.querySelectorAll("#dpStatusBar .sb-btn").forEach(btn=>{
+      btn.addEventListener("click",()=>{
+        READ.set(t.id, btn.dataset.status);
+        rerenderAll();
+        // re-open detail panel to refresh active state
+        const sel = state.selectedThread; state.selectedThread = null; selectThread(sel);
+      });
+    });
     document.getElementById("dpClose").addEventListener("click",()=>{
       state.selectedThread=null;
       document.getElementById("detail-panel").classList.remove("show");
@@ -5934,12 +6062,97 @@ function readHash(){
   renderThreadList(); applyGraphFilters();
 }
 
+/* ===================== Reading tab ===================== */
+function renderReading(){
+  const wrap = document.getElementById("panel-reading");
+  const tally = READ.tally();
+  const want = DATA.threads
+    .filter(t=>READ.get(t.id)==="want")
+    .sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+  const read = DATA.threads
+    .filter(t=>READ.get(t.id)==="read")
+    .sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+
+  const renderList = (arr, emptyMsg)=> arr.length
+    ? arr.map(t=>`<div class="thread" data-id="${t.id}">
+        <div class="t-meta-row"><span class="status-icon ${READ.get(t.id)}"></span><div class="t-title" style="flex:1">${escapeHtml(t.title)}</div></div>
+        <div class="t-meta"><span style="color:${clusterColor[t.cluster]||'#888'}">●</span> ${escapeHtml(t.cluster)} · ${t.date||""}</div>
+      </div>`).join("")
+    : `<div style="color:var(--text-dim);font-size:11.5px;padding:8px 4px">${emptyMsg}</div>`;
+
+  wrap.innerHTML = `
+    <div class="tally-grid">
+      <div class="tally"><div class="t-num">${tally.unread}</div><div class="t-label">unread</div></div>
+      <div class="tally want"><div class="t-num">${tally.want}</div><div class="t-label">want</div></div>
+      <div class="tally read"><div class="t-num">${tally.read}</div><div class="t-label">read</div></div>
+    </div>
+    <div style="display:flex;gap:6px;margin-bottom:12px">
+      <button class="btn" id="btnExport" style="flex:1">Export backup</button>
+      <button class="btn" id="btnImport" style="flex:1">Import backup</button>
+      <input type="file" id="fileImport" accept="application/json" style="display:none" />
+      <button class="btn" id="btnClear" style="flex:none;color:var(--warn);border-color:var(--warn)">Reset</button>
+    </div>
+    <div class="dp-section" style="margin-top:4px">Want to read (${want.length})</div>
+    <div id="wantList">${renderList(want, "Nothing queued. Mark posts as \"want to read\" from the detail panel or hit w.")}</div>
+    <div class="dp-section" style="margin-top:14px">Recently read (${read.length})</div>
+    <div id="readList">${renderList(read, "Nothing marked read yet.")}</div>`;
+
+  wrap.querySelectorAll(".thread[data-id]").forEach(el=>{
+    el.addEventListener("click",()=>selectThread(el.dataset.id));
+  });
+  wrap.querySelector("#btnExport").addEventListener("click",()=>READ.export());
+  const fileInput = wrap.querySelector("#fileImport");
+  wrap.querySelector("#btnImport").addEventListener("click",()=>fileInput.click());
+  fileInput.addEventListener("change",e=>{ if(e.target.files[0]) READ.import(e.target.files[0]); });
+  wrap.querySelector("#btnClear").addEventListener("click",()=>READ.reset());
+}
+
+/* ===================== rerender everything that depends on read state ===================== */
+function rerenderAll(){
+  renderThreadList();
+  renderPaths();
+  renderReading();
+  applyGraphFilters();
+}
+
+/* ===================== Hide-read button ===================== */
+document.getElementById("btnHideRead").addEventListener("click",e=>{
+  state.hideRead = !state.hideRead;
+  e.target.classList.toggle("on", state.hideRead);
+  rerenderAll();
+});
+
+/* ===================== keyboard shortcuts ===================== */
+document.addEventListener("keydown",(e)=>{
+  // ignore when typing in an input
+  if(/input|textarea/i.test((e.target.tagName||""))) {
+    if(e.key==="Escape"){ e.target.blur(); }
+    return;
+  }
+  if(e.metaKey||e.ctrlKey||e.altKey) return;
+
+  if(e.key==="/"){ e.preventDefault(); document.getElementById("searchInput").focus(); return; }
+  if(e.key==="Escape"){
+    if(state.selectedThread){ state.selectedThread=null; document.getElementById("detail-panel").classList.remove("show"); writeHash(); renderThreadList(); applyGraphFilters(); }
+    return;
+  }
+  if(e.key==="h"){ document.getElementById("btnHideRead").click(); return; }
+  // status shortcuts only when a post is selected
+  if(state.selectedThread && ["r","w","u"].includes(e.key)){
+    const status = e.key==="r"?"read":e.key==="w"?"want":"unread";
+    READ.set(state.selectedThread, status);
+    const sel = state.selectedThread; state.selectedThread = null; selectThread(sel);
+    rerenderAll();
+  }
+});
+
 /* ===================== bootstrap ===================== */
 buildGraph();
 renderThreadList();
 renderConcepts();
 renderPaths();
 renderStats();
+renderReading();
 renderQuiz();
 renderLegend();
 wireTimeline();
