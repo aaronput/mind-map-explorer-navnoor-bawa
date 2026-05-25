@@ -4,8 +4,14 @@
 # Vercel will auto-deploy ~30s after the push.
 set -euo pipefail
 
-cd "$(dirname "$0")"
-echo "→ Working in: $(pwd)"
+# Cron runs with a stripped PATH. Re-add the locations our tools live in
+# so this script works identically whether called by hand or by cron.
+export PATH="/opt/homebrew/bin:/opt/anaconda3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
+# Resolve symlinks so `dirname "$0"` works even if invoked via a symlink.
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+cd "$SCRIPT_DIR"
+echo "→ [$(date '+%Y-%m-%d %H:%M:%S')] Working in: $(pwd)"
 
 # 1. Pull a fresh sitemap from Substack
 echo "→ Fetching sitemap..."
