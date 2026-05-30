@@ -3,7 +3,7 @@
     "name": "Navnoor Bawa",
     "tagline": "Quantitative Researcher",
     "url": "https://navnoorbawa.substack.com/",
-    "post_count": 214
+    "post_count": 215
   },
   "clusters": [
     {
@@ -46,6 +46,19 @@
   "threads": [
     {
       "id": "t0",
+      "slug": "how-hrt-and-jane-street-made-225b",
+      "title": "How Hrt And JANE Street Made 225b",
+      "url": "https://navnoorbawa.substack.com/p/how-hrt-and-jane-street-made-225b",
+      "date": "2026-05-29",
+      "summary": "Substack post \u00b7 2026-05-29",
+      "concepts": [
+        "Jane Street"
+      ],
+      "cluster": "Hedge Fund Strategy",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t1",
       "slug": "a-nomura-trader-made-10284-spoofing",
       "title": "A Nomura Trader Made 10284 Spoofing",
       "url": "https://navnoorbawa.substack.com/p/a-nomura-trader-made-10284-spoofing",
@@ -56,7 +69,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t1",
+      "id": "t2",
       "slug": "the-cramer-rao-bound-killed-ltcm",
       "title": "The Cramer-Rao Bound Killed LTCM. It's Why the SEC Just Fined Two Sigma $90M.",
       "url": "https://navnoorbawa.substack.com/p/the-cramer-rao-bound-killed-ltcm",
@@ -69,7 +82,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t2",
+      "id": "t3",
       "slug": "market-making-alpha-how-virtu-won",
       "title": "Market Making Alpha: How Virtu Won 1,237 Days \u2014 and Why Jane Street Keeps Ending Up in Court",
       "url": "https://navnoorbawa.substack.com/p/market-making-alpha-how-virtu-won",
@@ -84,7 +97,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t3",
+      "id": "t4",
       "slug": "axie-infinity-cs2-skins-and-roblox",
       "title": "Axie Infinity, CS2 Skins, and Roblox: How Hedge Funds Built Gaming Currency Alpha",
       "url": "https://navnoorbawa.substack.com/p/axie-infinity-cs2-skins-and-roblox",
@@ -97,7 +110,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t4",
+      "id": "t5",
       "slug": "how-institutional-traders-exploit",
       "title": "How Institutional Traders Exploit",
       "url": "https://navnoorbawa.substack.com/p/how-institutional-traders-exploit",
@@ -108,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t5",
+      "id": "t6",
       "slug": "the-179-billion-loop",
       "title": "The 179 Billion Loop",
       "url": "https://navnoorbawa.substack.com/p/the-179-billion-loop",
@@ -119,7 +132,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t6",
+      "id": "t7",
       "slug": "how-hedge-funds-made-billions-from",
       "title": "How Hedge Funds Made Billions From SoftBank: Five Structural Trades",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-billions-from",
@@ -130,7 +143,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t7",
+      "id": "t8",
       "slug": "non-deliverable-forwards-ndfs-and",
       "title": "Non-Deliverable Forwards (NDFs) and Emerging Market Currency Alpha",
       "url": "https://navnoorbawa.substack.com/p/non-deliverable-forwards-ndfs-and",
@@ -144,7 +157,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t8",
+      "id": "t9",
       "slug": "how-hedge-funds-turned-defense-stocks",
       "title": "How Hedge Funds Turned Defense Stocks Into Their Best Trade of 2022",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-turned-defense-stocks",
@@ -157,7 +170,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t9",
+      "id": "t10",
       "slug": "iran-war-hedge-fund-alpha-map-every",
       "title": "Iran War Hedge Fund Alpha Map: Every Winner, Every Loser",
       "url": "https://navnoorbawa.substack.com/p/iran-war-hedge-fund-alpha-map-every",
@@ -172,7 +185,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t10",
+      "id": "t11",
       "slug": "joint-spxvix-calibration-follow-up",
       "title": "Joint SPX/VIX Calibration Follow-Up: Bates SVJ Degenerates on Daily Data",
       "url": "https://navnoorbawa.substack.com/p/joint-spxvix-calibration-follow-up",
@@ -186,7 +199,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t11",
+      "id": "t12",
       "slug": "indias-oil-war-market-crisis-30-day",
       "title": "India's Oil-War Market Crisis: 30-Day Nifty Outlook",
       "url": "https://navnoorbawa.substack.com/p/indias-oil-war-market-crisis-30-day",
@@ -202,7 +215,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t12",
+      "id": "t13",
       "slug": "the-holy-grail-of-volatility-modelling",
       "title": "The Holy Grail of Volatility Modelling: What Happens When You Actually Try to Build It",
       "url": "https://navnoorbawa.substack.com/p/the-holy-grail-of-volatility-modelling",
@@ -215,7 +228,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t13",
+      "id": "t14",
       "slug": "iran-war-oil-shock-2928-hedge-fund",
       "title": "Iran War Oil Shock, 292.8% Hedge Fund Leverage, and Powell's Last FOMC",
       "url": "https://navnoorbawa.substack.com/p/iran-war-oil-shock-2928-hedge-fund",
@@ -230,7 +243,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t14",
+      "id": "t15",
       "slug": "the-desert-playbook-how-hedge-funds",
       "title": "The Desert Playbook: How Hedge Funds Extracted Alpha from Dubai",
       "url": "https://navnoorbawa.substack.com/p/the-desert-playbook-how-hedge-funds",
@@ -241,7 +254,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t15",
+      "id": "t16",
       "slug": "how-hedge-funds-profit-every-time",
       "title": "How Hedge Funds Profit Every Time",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-profit-every-time",
@@ -252,7 +265,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t16",
+      "id": "t17",
       "slug": "the-index-fund-toll-booth-how-hedge",
       "title": "The Index Fund Toll Booth How Hedge",
       "url": "https://navnoorbawa.substack.com/p/the-index-fund-toll-booth-how-hedge",
@@ -263,7 +276,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t17",
+      "id": "t18",
       "slug": "how-blackrocks-esg-retreat-triggered",
       "title": "How Blackrocks ESG Retreat Triggered",
       "url": "https://navnoorbawa.substack.com/p/how-blackrocks-esg-retreat-triggered",
@@ -274,7 +287,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t18",
+      "id": "t19",
       "slug": "elliott-management-azoria-and-the",
       "title": "ELLIOTT Management Azoria And The",
       "url": "https://navnoorbawa.substack.com/p/elliott-management-azoria-and-the",
@@ -287,7 +300,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t19",
+      "id": "t20",
       "slug": "the-2022-uk-gilt-market-crisis-how",
       "title": "The 2022 UK Gilt Market Crisis How",
       "url": "https://navnoorbawa.substack.com/p/the-2022-uk-gilt-market-crisis-how",
@@ -300,7 +313,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t20",
+      "id": "t21",
       "slug": "gold-65-silver-144-in-2025-how-bridgewater",
       "title": "Gold 65 Silver 144 In 2025 How BRIDGEWATER",
       "url": "https://navnoorbawa.substack.com/p/gold-65-silver-144-in-2025-how-bridgewater",
@@ -314,7 +327,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t21",
+      "id": "t22",
       "slug": "how-hedge-funds-monetise-options",
       "title": "How Hedge Funds Monetise Options",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-monetise-options",
@@ -328,7 +341,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t22",
+      "id": "t23",
       "slug": "the-trade-war-dividend-druckenmillers",
       "title": "The Trade War Dividend Druckenmillers",
       "url": "https://navnoorbawa.substack.com/p/the-trade-war-dividend-druckenmillers",
@@ -341,7 +354,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t23",
+      "id": "t24",
       "slug": "blood-crude-and-capital-how-russias",
       "title": "Blood Crude And CAPITAL How Russias",
       "url": "https://navnoorbawa.substack.com/p/blood-crude-and-capital-how-russias",
@@ -355,7 +368,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t24",
+      "id": "t25",
       "slug": "securities-class-action-settlements",
       "title": "Securities Class Action Settlements",
       "url": "https://navnoorbawa.substack.com/p/securities-class-action-settlements",
@@ -366,7 +379,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t25",
+      "id": "t26",
       "slug": "how-hedge-funds-pre-positioned-for",
       "title": "How Hedge Funds Pre Positioned For",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-pre-positioned-for",
@@ -377,7 +390,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t26",
+      "id": "t27",
       "slug": "how-hedge-funds-systematically-profit",
       "title": "How Hedge Funds Systematically Profit",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-systematically-profit",
@@ -388,7 +401,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t27",
+      "id": "t28",
       "slug": "the-three-trades-inside-japans-halo",
       "title": "The Three Trades Inside Japans Halo",
       "url": "https://navnoorbawa.substack.com/p/the-three-trades-inside-japans-halo",
@@ -399,7 +412,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t28",
+      "id": "t29",
       "slug": "koreas-170-billion-retail-wave-broadcast",
       "title": "Koreas 170 Billion Retail Wave Broadcast",
       "url": "https://navnoorbawa.substack.com/p/koreas-170-billion-retail-wave-broadcast",
@@ -410,7 +423,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t29",
+      "id": "t30",
       "slug": "the-cme-group-outage-november-2025",
       "title": "The CME Group Outage November 2025",
       "url": "https://navnoorbawa.substack.com/p/the-cme-group-outage-november-2025",
@@ -423,7 +436,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t30",
+      "id": "t31",
       "slug": "the-36-billion-forecast-edge-how",
       "title": "The 36 Billion Forecast Edge How",
       "url": "https://navnoorbawa.substack.com/p/the-36-billion-forecast-edge-how",
@@ -434,7 +447,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t31",
+      "id": "t32",
       "slug": "eu-ets-alpha-andurands-3085-eua-trade",
       "title": "EU ETS Alpha Andurands 3085 EUA Trade",
       "url": "https://navnoorbawa.substack.com/p/eu-ets-alpha-andurands-3085-eua-trade",
@@ -448,7 +461,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t32",
+      "id": "t33",
       "slug": "the-energy-trading-edge-how-hedge",
       "title": "The Energy Trading Edge How Hedge",
       "url": "https://navnoorbawa.substack.com/p/the-energy-trading-edge-how-hedge",
@@ -459,7 +472,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t33",
+      "id": "t34",
       "slug": "us-investment-grade-spreads-hit-30",
       "title": "US Investment Grade Spreads Hit 30",
       "url": "https://navnoorbawa.substack.com/p/us-investment-grade-spreads-hit-30",
@@ -470,7 +483,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t34",
+      "id": "t35",
       "slug": "kem-one-apollos-600m-acquisition",
       "title": "Kem One Apollos 600m Acquisition",
       "url": "https://navnoorbawa.substack.com/p/kem-one-apollos-600m-acquisition",
@@ -481,7 +494,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t35",
+      "id": "t36",
       "slug": "how-druckenmiller-rokos-and-vista",
       "title": "How Druckenmiller Rokos And Vista",
       "url": "https://navnoorbawa.substack.com/p/how-druckenmiller-rokos-and-vista",
@@ -492,7 +505,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t36",
+      "id": "t37",
       "slug": "how-hedge-funds-basis-traders-and",
       "title": "How Hedge Funds Basis Traders And",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-basis-traders-and",
@@ -505,7 +518,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t37",
+      "id": "t38",
       "slug": "black-scholes-is-a-quoting-language",
       "title": "Black Scholes Is A Quoting Language",
       "url": "https://navnoorbawa.substack.com/p/black-scholes-is-a-quoting-language",
@@ -518,7 +531,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t38",
+      "id": "t39",
       "slug": "inside-costars-3-billion-homescom",
       "title": "Inside Costars 3 Billion Homescom",
       "url": "https://navnoorbawa.substack.com/p/inside-costars-3-billion-homescom",
@@ -529,7 +542,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t39",
+      "id": "t40",
       "slug": "mason-capital-management-from-ascents",
       "title": "Mason CAPITAL Management From Ascents",
       "url": "https://navnoorbawa.substack.com/p/mason-capital-management-from-ascents",
@@ -540,7 +553,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t40",
+      "id": "t41",
       "slug": "first-brands-23b-fraud-2025-the-complete",
       "title": "First Brands 23b Fraud 2025 The Complete",
       "url": "https://navnoorbawa.substack.com/p/first-brands-23b-fraud-2025-the-complete",
@@ -551,7 +564,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t41",
+      "id": "t42",
       "slug": "inside-da-vinci-tradings-multi-market",
       "title": "Inside da VINCI Tradings Multi Market",
       "url": "https://navnoorbawa.substack.com/p/inside-da-vinci-tradings-multi-market",
@@ -564,7 +577,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t42",
+      "id": "t43",
       "slug": "blue-owl-capital-obdc-merger-failure",
       "title": "BLUE OWL CAPITAL OBDC Merger Failure",
       "url": "https://navnoorbawa.substack.com/p/blue-owl-capital-obdc-merger-failure",
@@ -579,7 +592,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t43",
+      "id": "t44",
       "slug": "boaz-weinsteins-5-engine-strategy",
       "title": "Boaz Weinsteins 5 Engine Strategy",
       "url": "https://navnoorbawa.substack.com/p/boaz-weinsteins-5-engine-strategy",
@@ -592,7 +605,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t44",
+      "id": "t45",
       "slug": "2025-hedge-fund-performance-analysis",
       "title": "2025 Hedge Fund Performance Analysis",
       "url": "https://navnoorbawa.substack.com/p/2025-hedge-fund-performance-analysis",
@@ -605,7 +618,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t45",
+      "id": "t46",
       "slug": "elliott-managements-ac-milan-investment",
       "title": "ELLIOTT Managements Ac Milan Investment",
       "url": "https://navnoorbawa.substack.com/p/elliott-managements-ac-milan-investment",
@@ -618,7 +631,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t46",
+      "id": "t47",
       "slug": "alphabets-20-billion-bond-offering",
       "title": "Alphabets 20 Billion Bond Offering",
       "url": "https://navnoorbawa.substack.com/p/alphabets-20-billion-bond-offering",
@@ -631,7 +644,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t47",
+      "id": "t48",
       "slug": "how-36-souths-long-volatility-strategy",
       "title": "How 36 Souths Long Volatility Strategy",
       "url": "https://navnoorbawa.substack.com/p/how-36-souths-long-volatility-strategy",
@@ -644,7 +657,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t48",
+      "id": "t49",
       "slug": "the-illiquidity-arbitrage-playbook",
       "title": "The Illiquidity Arbitrage Playbook",
       "url": "https://navnoorbawa.substack.com/p/the-illiquidity-arbitrage-playbook",
@@ -657,7 +670,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t49",
+      "id": "t50",
       "slug": "tanakas-formula-in-practice-how-hedge",
       "title": "Tanakas Formula In Practice How Hedge",
       "url": "https://navnoorbawa.substack.com/p/tanakas-formula-in-practice-how-hedge",
@@ -668,7 +681,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t50",
+      "id": "t51",
       "slug": "music-royalty-tax-arbitrage-how-institutional",
       "title": "Music Royalty Tax Arbitrage How Institutional",
       "url": "https://navnoorbawa.substack.com/p/music-royalty-tax-arbitrage-how-institutional",
@@ -681,7 +694,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t51",
+      "id": "t52",
       "slug": "leap-year-alpha-how-the-366th-day",
       "title": "Leap Year Alpha How The 366th Day",
       "url": "https://navnoorbawa.substack.com/p/leap-year-alpha-how-the-366th-day",
@@ -694,7 +707,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t52",
+      "id": "t53",
       "slug": "the-forensic-playbook-point72s-56",
       "title": "The Forensic Playbook Point72s 56",
       "url": "https://navnoorbawa.substack.com/p/the-forensic-playbook-point72s-56",
@@ -705,7 +718,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t53",
+      "id": "t54",
       "slug": "from-soross-2b-win-to-ltcms-46b-loss",
       "title": "From Soross 2b Win To Ltcms 46b Loss",
       "url": "https://navnoorbawa.substack.com/p/from-soross-2b-win-to-ltcms-46b-loss",
@@ -716,7 +729,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t54",
+      "id": "t55",
       "slug": "how-hedge-funds-made-billions-in-324",
       "title": "How Hedge Funds Made Billions In 324",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-billions-in-324",
@@ -727,7 +740,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t55",
+      "id": "t56",
       "slug": "how-hedge-funds-made-billions-in",
       "title": "How Hedge Funds Made Billions In",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-billions-in",
@@ -738,7 +751,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t56",
+      "id": "t57",
       "slug": "odeys-193-return-explained-how-hedge",
       "title": "Odeys 193 Return Explained How Hedge",
       "url": "https://navnoorbawa.substack.com/p/odeys-193-return-explained-how-hedge",
@@ -749,7 +762,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t57",
+      "id": "t58",
       "slug": "6-market-mechanisms-that-generated",
       "title": "6 Market Mechanisms That Generated",
       "url": "https://navnoorbawa.substack.com/p/6-market-mechanisms-that-generated",
@@ -760,7 +773,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t58",
+      "id": "t59",
       "slug": "the-250b-ipo-underpricing-system",
       "title": "The 250b IPO Underpricing System",
       "url": "https://navnoorbawa.substack.com/p/the-250b-ipo-underpricing-system",
@@ -771,7 +784,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t59",
+      "id": "t60",
       "slug": "inside-deutsche-banks-10b-collapse",
       "title": "Inside Deutsche Banks 10b Collapse",
       "url": "https://navnoorbawa.substack.com/p/inside-deutsche-banks-10b-collapse",
@@ -784,7 +797,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t60",
+      "id": "t61",
       "slug": "how-elite-traders-made-250b-from",
       "title": "How Elite Traders Made 250b From",
       "url": "https://navnoorbawa.substack.com/p/how-elite-traders-made-250b-from",
@@ -795,7 +808,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t61",
+      "id": "t62",
       "slug": "inside-scott-bessents-30-return-how",
       "title": "Inside Scott Bessents 30 Return How",
       "url": "https://navnoorbawa.substack.com/p/inside-scott-bessents-30-return-how",
@@ -806,7 +819,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t62",
+      "id": "t63",
       "slug": "inside-kite-lake-capitals-2b-event",
       "title": "Inside Kite Lake Capitals 2b Event",
       "url": "https://navnoorbawa.substack.com/p/inside-kite-lake-capitals-2b-event",
@@ -817,7 +830,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t63",
+      "id": "t64",
       "slug": "4-hidden-market-mechanisms-that-make",
       "title": "4 Hidden Market Mechanisms That Make",
       "url": "https://navnoorbawa.substack.com/p/4-hidden-market-mechanisms-that-make",
@@ -828,7 +841,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t64",
+      "id": "t65",
       "slug": "inside-the-tcp-packet-splitting-exploit",
       "title": "Inside The Tcp Packet Splitting Exploit",
       "url": "https://navnoorbawa.substack.com/p/inside-the-tcp-packet-splitting-exploit",
@@ -839,7 +852,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t65",
+      "id": "t66",
       "slug": "copper-tcrcs-hit-60-why-andurand",
       "title": "Copper TCRCS Hit 60 Why Andurand",
       "url": "https://navnoorbawa.substack.com/p/copper-tcrcs-hit-60-why-andurand",
@@ -853,7 +866,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t66",
+      "id": "t67",
       "slug": "20-billion-in-3-credit-trades-how",
       "title": "20 Billion In 3 Credit Trades How",
       "url": "https://navnoorbawa.substack.com/p/20-billion-in-3-credit-trades-how",
@@ -867,7 +880,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t67",
+      "id": "t68",
       "slug": "inside-the-oil-trades-that-generated",
       "title": "Inside The Oil Trades That Generated",
       "url": "https://navnoorbawa.substack.com/p/inside-the-oil-trades-that-generated",
@@ -880,7 +893,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t68",
+      "id": "t69",
       "slug": "volatility-trading-case-studies-bill",
       "title": "Volatility Trading Case Studies Bill",
       "url": "https://navnoorbawa.substack.com/p/volatility-trading-case-studies-bill",
@@ -893,7 +906,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t69",
+      "id": "t70",
       "slug": "tci-fund-management-2025-inside-chris",
       "title": "Tci Fund Management 2025 Inside Chris",
       "url": "https://navnoorbawa.substack.com/p/tci-fund-management-2025-inside-chris",
@@ -904,7 +917,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t70",
+      "id": "t71",
       "slug": "investigative-short-sellers-vs-systematic",
       "title": "Investigative Short Sellers Vs Systematic",
       "url": "https://navnoorbawa.substack.com/p/investigative-short-sellers-vs-systematic",
@@ -915,7 +928,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t71",
+      "id": "t72",
       "slug": "how-hedge-funds-made-5b-from-sovereign",
       "title": "How Hedge Funds Made 5b From Sovereign",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-5b-from-sovereign",
@@ -926,7 +939,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t72",
+      "id": "t73",
       "slug": "florida-captured-11-of-new-hedge",
       "title": "Florida Captured 11 Of New Hedge",
       "url": "https://navnoorbawa.substack.com/p/florida-captured-11-of-new-hedge",
@@ -937,7 +950,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t73",
+      "id": "t74",
       "slug": "bobby-jains-new-hedge-fund-complete",
       "title": "Bobby Jains New Hedge Fund Complete",
       "url": "https://navnoorbawa.substack.com/p/bobby-jains-new-hedge-fund-complete",
@@ -950,7 +963,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t74",
+      "id": "t75",
       "slug": "the-2-trillion-treasury-basis-trade",
       "title": "The 2 Trillion Treasury Basis Trade",
       "url": "https://navnoorbawa.substack.com/p/the-2-trillion-treasury-basis-trade",
@@ -964,7 +977,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t75",
+      "id": "t76",
       "slug": "how-nick-train-lost-16-billion-in",
       "title": "How Nick Train Lost 16 Billion In",
       "url": "https://navnoorbawa.substack.com/p/how-nick-train-lost-16-billion-in",
@@ -975,7 +988,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t76",
+      "id": "t77",
       "slug": "how-prime-brokers-make-37b-revenue",
       "title": "How Prime Brokers Make 37b Revenue",
       "url": "https://navnoorbawa.substack.com/p/how-prime-brokers-make-37b-revenue",
@@ -986,7 +999,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t77",
+      "id": "t78",
       "slug": "why-one-hedge-fund-returned-21-while",
       "title": "Why One Hedge Fund Returned 21 While",
       "url": "https://navnoorbawa.substack.com/p/why-one-hedge-fund-returned-21-while",
@@ -997,7 +1010,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t78",
+      "id": "t79",
       "slug": "i-mapped-every-entry-level-position",
       "title": "I Mapped Every Entry Level Position",
       "url": "https://navnoorbawa.substack.com/p/i-mapped-every-entry-level-position",
@@ -1008,7 +1021,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t79",
+      "id": "t80",
       "slug": "how-one-trader-made-1-billion-in",
       "title": "How One Trader Made 1 Billion In",
       "url": "https://navnoorbawa.substack.com/p/how-one-trader-made-1-billion-in",
@@ -1019,7 +1032,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t80",
+      "id": "t81",
       "slug": "eight-banks-paid-13b-for-silver-manipulation",
       "title": "Eight Banks Paid 13b For Silver Manipulation",
       "url": "https://navnoorbawa.substack.com/p/eight-banks-paid-13b-for-silver-manipulation",
@@ -1033,7 +1046,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t81",
+      "id": "t82",
       "slug": "how-bluecrest-made-6-billion-shorting",
       "title": "How BLUECREST Made 6 Billion Shorting",
       "url": "https://navnoorbawa.substack.com/p/how-bluecrest-made-6-billion-shorting",
@@ -1046,7 +1059,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t82",
+      "id": "t83",
       "slug": "i-analyzed-40-hedge-fund-billionaires",
       "title": "I Analyzed 40 Hedge Fund Billionaires",
       "url": "https://navnoorbawa.substack.com/p/i-analyzed-40-hedge-fund-billionaires",
@@ -1057,7 +1070,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t83",
+      "id": "t84",
       "slug": "bluecrest-73-renaissance-1439-october",
       "title": "BLUECREST 73 RENAISSANCE 1439 October",
       "url": "https://navnoorbawa.substack.com/p/bluecrest-73-renaissance-1439-october",
@@ -1071,7 +1084,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t84",
+      "id": "t85",
       "slug": "how-hedge-funds-made-30-in-the-first",
       "title": "How Hedge Funds Made 30 In The First",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-30-in-the-first",
@@ -1082,7 +1095,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t85",
+      "id": "t86",
       "slug": "long-gamma-captures-excess-realized",
       "title": "Long Gamma Captures Excess Realized",
       "url": "https://navnoorbawa.substack.com/p/long-gamma-captures-excess-realized",
@@ -1096,7 +1109,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t86",
+      "id": "t87",
       "slug": "bridgewaters-pure-alpha-returned",
       "title": "Bridgewaters Pure Alpha Returned",
       "url": "https://navnoorbawa.substack.com/p/bridgewaters-pure-alpha-returned",
@@ -1110,7 +1123,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t87",
+      "id": "t88",
       "slug": "point72-delivered-19-returns-after",
       "title": "POINT72 Delivered 19 Returns After",
       "url": "https://navnoorbawa.substack.com/p/point72-delivered-19-returns-after",
@@ -1124,7 +1137,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t88",
+      "id": "t89",
       "slug": "squarepoint-capital-teardown-statistical",
       "title": "Squarepoint CAPITAL Teardown Statistical",
       "url": "https://navnoorbawa.substack.com/p/squarepoint-capital-teardown-statistical",
@@ -1135,7 +1148,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t89",
+      "id": "t90",
       "slug": "how-founders-fund-captured-polymarkets",
       "title": "How Founders Fund Captured Polymarkets",
       "url": "https://navnoorbawa.substack.com/p/how-founders-fund-captured-polymarkets",
@@ -1146,7 +1159,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t90",
+      "id": "t91",
       "slug": "what-3000-years-of-economic-history",
       "title": "What 3000 Years Of Economic History",
       "url": "https://navnoorbawa.substack.com/p/what-3000-years-of-economic-history",
@@ -1157,7 +1170,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t91",
+      "id": "t92",
       "slug": "36-returns-how-de-shaw-beat-citadel",
       "title": "36 Returns How de SHAW Beat CITADEL",
       "url": "https://navnoorbawa.substack.com/p/36-returns-how-de-shaw-beat-citadel",
@@ -1172,7 +1185,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t92",
+      "id": "t93",
       "slug": "inside-the-168b-systematic-fund-making",
       "title": "Inside The 168b Systematic Fund Making",
       "url": "https://navnoorbawa.substack.com/p/inside-the-168b-systematic-fund-making",
@@ -1183,7 +1196,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t93",
+      "id": "t94",
       "slug": "how-top-quant-funds-made-197-while",
       "title": "How Top Quant Funds Made 197 While",
       "url": "https://navnoorbawa.substack.com/p/how-top-quant-funds-made-197-while",
@@ -1196,7 +1209,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t94",
+      "id": "t95",
       "slug": "how-millennium-citadel-and-point72",
       "title": "How MILLENNIUM CITADEL And POINT72",
       "url": "https://navnoorbawa.substack.com/p/how-millennium-citadel-and-point72",
@@ -1211,7 +1224,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t95",
+      "id": "t96",
       "slug": "inside-cliff-asnesss-35b-quarter",
       "title": "Inside Cliff Asnesss 35b Quarter",
       "url": "https://navnoorbawa.substack.com/p/inside-cliff-asnesss-35b-quarter",
@@ -1222,7 +1235,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t96",
+      "id": "t97",
       "slug": "millenniums-234b-q3-portfolio-20b",
       "title": "Millenniums 234b Q3 Portfolio 20b",
       "url": "https://navnoorbawa.substack.com/p/millenniums-234b-q3-portfolio-20b",
@@ -1233,7 +1246,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t97",
+      "id": "t98",
       "slug": "polymarket-prediction-system-v2-from",
       "title": "Polymarket Prediction System V2 From",
       "url": "https://navnoorbawa.substack.com/p/polymarket-prediction-system-v2-from",
@@ -1246,7 +1259,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t98",
+      "id": "t99",
       "slug": "building-a-quantitative-prediction",
       "title": "Building A Quantitative Prediction",
       "url": "https://navnoorbawa.substack.com/p/building-a-quantitative-prediction",
@@ -1259,7 +1272,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t99",
+      "id": "t100",
       "slug": "the-math-of-prediction-markets-binary",
       "title": "The Math Of Prediction Markets Binary",
       "url": "https://navnoorbawa.substack.com/p/the-math-of-prediction-markets-binary",
@@ -1272,7 +1285,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t100",
+      "id": "t101",
       "slug": "arbitrage-evolution-from-morgan-stanleys",
       "title": "Arbitrage Evolution From Morgan Stanleys",
       "url": "https://navnoorbawa.substack.com/p/arbitrage-evolution-from-morgan-stanleys",
@@ -1286,7 +1299,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t101",
+      "id": "t102",
       "slug": "how-julian-robertsons-22b-hedge-fund",
       "title": "How Julian Robertsons 22b Hedge Fund",
       "url": "https://navnoorbawa.substack.com/p/how-julian-robertsons-22b-hedge-fund",
@@ -1297,7 +1310,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t102",
+      "id": "t103",
       "slug": "how-hedge-funds-generated-262-alpha",
       "title": "How Hedge Funds Generated 262 Alpha",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-generated-262-alpha",
@@ -1310,7 +1323,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t103",
+      "id": "t104",
       "slug": "the-185-trillion-arbitrage-how-hedge",
       "title": "The 185 Trillion Arbitrage How Hedge",
       "url": "https://navnoorbawa.substack.com/p/the-185-trillion-arbitrage-how-hedge",
@@ -1323,7 +1336,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t104",
+      "id": "t105",
       "slug": "the-185-trillion-treasury-trade-that",
       "title": "The 185 Trillion Treasury Trade That",
       "url": "https://navnoorbawa.substack.com/p/the-185-trillion-treasury-trade-that",
@@ -1336,7 +1349,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t105",
+      "id": "t106",
       "slug": "why-renaissances-medallion-made-76",
       "title": "Why Renaissances MEDALLION Made 76",
       "url": "https://navnoorbawa.substack.com/p/why-renaissances-medallion-made-76",
@@ -1349,7 +1362,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t106",
+      "id": "t107",
       "slug": "millennium-managements-multi-strategy",
       "title": "MILLENNIUM Managements Multi Strategy",
       "url": "https://navnoorbawa.substack.com/p/millennium-managements-multi-strategy",
@@ -1362,7 +1375,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t107",
+      "id": "t108",
       "slug": "why-millennium-deployed-55b-to-100",
       "title": "Why MILLENNIUM Deployed 55b To 100",
       "url": "https://navnoorbawa.substack.com/p/why-millennium-deployed-55b-to-100",
@@ -1375,7 +1388,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t108",
+      "id": "t109",
       "slug": "market-neutral-funds-returned-721",
       "title": "Market Neutral Funds Returned 721",
       "url": "https://navnoorbawa.substack.com/p/market-neutral-funds-returned-721",
@@ -1386,7 +1399,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t109",
+      "id": "t110",
       "slug": "how-hedge-funds-extract-49-annual",
       "title": "How Hedge Funds Extract 49 Annual",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-extract-49-annual",
@@ -1397,7 +1410,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t110",
+      "id": "t111",
       "slug": "the-mathematical-execution-behind",
       "title": "The Mathematical Execution Behind",
       "url": "https://navnoorbawa.substack.com/p/the-mathematical-execution-behind",
@@ -1408,7 +1421,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t111",
+      "id": "t112",
       "slug": "how-llm-sentiment-analysis-generated",
       "title": "How Llm Sentiment Analysis Generated",
       "url": "https://navnoorbawa.substack.com/p/how-llm-sentiment-analysis-generated",
@@ -1419,7 +1432,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t112",
+      "id": "t113",
       "slug": "how-qis-products-democratized-dispersion",
       "title": "How Qis Products Democratized Dispersion",
       "url": "https://navnoorbawa.substack.com/p/how-qis-products-democratized-dispersion",
@@ -1430,7 +1443,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t113",
+      "id": "t114",
       "slug": "how-hedge-funds-really-trade-the",
       "title": "How Hedge Funds Really Trade The",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-really-trade-the",
@@ -1441,7 +1454,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t114",
+      "id": "t115",
       "slug": "market-making-in-derivatives-crushes",
       "title": "Market Making In Derivatives Crushes",
       "url": "https://navnoorbawa.substack.com/p/market-making-in-derivatives-crushes",
@@ -1454,7 +1467,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t115",
+      "id": "t116",
       "slug": "how-hedge-funds-profit-from-uk-budget",
       "title": "How Hedge Funds Profit From UK Budget",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-profit-from-uk-budget",
@@ -1465,7 +1478,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t116",
+      "id": "t117",
       "slug": "beyond-the-smile-how-hedge-funds",
       "title": "Beyond The Smile How Hedge Funds",
       "url": "https://navnoorbawa.substack.com/p/beyond-the-smile-how-hedge-funds",
@@ -1478,7 +1491,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t117",
+      "id": "t118",
       "slug": "how-investment-banks-profit-from",
       "title": "How Investment Banks Profit From",
       "url": "https://navnoorbawa.substack.com/p/how-investment-banks-profit-from",
@@ -1489,7 +1502,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t118",
+      "id": "t119",
       "slug": "market-making-in-sports-betting-how",
       "title": "Market Making In Sports Betting How",
       "url": "https://navnoorbawa.substack.com/p/market-making-in-sports-betting-how",
@@ -1502,7 +1515,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t119",
+      "id": "t120",
       "slug": "bank-of-americas-macro-trading-desk",
       "title": "Bank Of Americas Macro Trading Desk",
       "url": "https://navnoorbawa.substack.com/p/bank-of-americas-macro-trading-desk",
@@ -1517,7 +1530,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t120",
+      "id": "t121",
       "slug": "inside-citibanks-trading-engine-how",
       "title": "Inside Citibanks Trading Engine How",
       "url": "https://navnoorbawa.substack.com/p/inside-citibanks-trading-engine-how",
@@ -1528,7 +1541,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t121",
+      "id": "t122",
       "slug": "bridgewaters-alpha-beta-framework",
       "title": "Bridgewaters Alpha Beta Framework",
       "url": "https://navnoorbawa.substack.com/p/bridgewaters-alpha-beta-framework",
@@ -1542,7 +1555,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t122",
+      "id": "t123",
       "slug": "marshall-waces-tops-how-crowdsourcing",
       "title": "MARSHALL Waces Tops How Crowdsourcing",
       "url": "https://navnoorbawa.substack.com/p/marshall-waces-tops-how-crowdsourcing",
@@ -1553,7 +1566,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t123",
+      "id": "t124",
       "slug": "which-hedge-funds-are-trading-prediction",
       "title": "Which Hedge Funds Are Trading Prediction",
       "url": "https://navnoorbawa.substack.com/p/which-hedge-funds-are-trading-prediction",
@@ -1564,7 +1577,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t124",
+      "id": "t125",
       "slug": "inside-aqr-capital-management-how",
       "title": "Inside Aqr CAPITAL Management How",
       "url": "https://navnoorbawa.substack.com/p/inside-aqr-capital-management-how",
@@ -1575,7 +1588,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t125",
+      "id": "t126",
       "slug": "two-sigmas-china-alpha-machine-52",
       "title": "TWO Sigmas China Alpha Machine 52",
       "url": "https://navnoorbawa.substack.com/p/two-sigmas-china-alpha-machine-52",
@@ -1590,7 +1603,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t126",
+      "id": "t127",
       "slug": "ml-signal-extraction-6-hypotheses",
       "title": "ML Signal Extraction 6 Hypotheses",
       "url": "https://navnoorbawa.substack.com/p/ml-signal-extraction-6-hypotheses",
@@ -1603,7 +1616,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t127",
+      "id": "t128",
       "slug": "quant-discovered-vs-discretionary",
       "title": "Quant Discovered Vs Discretionary",
       "url": "https://navnoorbawa.substack.com/p/quant-discovered-vs-discretionary",
@@ -1616,7 +1629,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t128",
+      "id": "t129",
       "slug": "how-hedge-funds-extract-billions",
       "title": "How Hedge Funds Extract Billions",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-extract-billions",
@@ -1627,7 +1640,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t129",
+      "id": "t130",
       "slug": "how-hedge-funds-made-then-lost-billions",
       "title": "How Hedge Funds Made Then Lost Billions",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-then-lost-billions",
@@ -1638,7 +1651,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t130",
+      "id": "t131",
       "slug": "i-added-transaction-costs-to-my-goldman",
       "title": "I Added Transaction Costs To My GOLDMAN",
       "url": "https://navnoorbawa.substack.com/p/i-added-transaction-costs-to-my-goldman",
@@ -1651,7 +1664,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t131",
+      "id": "t132",
       "slug": "goldman-sachs-claims-18-returns-on",
       "title": "GOLDMAN Sachs Claims 18 Returns On",
       "url": "https://navnoorbawa.substack.com/p/goldman-sachs-claims-18-returns-on",
@@ -1665,7 +1678,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t132",
+      "id": "t133",
       "slug": "how-citadel-avoided-the-2024-steepener",
       "title": "How CITADEL Avoided The 2024 Steepener",
       "url": "https://navnoorbawa.substack.com/p/how-citadel-avoided-the-2024-steepener",
@@ -1678,7 +1691,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t133",
+      "id": "t134",
       "slug": "goldman-sachs-event-driven-options",
       "title": "GOLDMAN Sachs Event Driven Options",
       "url": "https://navnoorbawa.substack.com/p/goldman-sachs-event-driven-options",
@@ -1694,7 +1707,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t134",
+      "id": "t135",
       "slug": "jpmorgans-298b-trading-operation",
       "title": "Jpmorgans 298b Trading Operation",
       "url": "https://navnoorbawa.substack.com/p/jpmorgans-298b-trading-operation",
@@ -1705,7 +1718,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t135",
+      "id": "t136",
       "slug": "quadeye-securities-extracting-05",
       "title": "Quadeye Securities Extracting 05",
       "url": "https://navnoorbawa.substack.com/p/quadeye-securities-extracting-05",
@@ -1716,7 +1729,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t136",
+      "id": "t137",
       "slug": "ices-2b-polymarket-investment-the",
       "title": "Ices 2b Polymarket Investment The",
       "url": "https://navnoorbawa.substack.com/p/ices-2b-polymarket-investment-the",
@@ -1729,7 +1742,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t137",
+      "id": "t138",
       "slug": "multi-strategy-hedge-funds-face-structural",
       "title": "Multi Strategy Hedge Funds Face Structural",
       "url": "https://navnoorbawa.substack.com/p/multi-strategy-hedge-funds-face-structural",
@@ -1740,7 +1753,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t138",
+      "id": "t139",
       "slug": "how-major-hedge-funds-value-crypto",
       "title": "How Major Hedge Funds Value Crypto",
       "url": "https://navnoorbawa.substack.com/p/how-major-hedge-funds-value-crypto",
@@ -1753,7 +1766,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t139",
+      "id": "t140",
       "slug": "point72s-multi-pod-engine-how-415b",
       "title": "Point72s Multi Pod Engine How 415b",
       "url": "https://navnoorbawa.substack.com/p/point72s-multi-pod-engine-how-415b",
@@ -1764,7 +1777,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t140",
+      "id": "t141",
       "slug": "how-futures-first-generates-returns",
       "title": "How Futures First Generates Returns",
       "url": "https://navnoorbawa.substack.com/p/how-futures-first-generates-returns",
@@ -1778,7 +1791,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t141",
+      "id": "t142",
       "slug": "graviton-research-capital-deconstructing",
       "title": "Graviton Research CAPITAL Deconstructing",
       "url": "https://navnoorbawa.substack.com/p/graviton-research-capital-deconstructing",
@@ -1789,7 +1802,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t142",
+      "id": "t143",
       "slug": "da-vinci-trading-volatility-arbitrage",
       "title": "da VINCI Trading Volatility Arbitrage",
       "url": "https://navnoorbawa.substack.com/p/da-vinci-trading-volatility-arbitrage",
@@ -1804,7 +1817,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t143",
+      "id": "t144",
       "slug": "de-shaws-1998-crisis-how-a-372-million",
       "title": "de Shaws 1998 Crisis How A 372 Million",
       "url": "https://navnoorbawa.substack.com/p/de-shaws-1998-crisis-how-a-372-million",
@@ -1818,7 +1831,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t144",
+      "id": "t145",
       "slug": "the-george-weiss-collapse-how-a-46",
       "title": "The George Weiss Collapse How A 46",
       "url": "https://navnoorbawa.substack.com/p/the-george-weiss-collapse-how-a-46",
@@ -1831,7 +1844,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t145",
+      "id": "t146",
       "slug": "hudson-river-trading-how-8b-in-revenue",
       "title": "Hudson River Trading How 8b In Revenue",
       "url": "https://navnoorbawa.substack.com/p/hudson-river-trading-how-8b-in-revenue",
@@ -1842,7 +1855,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t146",
+      "id": "t147",
       "slug": "how-qrt-built-28b-through-centralized",
       "title": "How Qrt Built 28b Through Centralized",
       "url": "https://navnoorbawa.substack.com/p/how-qrt-built-28b-through-centralized",
@@ -1853,7 +1866,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t147",
+      "id": "t148",
       "slug": "how-volatility-arbitrage-funds-use",
       "title": "How Volatility Arbitrage Funds Use",
       "url": "https://navnoorbawa.substack.com/p/how-volatility-arbitrage-funds-use",
@@ -1867,7 +1880,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t148",
+      "id": "t149",
       "slug": "how-multi-strategy-hedge-funds-win",
       "title": "How Multi Strategy Hedge Funds Win",
       "url": "https://navnoorbawa.substack.com/p/how-multi-strategy-hedge-funds-win",
@@ -1878,7 +1891,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t149",
+      "id": "t150",
       "slug": "how-xtx-markets-turned-2024s-volatility",
       "title": "How Xtx Markets Turned 2024s Volatility",
       "url": "https://navnoorbawa.substack.com/p/how-xtx-markets-turned-2024s-volatility",
@@ -1891,7 +1904,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t150",
+      "id": "t151",
       "slug": "how-flow-traders-captured-495m-in",
       "title": "How Flow Traders Captured 495m In",
       "url": "https://navnoorbawa.substack.com/p/how-flow-traders-captured-495m-in",
@@ -1902,7 +1915,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t151",
+      "id": "t152",
       "slug": "optivers-35b-market-making-engine",
       "title": "Optivers 35b Market Making Engine",
       "url": "https://navnoorbawa.substack.com/p/optivers-35b-market-making-engine",
@@ -1915,7 +1928,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t152",
+      "id": "t153",
       "slug": "the-2m-arbitrageur-playbook-reverse",
       "title": "The 2m Arbitrageur Playbook Reverse",
       "url": "https://navnoorbawa.substack.com/p/the-2m-arbitrageur-playbook-reverse",
@@ -1926,7 +1939,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t153",
+      "id": "t154",
       "slug": "susquehannas-black-monday-trade-exploiting",
       "title": "Susquehannas Black Monday Trade Exploiting",
       "url": "https://navnoorbawa.substack.com/p/susquehannas-black-monday-trade-exploiting",
@@ -1937,7 +1950,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t154",
+      "id": "t155",
       "slug": "negrisk-market-rebalancing-how-29m",
       "title": "Negrisk Market Rebalancing How 29m",
       "url": "https://navnoorbawa.substack.com/p/negrisk-market-rebalancing-how-29m",
@@ -1948,7 +1961,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t155",
+      "id": "t156",
       "slug": "combinatorial-arbitrage-in-prediction",
       "title": "Combinatorial Arbitrage In Prediction",
       "url": "https://navnoorbawa.substack.com/p/combinatorial-arbitrage-in-prediction",
@@ -1961,7 +1974,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t156",
+      "id": "t157",
       "slug": "building-a-prediction-market-arbitrage",
       "title": "Building A Prediction Market Arbitrage",
       "url": "https://navnoorbawa.substack.com/p/building-a-prediction-market-arbitrage",
@@ -1975,7 +1988,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t157",
+      "id": "t158",
       "slug": "prediction-market-arbitrage-how-quants",
       "title": "Prediction Market Arbitrage How Quants",
       "url": "https://navnoorbawa.substack.com/p/prediction-market-arbitrage-how-quants",
@@ -1989,7 +2002,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t158",
+      "id": "t159",
       "slug": "how-hedge-funds-generated-30-returns",
       "title": "How Hedge Funds Generated 30 Returns",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-generated-30-returns",
@@ -2002,7 +2015,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t159",
+      "id": "t160",
       "slug": "one-million-options-contracts-isnt",
       "title": "One Million Options Contracts Isnt",
       "url": "https://navnoorbawa.substack.com/p/one-million-options-contracts-isnt",
@@ -2016,7 +2029,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t160",
+      "id": "t161",
       "slug": "the-volatility-carry-trade-how-selling",
       "title": "The Volatility Carry Trade How Selling",
       "url": "https://navnoorbawa.substack.com/p/the-volatility-carry-trade-how-selling",
@@ -2030,7 +2043,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t161",
+      "id": "t162",
       "slug": "how-hidden-volatility-feedback-loops",
       "title": "How Hidden Volatility Feedback Loops",
       "url": "https://navnoorbawa.substack.com/p/how-hidden-volatility-feedback-loops",
@@ -2043,7 +2056,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t162",
+      "id": "t163",
       "slug": "how-short-sellers-extracted-127m",
       "title": "How Short Sellers Extracted 127m",
       "url": "https://navnoorbawa.substack.com/p/how-short-sellers-extracted-127m",
@@ -2054,7 +2067,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t163",
+      "id": "t164",
       "slug": "the-multi-million-dollar-misdiagnosis",
       "title": "The Multi Million Dollar Misdiagnosis",
       "url": "https://navnoorbawa.substack.com/p/the-multi-million-dollar-misdiagnosis",
@@ -2067,7 +2080,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t164",
+      "id": "t165",
       "slug": "the-46-billion-lesson-why-european",
       "title": "The 46 Billion Lesson Why European",
       "url": "https://navnoorbawa.substack.com/p/the-46-billion-lesson-why-european",
@@ -2078,7 +2091,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t165",
+      "id": "t166",
       "slug": "how-markov-processes-print-money",
       "title": "How Markov Processes Print Money",
       "url": "https://navnoorbawa.substack.com/p/how-markov-processes-print-money",
@@ -2089,7 +2102,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t166",
+      "id": "t167",
       "slug": "the-40-year-bond-trade-how-systematic",
       "title": "The 40 Year Bond Trade How Systematic",
       "url": "https://navnoorbawa.substack.com/p/the-40-year-bond-trade-how-systematic",
@@ -2102,7 +2115,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t167",
+      "id": "t168",
       "slug": "how-amaranth-advisors-lost-6-billion",
       "title": "How Amaranth Advisors Lost 6 Billion",
       "url": "https://navnoorbawa.substack.com/p/how-amaranth-advisors-lost-6-billion",
@@ -2113,7 +2126,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t168",
+      "id": "t169",
       "slug": "how-misusing-the-sharpe-ratio-cost",
       "title": "How Misusing The Sharpe Ratio Cost",
       "url": "https://navnoorbawa.substack.com/p/how-misusing-the-sharpe-ratio-cost",
@@ -2124,7 +2137,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t169",
+      "id": "t170",
       "slug": "how-vol-arb-desks-actually-make-money",
       "title": "How Vol Arb Desks Actually Make Money",
       "url": "https://navnoorbawa.substack.com/p/how-vol-arb-desks-actually-make-money",
@@ -2138,7 +2151,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t170",
+      "id": "t171",
       "slug": "weather-derivatives-explode-260-inside",
       "title": "Weather Derivatives Explode 260 Inside",
       "url": "https://navnoorbawa.substack.com/p/weather-derivatives-explode-260-inside",
@@ -2149,7 +2162,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t171",
+      "id": "t172",
       "slug": "how-statistical-arbitrage-desks-made",
       "title": "How Statistical Arbitrage Desks Made",
       "url": "https://navnoorbawa.substack.com/p/how-statistical-arbitrage-desks-made",
@@ -2162,7 +2175,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t172",
+      "id": "t173",
       "slug": "the-martingale-paradox-why-mathematically",
       "title": "The Martingale Paradox Why Mathematically",
       "url": "https://navnoorbawa.substack.com/p/the-martingale-paradox-why-mathematically",
@@ -2173,7 +2186,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t173",
+      "id": "t174",
       "slug": "how-hedge-funds-use-machine-learning",
       "title": "How Hedge Funds Use Machine Learning",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-use-machine-learning",
@@ -2186,7 +2199,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t174",
+      "id": "t175",
       "slug": "how-hedge-funds-made-50-returns-betting",
       "title": "How Hedge Funds Made 50 Returns Betting",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-50-returns-betting",
@@ -2199,7 +2212,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t175",
+      "id": "t176",
       "slug": "the-2-billion-oil-storage-trade-how",
       "title": "The 2 Billion Oil Storage Trade How",
       "url": "https://navnoorbawa.substack.com/p/the-2-billion-oil-storage-trade-how",
@@ -2212,7 +2225,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t176",
+      "id": "t177",
       "slug": "the-deepseek-shock-how-systematic",
       "title": "The Deepseek Shock How Systematic",
       "url": "https://navnoorbawa.substack.com/p/the-deepseek-shock-how-systematic",
@@ -2223,7 +2236,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t177",
+      "id": "t178",
       "slug": "when-hedge-funds-lost-money-while",
       "title": "When Hedge Funds Lost Money While",
       "url": "https://navnoorbawa.substack.com/p/when-hedge-funds-lost-money-while",
@@ -2234,7 +2247,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t178",
+      "id": "t179",
       "slug": "how-multi-strategy-funds-generated",
       "title": "How Multi Strategy Funds Generated",
       "url": "https://navnoorbawa.substack.com/p/how-multi-strategy-funds-generated",
@@ -2245,7 +2258,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t179",
+      "id": "t180",
       "slug": "anatomy-of-a-468-million-collapse",
       "title": "Anatomy Of A 468 Million Collapse",
       "url": "https://navnoorbawa.substack.com/p/anatomy-of-a-468-million-collapse",
@@ -2258,7 +2271,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t180",
+      "id": "t181",
       "slug": "commodity-derivatives-pricing-engine",
       "title": "Commodity Derivatives Pricing Engine",
       "url": "https://navnoorbawa.substack.com/p/commodity-derivatives-pricing-engine",
@@ -2271,7 +2284,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t181",
+      "id": "t182",
       "slug": "the-56-billion-unwind-how-trumps",
       "title": "The 56 Billion Unwind How Trumps",
       "url": "https://navnoorbawa.substack.com/p/the-56-billion-unwind-how-trumps",
@@ -2282,7 +2295,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t182",
+      "id": "t183",
       "slug": "how-bridgewaters-pure-alpha-captured",
       "title": "How Bridgewaters Pure Alpha Captured",
       "url": "https://navnoorbawa.substack.com/p/how-bridgewaters-pure-alpha-captured",
@@ -2296,7 +2309,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t183",
+      "id": "t184",
       "slug": "statistical-arbitrage-the-quant-strategy",
       "title": "Statistical Arbitrage The Quant Strategy",
       "url": "https://navnoorbawa.substack.com/p/statistical-arbitrage-the-quant-strategy",
@@ -2310,7 +2323,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t184",
+      "id": "t185",
       "slug": "volatility-arbitrage-how-funds-profited",
       "title": "Volatility Arbitrage How Funds Profited",
       "url": "https://navnoorbawa.substack.com/p/volatility-arbitrage-how-funds-profited",
@@ -2324,7 +2337,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t185",
+      "id": "t186",
       "slug": "how-ackman-made-26b-installing-one",
       "title": "How ACKMAN Made 26b Installing One",
       "url": "https://navnoorbawa.substack.com/p/how-ackman-made-26b-installing-one",
@@ -2337,7 +2350,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t186",
+      "id": "t187",
       "slug": "inside-bridgewaters-pure-alpha-how",
       "title": "Inside Bridgewaters Pure Alpha How",
       "url": "https://navnoorbawa.substack.com/p/inside-bridgewaters-pure-alpha-how",
@@ -2351,7 +2364,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t187",
+      "id": "t188",
       "slug": "longshort-equity-dissecting-robert",
       "title": "Longshort Equity Dissecting Robert",
       "url": "https://navnoorbawa.substack.com/p/longshort-equity-dissecting-robert",
@@ -2364,7 +2377,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t188",
+      "id": "t189",
       "slug": "renaissance-technologies-the-100",
       "title": "RENAISSANCE Technologies The 100",
       "url": "https://navnoorbawa.substack.com/p/renaissance-technologies-the-100",
@@ -2377,7 +2390,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t189",
+      "id": "t190",
       "slug": "the-pod-shop-revolution-how-multi",
       "title": "The Pod Shop Revolution How Multi",
       "url": "https://navnoorbawa.substack.com/p/the-pod-shop-revolution-how-multi",
@@ -2388,7 +2401,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t190",
+      "id": "t191",
       "slug": "the-27-million-bet-that-returned",
       "title": "The 27 Million Bet That Returned",
       "url": "https://navnoorbawa.substack.com/p/the-27-million-bet-that-returned",
@@ -2399,7 +2412,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t191",
+      "id": "t192",
       "slug": "the-474-trillion-inflection-point",
       "title": "The 474 Trillion Inflection Point",
       "url": "https://navnoorbawa.substack.com/p/the-474-trillion-inflection-point",
@@ -2410,7 +2423,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t192",
+      "id": "t193",
       "slug": "the-242k-cross-trading-scheme-how",
       "title": "The 242k Cross Trading Scheme How",
       "url": "https://navnoorbawa.substack.com/p/the-242k-cross-trading-scheme-how",
@@ -2421,7 +2434,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t193",
+      "id": "t194",
       "slug": "how-de-shaw-generated-111-billion",
       "title": "How de SHAW Generated 111 Billion",
       "url": "https://navnoorbawa.substack.com/p/how-de-shaw-generated-111-billion",
@@ -2434,7 +2447,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t194",
+      "id": "t195",
       "slug": "the-20-billion-meltdown-how-two-junior",
       "title": "The 20 Billion Meltdown How TWO Junior",
       "url": "https://navnoorbawa.substack.com/p/the-20-billion-meltdown-how-two-junior",
@@ -2445,7 +2458,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t195",
+      "id": "t196",
       "slug": "how-ecor1-capital-lost-10-million",
       "title": "How Ecor1 CAPITAL Lost 10 Million",
       "url": "https://navnoorbawa.substack.com/p/how-ecor1-capital-lost-10-million",
@@ -2456,7 +2469,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t196",
+      "id": "t197",
       "slug": "weather-derivatives-market-explodes",
       "title": "Weather Derivatives Market Explodes",
       "url": "https://navnoorbawa.substack.com/p/weather-derivatives-market-explodes",
@@ -2467,7 +2480,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t197",
+      "id": "t198",
       "slug": "the-171-billion-cftc-enforcement",
       "title": "The 171 Billion CFTC Enforcement",
       "url": "https://navnoorbawa.substack.com/p/the-171-billion-cftc-enforcement",
@@ -2480,7 +2493,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t198",
+      "id": "t199",
       "slug": "the-40-trillion-reality-check-how",
       "title": "The 40 Trillion Reality Check How",
       "url": "https://navnoorbawa.substack.com/p/the-40-trillion-reality-check-how",
@@ -2491,7 +2504,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t199",
+      "id": "t200",
       "slug": "how-hedge-funds-made-and-lost-millions",
       "title": "How Hedge Funds Made And Lost Millions",
       "url": "https://navnoorbawa.substack.com/p/how-hedge-funds-made-and-lost-millions",
@@ -2502,7 +2515,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t200",
+      "id": "t201",
       "slug": "how-morgan-stanley-made-100m-through",
       "title": "How Morgan Stanley Made 100m Through",
       "url": "https://navnoorbawa.substack.com/p/how-morgan-stanley-made-100m-through",
@@ -2515,7 +2528,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t201",
+      "id": "t202",
       "slug": "how-josh-resnicks-1206-return-cracked",
       "title": "How Josh Resnicks 1206 Return Cracked",
       "url": "https://navnoorbawa.substack.com/p/how-josh-resnicks-1206-return-cracked",
@@ -2526,7 +2539,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t202",
+      "id": "t203",
       "slug": "how-jpmorgan-lost-617-million-in",
       "title": "How Jpmorgan Lost 617 Million In",
       "url": "https://navnoorbawa.substack.com/p/how-jpmorgan-lost-617-million-in",
@@ -2539,7 +2552,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t203",
+      "id": "t204",
       "slug": "riefs-16-billion-liberation-day-disaster",
       "title": "Riefs 16 Billion Liberation Day Disaster",
       "url": "https://navnoorbawa.substack.com/p/riefs-16-billion-liberation-day-disaster",
@@ -2550,7 +2563,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t204",
+      "id": "t205",
       "slug": "how-chris-rokos-made-1-billion-in",
       "title": "How Chris Rokos Made 1 Billion In",
       "url": "https://navnoorbawa.substack.com/p/how-chris-rokos-made-1-billion-in",
@@ -2561,7 +2574,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t205",
+      "id": "t206",
       "slug": "how-quants-made-4144-returns-in-2020",
       "title": "How Quants Made 4144 Returns In 2020",
       "url": "https://navnoorbawa.substack.com/p/how-quants-made-4144-returns-in-2020",
@@ -2574,7 +2587,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t206",
+      "id": "t207",
       "slug": "how-hsbc-made-millions-gaming-bond",
       "title": "How HSBC Made Millions Gaming Bond",
       "url": "https://navnoorbawa.substack.com/p/how-hsbc-made-millions-gaming-bond",
@@ -2588,7 +2601,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t207",
+      "id": "t208",
       "slug": "pre-ipo-arbitrage-fraud-how-120m",
       "title": "Pre IPO Arbitrage Fraud How 120m",
       "url": "https://navnoorbawa.substack.com/p/pre-ipo-arbitrage-fraud-how-120m",
@@ -2601,7 +2614,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t208",
+      "id": "t209",
       "slug": "how-societe-generales-a388m-mark",
       "title": "How Societe Generales A388m Mark",
       "url": "https://navnoorbawa.substack.com/p/how-societe-generales-a388m-mark",
@@ -2612,7 +2625,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t209",
+      "id": "t210",
       "slug": "singapores-8-billion-market-manipulation",
       "title": "Singapores 8 Billion Market Manipulation",
       "url": "https://navnoorbawa.substack.com/p/singapores-8-billion-market-manipulation",
@@ -2625,7 +2638,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t210",
+      "id": "t211",
       "slug": "how-totalenergies-lost-48m-trying",
       "title": "How Totalenergies Lost 48m Trying",
       "url": "https://navnoorbawa.substack.com/p/how-totalenergies-lost-48m-trying",
@@ -2636,7 +2649,7 @@
       "difficulty": "beginner"
     },
     {
-      "id": "t211",
+      "id": "t212",
       "slug": "how-trafigura-turned-a-100m-arbitrage",
       "title": "How Trafigura Turned A 100m Arbitrage",
       "url": "https://navnoorbawa.substack.com/p/how-trafigura-turned-a-100m-arbitrage",
@@ -2649,7 +2662,7 @@
       "difficulty": "advanced"
     },
     {
-      "id": "t212",
+      "id": "t213",
       "slug": "how-jpmorgan-made-172-million-manipulating",
       "title": "How Jpmorgan Made 172 Million Manipulating",
       "url": "https://navnoorbawa.substack.com/p/how-jpmorgan-made-172-million-manipulating",
@@ -2662,7 +2675,7 @@
       "difficulty": "intermediate"
     },
     {
-      "id": "t213",
+      "id": "t214",
       "slug": "the-650m-volmageddon-collapse-how",
       "title": "The 650m Volmageddon Collapse How",
       "url": "https://navnoorbawa.substack.com/p/the-650m-volmageddon-collapse-how",
@@ -2827,6 +2840,11 @@
       "count": 2
     },
     {
+      "id": "c_jane_street",
+      "name": "Jane Street",
+      "count": 1
+    },
+    {
       "id": "c_cram_r_rao_fisher_info",
       "name": "Cram\u00e9r-Rao / Fisher Info",
       "count": 1
@@ -2949,1954 +2967,1954 @@
   ],
   "edges": [
     {
-      "source": "t2",
-      "target": "t114",
+      "source": "t3",
+      "target": "t115",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t2",
-      "target": "t118",
+      "source": "t3",
+      "target": "t119",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t2",
-      "target": "t151",
+      "source": "t3",
+      "target": "t152",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t2",
-      "target": "t86",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t2",
+      "source": "t3",
       "target": "t87",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t2",
-      "target": "t121",
+      "source": "t3",
+      "target": "t88",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t2",
-      "target": "t182",
+      "source": "t3",
+      "target": "t122",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t2",
-      "target": "t186",
+      "source": "t3",
+      "target": "t183",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t86",
-      "target": "t121",
+      "source": "t3",
+      "target": "t187",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t87",
+      "target": "t122",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t86",
-      "target": "t182",
+      "source": "t87",
+      "target": "t183",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t86",
-      "target": "t186",
+      "source": "t87",
+      "target": "t187",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t86",
-      "target": "t20",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t86",
-      "target": "t87",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t86",
-      "target": "t91",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t86",
-      "target": "t125",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
       "source": "t87",
-      "target": "t121",
+      "target": "t21",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t87",
-      "target": "t182",
+      "target": "t88",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t87",
-      "target": "t186",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t87",
-      "target": "t91",
+      "target": "t92",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t87",
-      "target": "t94",
+      "target": "t126",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t87",
-      "target": "t125",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t91",
-      "target": "t132",
+      "source": "t88",
+      "target": "t122",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t91",
-      "target": "t193",
+      "source": "t88",
+      "target": "t183",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t91",
-      "target": "t121",
+      "source": "t88",
+      "target": "t187",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t88",
+      "target": "t92",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t91",
-      "target": "t143",
+      "source": "t88",
+      "target": "t95",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t91",
-      "target": "t182",
+      "source": "t88",
+      "target": "t126",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t91",
-      "target": "t186",
+      "source": "t92",
+      "target": "t133",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t194",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t122",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t114",
-      "target": "t118",
+      "source": "t92",
+      "target": "t144",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t183",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t92",
+      "target": "t187",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t115",
+      "target": "t119",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t114",
-      "target": "t151",
+      "source": "t115",
+      "target": "t152",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t118",
-      "target": "t151",
+      "source": "t119",
+      "target": "t152",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t121",
-      "target": "t182",
-      "weight": 1.0,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t121",
-      "target": "t186",
+      "source": "t122",
+      "target": "t183",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t121",
-      "target": "t20",
+      "source": "t122",
+      "target": "t187",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t122",
+      "target": "t21",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t121",
-      "target": "t125",
+      "source": "t122",
+      "target": "t126",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t125",
-      "target": "t182",
+      "source": "t126",
+      "target": "t183",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t125",
-      "target": "t186",
+      "source": "t126",
+      "target": "t187",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t125",
-      "target": "t2",
+      "source": "t126",
+      "target": "t3",
       "weight": 0.333,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t125",
-      "target": "t91",
+      "source": "t126",
+      "target": "t92",
       "weight": 0.333,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t182",
-      "target": "t186",
+      "source": "t183",
+      "target": "t187",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t182",
-      "target": "t20",
+      "source": "t183",
+      "target": "t21",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t186",
-      "target": "t20",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t7",
-      "target": "t163",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t7",
-      "target": "t140",
+      "source": "t187",
+      "target": "t21",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t8",
-      "target": "t187",
-      "weight": 1.0,
+      "target": "t164",
+      "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t9",
-      "target": "t13",
-      "weight": 0.6,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t9",
-      "target": "t22",
+      "source": "t8",
+      "target": "t141",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t9",
-      "target": "t31",
+      "target": "t188",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t10",
+      "target": "t14",
+      "weight": 0.6,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t10",
+      "target": "t23",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t10",
+      "target": "t32",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t9",
-      "target": "t11",
+      "source": "t10",
+      "target": "t12",
       "weight": 0.286,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t11",
-      "target": "t13",
+      "source": "t12",
+      "target": "t14",
       "weight": 0.5,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t11",
-      "target": "t22",
+      "source": "t12",
+      "target": "t23",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t11",
-      "target": "t23",
+      "source": "t12",
+      "target": "t24",
       "weight": 0.333,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t13",
+      "source": "t14",
+      "target": "t23",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t14",
+      "target": "t24",
+      "weight": 0.4,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t13",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t48",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t69",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t117",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t150",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
+      "target": "t162",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t11",
       "target": "t22",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
+      "source": "t11",
+      "target": "t86",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
       "source": "t13",
-      "target": "t23",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t12",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t47",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t68",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t116",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t149",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t161",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t21",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t10",
-      "target": "t85",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t12",
-      "target": "t47",
+      "target": "t48",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t12",
-      "target": "t68",
+      "source": "t13",
+      "target": "t69",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t12",
-      "target": "t116",
+      "source": "t13",
+      "target": "t117",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t12",
-      "target": "t149",
+      "source": "t13",
+      "target": "t150",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t12",
-      "target": "t161",
+      "source": "t13",
+      "target": "t162",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t12",
-      "target": "t21",
+      "source": "t13",
+      "target": "t22",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t12",
-      "target": "t85",
+      "source": "t13",
+      "target": "t86",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t159",
+      "source": "t22",
+      "target": "t160",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t47",
+      "source": "t22",
+      "target": "t48",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t68",
+      "source": "t22",
+      "target": "t69",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t116",
+      "source": "t22",
+      "target": "t117",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t149",
+      "source": "t22",
+      "target": "t150",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t161",
+      "source": "t22",
+      "target": "t162",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t21",
-      "target": "t133",
+      "source": "t22",
+      "target": "t134",
       "weight": 0.6,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t47",
-      "target": "t68",
+      "source": "t48",
+      "target": "t69",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t47",
-      "target": "t116",
+      "source": "t48",
+      "target": "t117",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t47",
-      "target": "t149",
+      "source": "t48",
+      "target": "t150",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t47",
-      "target": "t161",
+      "source": "t48",
+      "target": "t162",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t47",
-      "target": "t85",
+      "source": "t48",
+      "target": "t86",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t68",
-      "target": "t116",
+      "source": "t69",
+      "target": "t117",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t68",
-      "target": "t149",
+      "source": "t69",
+      "target": "t150",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t68",
-      "target": "t161",
+      "source": "t69",
+      "target": "t162",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t68",
-      "target": "t85",
+      "source": "t69",
+      "target": "t86",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t85",
-      "target": "t116",
+      "source": "t86",
+      "target": "t117",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t85",
-      "target": "t149",
+      "source": "t86",
+      "target": "t150",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t85",
-      "target": "t161",
+      "source": "t86",
+      "target": "t162",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t85",
-      "target": "t21",
+      "source": "t86",
+      "target": "t22",
       "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t116",
-      "target": "t149",
+      "source": "t117",
+      "target": "t150",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t116",
-      "target": "t161",
+      "source": "t117",
+      "target": "t162",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t133",
-      "target": "t159",
+      "source": "t134",
+      "target": "t160",
       "weight": 0.6,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t133",
-      "target": "t12",
+      "source": "t134",
+      "target": "t13",
       "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t133",
-      "target": "t47",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t133",
-      "target": "t68",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t133",
-      "target": "t116",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t133",
-      "target": "t149",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t133",
-      "target": "t161",
-      "weight": 0.4,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t147",
-      "weight": 0.75,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t169",
-      "weight": 0.75,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t184",
-      "weight": 0.75,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t12",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t47",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t68",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t116",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t142",
-      "target": "t149",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t169",
-      "weight": 1.0,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t184",
-      "weight": 1.0,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t12",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t47",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t68",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t116",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t147",
-      "target": "t149",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t149",
-      "target": "t161",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t159",
-      "target": "t12",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t159",
-      "target": "t47",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t159",
-      "target": "t68",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t159",
-      "target": "t116",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t159",
-      "target": "t149",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t159",
-      "target": "t161",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t12",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t47",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t68",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t116",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t149",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t161",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t10",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t160",
-      "target": "t21",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t169",
-      "target": "t184",
-      "weight": 1.0,
-      "shared": 3,
-      "type": "thread"
-    },
-    {
-      "source": "t169",
-      "target": "t12",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t169",
-      "target": "t47",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t169",
-      "target": "t68",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t169",
-      "target": "t116",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t169",
-      "target": "t149",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t184",
-      "target": "t12",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t184",
-      "target": "t47",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t184",
-      "target": "t68",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t184",
-      "target": "t116",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t184",
-      "target": "t149",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t18",
-      "target": "t45",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t19",
-      "target": "t59",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t19",
-      "target": "t144",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t19",
-      "target": "t179",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t19",
-      "target": "t213",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t59",
-      "target": "t144",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t59",
-      "target": "t179",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t59",
-      "target": "t213",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t144",
-      "target": "t179",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t144",
-      "target": "t213",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t179",
-      "target": "t213",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t36",
+      "source": "t134",
       "target": "t48",
-      "weight": 1.0,
+      "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t50",
-      "weight": 1.0,
+      "source": "t134",
+      "target": "t69",
+      "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t103",
-      "weight": 1.0,
+      "source": "t134",
+      "target": "t117",
+      "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t155",
-      "weight": 1.0,
+      "source": "t134",
+      "target": "t150",
+      "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t171",
-      "weight": 1.0,
+      "source": "t134",
+      "target": "t162",
+      "weight": 0.4,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t207",
-      "weight": 1.0,
+      "source": "t143",
+      "target": "t148",
+      "weight": 0.75,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t143",
+      "target": "t170",
+      "weight": 0.75,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t143",
+      "target": "t185",
+      "weight": 0.75,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t143",
+      "target": "t13",
+      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t211",
-      "weight": 1.0,
+      "source": "t143",
+      "target": "t48",
+      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t36",
-      "target": "t100",
-      "weight": 0.667,
+      "source": "t143",
+      "target": "t69",
+      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t48",
-      "target": "t50",
-      "weight": 1.0,
+      "source": "t143",
+      "target": "t117",
+      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t48",
-      "target": "t103",
-      "weight": 1.0,
+      "source": "t143",
+      "target": "t150",
+      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t48",
-      "target": "t155",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t48",
-      "target": "t171",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t48",
-      "target": "t207",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t48",
-      "target": "t211",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t48",
-      "target": "t100",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t50",
-      "target": "t103",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t50",
-      "target": "t155",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t50",
-      "target": "t171",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t50",
-      "target": "t207",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t50",
-      "target": "t211",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t50",
-      "target": "t100",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t100",
-      "target": "t103",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t100",
-      "target": "t155",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t100",
-      "target": "t171",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t100",
-      "target": "t207",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t100",
-      "target": "t211",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t103",
-      "target": "t155",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t103",
-      "target": "t171",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t103",
-      "target": "t207",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t103",
-      "target": "t211",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t155",
-      "target": "t171",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t155",
-      "target": "t207",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t155",
-      "target": "t211",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t156",
-      "target": "t157",
+      "source": "t148",
+      "target": "t170",
       "weight": 1.0,
       "shared": 3,
       "type": "thread"
     },
     {
-      "source": "t156",
-      "target": "t36",
+      "source": "t148",
+      "target": "t185",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t148",
+      "target": "t13",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t156",
+      "source": "t148",
       "target": "t48",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t156",
-      "target": "t50",
+      "source": "t148",
+      "target": "t69",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t156",
-      "target": "t103",
+      "source": "t148",
+      "target": "t117",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t156",
-      "target": "t155",
+      "source": "t148",
+      "target": "t150",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t156",
-      "target": "t171",
+      "source": "t150",
+      "target": "t162",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t160",
+      "target": "t13",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t156",
-      "target": "t207",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t157",
-      "target": "t36",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t157",
+      "source": "t160",
       "target": "t48",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t157",
-      "target": "t50",
+      "source": "t160",
+      "target": "t69",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t157",
-      "target": "t103",
+      "source": "t160",
+      "target": "t117",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t157",
-      "target": "t155",
+      "source": "t160",
+      "target": "t150",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t157",
-      "target": "t171",
+      "source": "t160",
+      "target": "t162",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t157",
-      "target": "t207",
+      "source": "t161",
+      "target": "t13",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t171",
-      "target": "t207",
+      "source": "t161",
+      "target": "t48",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t161",
+      "target": "t69",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t161",
+      "target": "t117",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t161",
+      "target": "t150",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t161",
+      "target": "t162",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t161",
+      "target": "t11",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t161",
+      "target": "t22",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t185",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t13",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t48",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t69",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t117",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t170",
+      "target": "t150",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t185",
+      "target": "t13",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t185",
+      "target": "t48",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t185",
+      "target": "t69",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t185",
+      "target": "t117",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t185",
+      "target": "t150",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t19",
+      "target": "t46",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t171",
-      "target": "t211",
+      "source": "t20",
+      "target": "t60",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t207",
-      "target": "t211",
+      "source": "t20",
+      "target": "t145",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t44",
+      "source": "t20",
+      "target": "t180",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t20",
+      "target": "t214",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t60",
+      "target": "t145",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t60",
+      "target": "t180",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t60",
+      "target": "t214",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t145",
+      "target": "t180",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t145",
+      "target": "t214",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t180",
+      "target": "t214",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t37",
+      "target": "t49",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t37",
       "target": "t51",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t44",
-      "target": "t102",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t44",
-      "target": "t158",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t44",
-      "target": "t174",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t44",
-      "target": "t205",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t44",
-      "target": "t131",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t51",
-      "target": "t102",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t51",
-      "target": "t158",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t51",
-      "target": "t174",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t51",
-      "target": "t205",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t51",
-      "target": "t131",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t102",
-      "target": "t158",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t102",
-      "target": "t174",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t102",
-      "target": "t205",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t102",
-      "target": "t131",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t131",
-      "target": "t130",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t131",
-      "target": "t158",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t131",
-      "target": "t174",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t131",
-      "target": "t205",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t158",
-      "target": "t174",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t158",
-      "target": "t205",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t174",
-      "target": "t205",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t46",
+      "source": "t37",
       "target": "t104",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t46",
-      "target": "t166",
+      "source": "t37",
+      "target": "t156",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t46",
-      "target": "t66",
+      "source": "t37",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t37",
+      "target": "t208",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t37",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t37",
+      "target": "t101",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t46",
-      "target": "t74",
+      "source": "t49",
+      "target": "t51",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t104",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t156",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t208",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t49",
+      "target": "t101",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t46",
-      "target": "t206",
+      "source": "t51",
+      "target": "t104",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t51",
+      "target": "t156",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t51",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t51",
+      "target": "t208",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t51",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t51",
+      "target": "t101",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t66",
+      "source": "t101",
       "target": "t104",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t66",
-      "target": "t166",
+      "source": "t101",
+      "target": "t156",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t66",
-      "target": "t74",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t66",
-      "target": "t206",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t74",
-      "target": "t104",
+      "source": "t101",
+      "target": "t172",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t74",
-      "target": "t166",
+      "source": "t101",
+      "target": "t208",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t74",
-      "target": "t206",
-      "weight": 0.5,
+      "source": "t101",
+      "target": "t212",
+      "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t104",
-      "target": "t166",
+      "target": "t156",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t104",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t104",
+      "target": "t208",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t104",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t172",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t208",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t156",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t158",
+      "weight": 1.0,
+      "shared": 3,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t37",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t49",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t51",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t104",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t156",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t172",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t157",
+      "target": "t208",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t37",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t49",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t51",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t104",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t156",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t172",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t158",
+      "target": "t208",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t172",
+      "target": "t208",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t172",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t208",
+      "target": "t212",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t52",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t103",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t159",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t175",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t45",
+      "target": "t132",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t52",
+      "target": "t103",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t52",
+      "target": "t159",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t52",
+      "target": "t175",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t52",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t52",
+      "target": "t132",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t103",
+      "target": "t159",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t103",
+      "target": "t175",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t103",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t103",
+      "target": "t132",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t131",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t159",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
+      "target": "t175",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t132",
       "target": "t206",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t166",
-      "target": "t206",
-      "weight": 0.667,
+      "source": "t159",
+      "target": "t175",
+      "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t65",
+      "source": "t159",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t175",
+      "target": "t206",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t105",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
+      "target": "t167",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t47",
       "target": "t67",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t65",
-      "target": "t175",
+      "source": "t47",
+      "target": "t75",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t65",
-      "target": "t180",
+      "source": "t47",
+      "target": "t207",
       "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t65",
-      "target": "t80",
-      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t67",
-      "target": "t175",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t67",
-      "target": "t180",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t67",
-      "target": "t80",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t80",
-      "target": "t175",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t80",
-      "target": "t180",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t175",
-      "target": "t180",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t81",
-      "target": "t83",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t83",
       "target": "t105",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t83",
-      "target": "t188",
+      "source": "t67",
+      "target": "t167",
       "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t67",
+      "target": "t75",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t67",
+      "target": "t207",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t75",
+      "target": "t105",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t75",
+      "target": "t167",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t75",
+      "target": "t207",
+      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t105",
-      "target": "t188",
+      "target": "t167",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t94",
+      "source": "t105",
+      "target": "t207",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t167",
+      "target": "t207",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t68",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t176",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t181",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t66",
+      "target": "t81",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t68",
+      "target": "t176",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t68",
+      "target": "t181",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t68",
+      "target": "t81",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t81",
+      "target": "t176",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t81",
+      "target": "t181",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t176",
+      "target": "t181",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t82",
+      "target": "t84",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t84",
       "target": "t106",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t94",
-      "target": "t107",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t94",
-      "target": "t132",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t94",
-      "target": "t91",
-      "weight": 0.333,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t143",
-      "target": "t193",
       "weight": 0.667,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t93",
-      "target": "t98",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t93",
-      "target": "t126",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t93",
-      "target": "t127",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t93",
-      "target": "t173",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t93",
-      "target": "t183",
+      "source": "t84",
+      "target": "t189",
       "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t98",
-      "target": "t126",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t98",
-      "target": "t127",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t98",
-      "target": "t173",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t98",
-      "target": "t183",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t126",
-      "target": "t127",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t126",
-      "target": "t173",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t126",
-      "target": "t183",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t127",
-      "target": "t173",
-      "weight": 1.0,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t127",
-      "target": "t183",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t173",
-      "target": "t183",
-      "weight": 0.667,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t183",
-      "target": "t147",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t183",
-      "target": "t169",
-      "weight": 0.5,
-      "shared": 2,
-      "type": "thread"
-    },
-    {
-      "source": "t183",
-      "target": "t184",
-      "weight": 0.5,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t106",
-      "target": "t107",
+      "target": "t189",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t97",
+      "source": "t95",
+      "target": "t107",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t95",
+      "target": "t108",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t95",
+      "target": "t133",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t95",
+      "target": "t92",
+      "weight": 0.333,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t144",
+      "target": "t194",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t94",
       "target": "t99",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t97",
-      "target": "t136",
+      "source": "t94",
+      "target": "t127",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t94",
+      "target": "t128",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t94",
+      "target": "t174",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t94",
+      "target": "t184",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t127",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
       "source": "t99",
-      "target": "t136",
+      "target": "t128",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
     },
     {
-      "source": "t202",
-      "target": "t212",
+      "source": "t99",
+      "target": "t174",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t99",
+      "target": "t184",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t127",
+      "target": "t128",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t127",
+      "target": "t174",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t127",
+      "target": "t184",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t128",
+      "target": "t174",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t128",
+      "target": "t184",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t174",
+      "target": "t184",
+      "weight": 0.667,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t184",
+      "target": "t148",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t184",
+      "target": "t170",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t184",
+      "target": "t185",
+      "weight": 0.5,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t107",
+      "target": "t108",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t98",
+      "target": "t100",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t98",
+      "target": "t137",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t100",
+      "target": "t137",
+      "weight": 1.0,
+      "shared": 2,
+      "type": "thread"
+    },
+    {
+      "source": "t203",
+      "target": "t213",
       "weight": 1.0,
       "shared": 2,
       "type": "thread"
@@ -4906,271 +4924,271 @@
     {
       "name": "Quant Volatility Deep Dive",
       "threads": [
-        "t1",
-        "t10",
-        "t12",
-        "t37",
-        "t47",
-        "t68",
-        "t142",
-        "t147",
-        "t149",
-        "t160"
+        "t2",
+        "t11",
+        "t13",
+        "t38",
+        "t48",
+        "t69",
+        "t143",
+        "t148",
+        "t150",
+        "t161"
       ]
     },
     {
       "name": "Hedge Fund Alpha Tour",
       "threads": [
-        "t2",
-        "t6",
-        "t8",
+        "t0",
+        "t3",
+        "t7",
         "t9",
-        "t13",
+        "t10",
         "t14",
         "t15",
-        "t20",
+        "t16",
         "t21",
-        "t25"
+        "t22"
       ]
     },
     {
       "name": "Geopolitical Alpha",
       "threads": [
-        "t7",
         "t8",
         "t9",
-        "t11",
-        "t13",
+        "t10",
+        "t12",
         "t14",
-        "t22",
+        "t15",
         "t23",
-        "t125"
+        "t24",
+        "t126"
       ]
     },
     {
       "name": "Credit, Distressed & Activism",
       "threads": [
-        "t18",
-        "t42",
-        "t45",
-        "t59",
-        "t66",
-        "t144",
-        "t179",
-        "t213"
+        "t19",
+        "t43",
+        "t46",
+        "t60",
+        "t67",
+        "t145",
+        "t180",
+        "t214"
       ]
     },
     {
       "name": "Microstructure & Regulation",
       "threads": [
-        "t2",
-        "t24",
-        "t48",
-        "t50",
-        "t80",
-        "t100",
-        "t103",
-        "t114",
-        "t118",
-        "t135"
+        "t3",
+        "t25",
+        "t49",
+        "t51",
+        "t81",
+        "t101",
+        "t104",
+        "t115",
+        "t119",
+        "t136"
       ]
     },
     {
       "name": "Alternative Markets",
       "threads": [
-        "t3",
-        "t97",
+        "t4",
         "t98",
         "t99",
-        "t123",
-        "t138",
-        "t155",
+        "t100",
+        "t124",
+        "t139",
         "t156",
         "t157",
-        "t206"
+        "t158",
+        "t207"
       ]
     },
     {
       "name": "Commodities & Energy",
       "threads": [
-        "t11",
-        "t13",
-        "t20",
-        "t23",
-        "t31",
-        "t46",
-        "t65",
-        "t67",
-        "t80",
-        "t89"
+        "t12",
+        "t14",
+        "t21",
+        "t24",
+        "t32",
+        "t47",
+        "t66",
+        "t68",
+        "t81",
+        "t90"
       ]
     }
   ],
   "quizzes": [
     {
-      "id": "q_t1",
-      "thread": "t1",
-      "question": "Which concepts does \"The Cramer-Rao Bound Killed LTCM. It's Why the SEC Just Fined Two Sigma $90M.\" primarily touch?",
-      "answer": "Cram\u00e9r-Rao / Fisher Info",
-      "cluster": "Quant Methods"
-    },
-    {
-      "id": "q_t10",
-      "thread": "t10",
-      "question": "Which concepts does \"Joint SPX/VIX Calibration Follow-Up: Bates SVJ Degenerates on Daily Data\" primarily touch?",
-      "answer": "Volatility, Calibration",
-      "cluster": "Quant Methods"
-    },
-    {
-      "id": "q_t12",
-      "thread": "t12",
-      "question": "Which concepts does \"The Holy Grail of Volatility Modelling: What Happens When You Actually Try to Build It\" primarily touch?",
-      "answer": "Volatility",
-      "cluster": "Quant Methods"
-    },
-    {
-      "id": "q_t2",
-      "thread": "t2",
-      "question": "Which concepts does \"Market Making Alpha: How Virtu Won 1,237 Days \u2014 and Why Jane Street Keeps Ending Up in Court\" primarily touch?",
-      "answer": "Virtu, Market Making, Performance",
-      "cluster": "Hedge Fund Strategy"
-    },
-    {
-      "id": "q_t18",
-      "thread": "t18",
-      "question": "Which concepts does \"ELLIOTT Management Azoria And The\" primarily touch?",
-      "answer": "Elliott Management",
-      "cluster": "Hedge Fund Strategy"
-    },
-    {
-      "id": "q_t20",
-      "thread": "t20",
-      "question": "Which concepts does \"Gold 65 Silver 144 In 2025 How BRIDGEWATER\" primarily touch?",
-      "answer": "Bridgewater, Commodities",
+      "id": "q_t0",
+      "thread": "t0",
+      "question": "Which concepts does \"How Hrt And JANE Street Made 225b\" primarily touch?",
+      "answer": "Jane Street",
       "cluster": "Hedge Fund Strategy"
     },
     {
       "id": "q_t3",
       "thread": "t3",
+      "question": "Which concepts does \"Market Making Alpha: How Virtu Won 1,237 Days \u2014 and Why Jane Street Keeps Ending Up in Court\" primarily touch?",
+      "answer": "Virtu, Market Making, Performance",
+      "cluster": "Hedge Fund Strategy"
+    },
+    {
+      "id": "q_t19",
+      "thread": "t19",
+      "question": "Which concepts does \"ELLIOTT Management Azoria And The\" primarily touch?",
+      "answer": "Elliott Management",
+      "cluster": "Hedge Fund Strategy"
+    },
+    {
+      "id": "q_t2",
+      "thread": "t2",
+      "question": "Which concepts does \"The Cramer-Rao Bound Killed LTCM. It's Why the SEC Just Fined Two Sigma $90M.\" primarily touch?",
+      "answer": "Cram\u00e9r-Rao / Fisher Info",
+      "cluster": "Quant Methods"
+    },
+    {
+      "id": "q_t11",
+      "thread": "t11",
+      "question": "Which concepts does \"Joint SPX/VIX Calibration Follow-Up: Bates SVJ Degenerates on Daily Data\" primarily touch?",
+      "answer": "Volatility, Calibration",
+      "cluster": "Quant Methods"
+    },
+    {
+      "id": "q_t13",
+      "thread": "t13",
+      "question": "Which concepts does \"The Holy Grail of Volatility Modelling: What Happens When You Actually Try to Build It\" primarily touch?",
+      "answer": "Volatility",
+      "cluster": "Quant Methods"
+    },
+    {
+      "id": "q_t4",
+      "thread": "t4",
       "question": "Which concepts does \"Axie Infinity, CS2 Skins, and Roblox: How Hedge Funds Built Gaming Currency Alpha\" primarily touch?",
       "answer": "Gaming Markets",
       "cluster": "Alternative Markets"
     },
     {
-      "id": "q_t97",
-      "thread": "t97",
+      "id": "q_t98",
+      "thread": "t98",
       "question": "Which concepts does \"Polymarket Prediction System V2 From\" primarily touch?",
       "answer": "Prediction Markets",
       "cluster": "Alternative Markets"
     },
     {
-      "id": "q_t99",
-      "thread": "t99",
+      "id": "q_t100",
+      "thread": "t100",
       "question": "Which concepts does \"The Math Of Prediction Markets Binary\" primarily touch?",
       "answer": "Prediction Markets",
       "cluster": "Alternative Markets"
     },
     {
-      "id": "q_t7",
-      "thread": "t7",
+      "id": "q_t8",
+      "thread": "t8",
       "question": "Which concepts does \"Non-Deliverable Forwards (NDFs) and Emerging Market Currency Alpha\" primarily touch?",
       "answer": "FX, Forwards/Futures",
       "cluster": "FX & EM"
     },
     {
-      "id": "q_t140",
-      "thread": "t140",
+      "id": "q_t141",
+      "thread": "t141",
       "question": "Which concepts does \"How Futures First Generates Returns\" primarily touch?",
       "answer": "Forwards/Futures, Performance",
       "cluster": "FX & EM"
     },
     {
-      "id": "q_t163",
-      "thread": "t163",
+      "id": "q_t164",
+      "thread": "t164",
       "question": "Which concepts does \"The Multi Million Dollar Misdiagnosis\" primarily touch?",
       "answer": "FX",
       "cluster": "FX & EM"
     },
     {
-      "id": "q_t9",
-      "thread": "t9",
+      "id": "q_t10",
+      "thread": "t10",
       "question": "Which concepts does \"Iran War Hedge Fund Alpha Map: Every Winner, Every Loser\" primarily touch?",
       "answer": "Iran War, Geopolitics, Performance",
       "cluster": "Macro & Geopolitics"
     },
     {
-      "id": "q_t11",
-      "thread": "t11",
+      "id": "q_t12",
+      "thread": "t12",
       "question": "Which concepts does \"India's Oil-War Market Crisis: 30-Day Nifty Outlook\" primarily touch?",
       "answer": "Commodities, India, Geopolitics, Crisis / Drawdown",
       "cluster": "Macro & Geopolitics"
     },
     {
-      "id": "q_t13",
-      "thread": "t13",
+      "id": "q_t14",
+      "thread": "t14",
       "question": "Which concepts does \"Iran War Oil Shock, 292.8% Hedge Fund Leverage, and Powell's Last FOMC\" primarily touch?",
       "answer": "Commodities, Iran War, Geopolitics",
       "cluster": "Macro & Geopolitics"
     },
     {
-      "id": "q_t36",
-      "thread": "t36",
+      "id": "q_t37",
+      "thread": "t37",
       "question": "Which concepts does \"How Hedge Funds Basis Traders And\" primarily touch?",
       "answer": "Arbitrage",
       "cluster": "Microstructure & Regulation"
     },
     {
-      "id": "q_t48",
-      "thread": "t48",
+      "id": "q_t49",
+      "thread": "t49",
       "question": "Which concepts does \"The Illiquidity Arbitrage Playbook\" primarily touch?",
       "answer": "Arbitrage",
       "cluster": "Microstructure & Regulation"
     },
     {
-      "id": "q_t50",
-      "thread": "t50",
+      "id": "q_t51",
+      "thread": "t51",
       "question": "Which concepts does \"Music Royalty Tax Arbitrage How Institutional\" primarily touch?",
       "answer": "Arbitrage",
       "cluster": "Microstructure & Regulation"
     },
     {
-      "id": "q_t42",
-      "thread": "t42",
+      "id": "q_t43",
+      "thread": "t43",
       "question": "Which concepts does \"BLUE OWL CAPITAL OBDC Merger Failure\" primarily touch?",
       "answer": "Blue Owl, Private Credit, Event-Driven",
       "cluster": "Credit & Private Credit"
     },
     {
-      "id": "q_t46",
-      "thread": "t46",
+      "id": "q_t47",
+      "thread": "t47",
       "question": "Which concepts does \"Alphabets 20 Billion Bond Offering\" primarily touch?",
       "answer": "Fixed Income",
       "cluster": "Credit & Private Credit"
     },
     {
-      "id": "q_t66",
-      "thread": "t66",
+      "id": "q_t67",
+      "thread": "t67",
       "question": "Which concepts does \"20 Billion In 3 Credit Trades How\" primarily touch?",
       "answer": "Fixed Income, Credit",
       "cluster": "Credit & Private Credit"
     },
     {
-      "id": "q_t65",
-      "thread": "t65",
+      "id": "q_t66",
+      "thread": "t66",
       "question": "Which concepts does \"Copper TCRCS Hit 60 Why Andurand\" primarily touch?",
       "answer": "Andurand, Commodities",
       "cluster": "Commodities"
     },
     {
-      "id": "q_t67",
-      "thread": "t67",
+      "id": "q_t68",
+      "thread": "t68",
       "question": "Which concepts does \"Inside The Oil Trades That Generated\" primarily touch?",
       "answer": "Commodities",
       "cluster": "Commodities"
     },
     {
-      "id": "q_t80",
-      "thread": "t80",
+      "id": "q_t81",
+      "thread": "t81",
       "question": "Which concepts does \"Eight Banks Paid 13b For Silver Manipulation\" primarily touch?",
       "answer": "Commodities, Court / Legal",
       "cluster": "Commodities"
