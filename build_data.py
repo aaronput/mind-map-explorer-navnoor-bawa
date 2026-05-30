@@ -19,13 +19,18 @@ Strategy:
     with the slug-derived focus phrase as the answer side).
 """
 
-import json, re, xml.etree.ElementTree as ET
+import json, re, time, html as html_lib
+import xml.etree.ElementTree as ET
+import urllib.request, urllib.error
 from collections import defaultdict, Counter
 from itertools import combinations
 from pathlib import Path
 
 SITEMAP = Path("/tmp/nb_sitemap.xml")
 OUT     = Path(__file__).with_name("data.json")
+TITLE_CACHE_FILE = Path(__file__).with_name("title_cache.json")
+SCRAPE_DELAY = 1.8   # seconds between Substack requests (was 0.4, got rate-limited)
+USER_AGENT   = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 MindMapBuilder/1.0"
 
 # ---------------------------------------------------------------------------
 # 1. Parse sitemap
@@ -43,6 +48,71 @@ for u in tree.getroot().findall("s:url", NS):
 
 posts.sort(key=lambda p: p["date"], reverse=True)
 print(f"Loaded {len(posts)} posts")
+
+# ---------------------------------------------------------------------------
+# 1b. Real title/subtitle scraper (cached)
+# ---------------------------------------------------------------------------
+# Cache shape: { slug: {"title": "...", "subtitle": "...", "fetched": "ISO ts"} }
+# First run fetches everything; subsequent runs only fetch slugs not in cache.
+
+def load_title_cache():
+    if TITLE_CACHE_FILE.exists():
+        try:
+            return json.loads(TITLE_CACHE_FILE.read_text())
+        except Exception:
+            return {}
+    return {}
+
+def save_title_cache(cache):
+    TITLE_CACHE_FILE.write_text(json.dumps(cache, indent=2, sort_keys=True))
+
+META_RE = {
+    "og:title":       re.compile(r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']+)["\']', re.I),
+    "og:description": re.compile(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']', re.I),
+    "tw:title":       re.compile(r'<meta[^>]+name=["\']twitter:title["\'][^>]+content=["\']([^"\']+)["\']', re.I),
+    "tw:description": re.compile(r'<meta[^>]+name=["\']twitter:description["\'][^>]+content=["\']([^"\']+)["\']', re.I),
+    "title_tag":      re.compile(r'<title[^>]*>([^<]+)</title>', re.I),
+}
+
+def _decode(s):
+    """Unescape HTML entities so the title looks like a person typed it."""
+    return html_lib.unescape(s).strip() if s else ""
+
+def fetch_meta(url, timeout=15):
+    """Return {'title': ..., 'subtitle': ...} from a Substack post URL."""
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        body = r.read(200_000).decode("utf-8", errors="replace")  # head is plenty
+    # Prefer og: tags; fall back to twitter:, then bare <title>
+    title    = (META_RE["og:title"].search(body) or META_RE["tw:title"].search(body) or META_RE["title_tag"].search(body))
+    subtitle = (META_RE["og:description"].search(body) or META_RE["tw:description"].search(body))
+    t = _decode(title.group(1)) if title else ""
+    s = _decode(subtitle.group(1)) if subtitle else ""
+    # Substack sometimes appends " - by Navnoor Bawa" or publication name; strip
+    t = re.sub(r'\s*[-|·]\s*Navnoor Bawa\s*$', '', t).strip()
+    return {"title": t, "subtitle": s}
+
+cache = load_title_cache()
+# An entry counts as "cached" only if it has a non-empty title — errored
+# fetches (rate-limit, 502, etc.) get retried on subsequent runs.
+to_fetch = [p for p in posts if not (cache.get(p["slug"]) or {}).get("title")]
+if to_fetch:
+    print(f"Scraping {len(to_fetch)} new posts (cache has {len(cache)} entries)...")
+    for i, p in enumerate(to_fetch, 1):
+        try:
+            meta = fetch_meta(p["url"])
+            cache[p["slug"]] = {**meta, "fetched": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
+            if i % 10 == 0 or i == len(to_fetch):
+                print(f"  [{i}/{len(to_fetch)}] {p['slug'][:50]} → {meta['title'][:60]}")
+                save_title_cache(cache)  # periodic flush so a crash mid-scrape doesn't lose work
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
+            print(f"  [{i}/{len(to_fetch)}] ✗ {p['slug']}: {e}")
+            cache[p["slug"]] = {"title":"", "subtitle":"", "error":str(e), "fetched": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
+        time.sleep(SCRAPE_DELAY)
+    save_title_cache(cache)
+    print(f"Title cache now has {len(cache)} entries.")
+else:
+    print("Title cache is up to date.")
 
 # ---------------------------------------------------------------------------
 # 2. Known posts (from archive scrape) — true titles + subtitles
@@ -229,12 +299,16 @@ CLUSTER_COLORS = {
   "Other":                      "#9c755f",
 }
 
-def extract_concepts(slug):
-    s = slug.lower()
+def extract_concepts(text):
+    """Find taxonomy concepts present in `text` (slug or slug+title blob).
+    Treats both '-' and whitespace as token boundaries so it works on slugs
+    like 'how-hedge-funds-x' AND real titles like 'How Hedge Funds X'."""
+    # Normalize whitespace, punctuation -> '-' so the same boundary rules apply
+    s = re.sub(r"[^a-z0-9\-]+", "-", text.lower())
+    s = re.sub(r"-+", "-", s).strip("-")
     hits = []
     for concept, patterns in TAXONOMY.items():
         for p in patterns:
-            # match as whole token (slug uses '-' separators); allow substring for multi-word patterns
             if "-" in p:
                 if p in s:
                     hits.append(concept); break
@@ -265,12 +339,29 @@ threads = []
 concept_set = Counter()
 for idx, p in enumerate(posts):
     slug = p["slug"]
-    title = slug_to_title(slug)
-    concepts = extract_concepts(slug)
-    cluster = assign_cluster(concepts)
-    diff = infer_difficulty(concepts, slug)
-    known = KNOWN.get(slug, {})
-    summary = known.get("summary") or f"Substack post · {p['date']}"
+    # Title precedence: scraped real title > hand-curated KNOWN > slug-derived
+    cached = cache.get(slug) or {}
+    real_title    = cached.get("title")    or ""
+    real_subtitle = cached.get("subtitle") or ""
+    if real_title:
+        title = real_title
+    elif slug in KNOWN:
+        title = KNOWN[slug]["title"]
+    else:
+        title = slug_to_title(slug)
+    if real_subtitle:
+        summary = real_subtitle
+    elif slug in KNOWN:
+        summary = KNOWN[slug]["summary"]
+    else:
+        summary = f"Substack post · {p['date']}"
+
+    # Build concepts from BOTH the slug AND the real title — real titles surface
+    # concepts (e.g. "Apollo", "carry trade") that the slug abbreviates away.
+    concepts = extract_concepts(slug + " " + real_title.lower())
+    cluster  = assign_cluster(concepts)
+    diff     = infer_difficulty(concepts, slug)
+
     threads.append({
         "id": f"t{idx}",
         "slug": slug,
